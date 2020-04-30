@@ -319,7 +319,7 @@ fips,state,county_name,urbanicity,region,division,commuting_zone,metro_area,land
 10001,DE,Kent County,small/mid,South,South Atlantic,180.0,20100.0,586.322,Delaware,180786.0
 10003,DE,New Castle County,suburban,South,South Atlantic,196.0,37980.0,426.315,Delaware,558753.0
 10005,DE,Sussex County,small/mid,South,South Atlantic,180.0,41540.0,936.113,Delaware,234225.0
-11001,DC,District of Columbia,urban,South,South Atlantic,74.0,47900.0,61.14,,705749.0
+11001,DC,District of Columbia,urban,South,South Atlantic,74.0,47900.0,61.14,District of Columbia,705749.0
 12001,FL,Alachua County,small/mid,South,South Atlantic,205.0,23540.0,875.062,Florida,269043.0
 12003,FL,Baker County,suburban,South,South Atlantic,64.0,27260.0,585.23,Florida,29210.0
 12005,FL,Bay County,small/mid,South,South Atlantic,306.0,37460.0,758.461,Florida,174705.0
