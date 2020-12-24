@@ -1,5 +1,5 @@
 {
-  "date": "2020-12-23",
+  "date": "2020-12-24",
   "jailChangeData": [
     {
       "april": "",
@@ -465,10 +465,10 @@
     },
     {
       "county": "Northampton",
-      "date": "12/18/2020",
+      "date": "12/22/2020",
       "fips": "42095",
-      "source": "https://www.wfmz.com/news/area/lehighvalley/dozens-of-lehigh-county-jail-workers-out-sick-with-covid-19/article_64ec6d40-40a1-11eb-8333-ebe8ba16e331.html",
-      "source_name": "WFMZ"
+      "source": "https://dailyvoice.com/pennsylvania/northampton/news/covid-19-ravages-northampton-county-prison-with-22-more-inmates-testing-positive/800216/",
+      "source_name": "Daily Voice"
     },
     {
       "county": "Tioga",
@@ -553,6 +553,13 @@
       "fips": "42017",
       "source": "http://levittownnow.com/2020/12/18/covid-19-cases-surge-at-bucks-county-correctional-facility/",
       "source_name": "Levittown Now"
+    },
+    {
+      "county": "Dauphin",
+      "date": "12/9/2020",
+      "fips": "42043",
+      "source": "https://lancasteronline.com/news/health/testing-at-dauphin-county-prison-finds-more-than-100-inmates-employees-with-covid-19/article_a4c5a8bc-961e-54f0-b5bc-96d089d6ca92.html",
+      "source_name": "Lancaster Online"
     }
   ],
   "sciCovidData": [
