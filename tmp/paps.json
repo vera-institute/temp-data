@@ -1,5 +1,5 @@
 {
-  "date": "2021-01-06",
+  "date": "2021-01-07",
   "jailChangeData": [
     {
       "april": "",
@@ -394,6 +394,69 @@
   ],
   "jailCovidData": [
     {
+      "county": "Chester",
+      "date": "1/6/2021",
+      "fips": "42029",
+      "source": "https://www.chesco.org/175/Prison",
+      "source_name": "Chester County Prison"
+    },
+    {
+      "county": "Luzerne",
+      "date": "1/4/2021",
+      "fips": "42079",
+      "source": "https://www.pahomepage.com/top-stories/luzerne-county-prison-moves-forward-with-covid-safety-efforts-keeps-cases-low/",
+      "source_name": "PAhomepage.com"
+    },
+    {
+      "county": "Lehigh",
+      "date": "1/2/2021",
+      "fips": "42077",
+      "source": "https://www.mcall.com/coronavirus/mc-nws-coronavirus-jails-prisons-20210102-lmw4jymixjbmxbwx7hu72ig6e4-story.html",
+      "source_name": "The Morning Call"
+    },
+    {
+      "county": "Monroe",
+      "date": "1/2/2021",
+      "fips": "42089",
+      "source": "https://www.mcall.com/coronavirus/mc-nws-coronavirus-jails-prisons-20210102-lmw4jymixjbmxbwx7hu72ig6e4-story.html",
+      "source_name": "The Morning Call"
+    },
+    {
+      "county": "Westmoreland",
+      "date": "12/29/2020",
+      "fips": "42129",
+      "source": "https://pittsburgh.cbslocal.com/2020/12/29/27-more-inmates-at-westmoreland-county-prison-coronavirus/",
+      "source_name": "KDKA - CBS Pittsburgh"
+    },
+    {
+      "county": "Northampton",
+      "date": "12/22/2020",
+      "fips": "42095",
+      "source": "https://dailyvoice.com/pennsylvania/northampton/news/covid-19-ravages-northampton-county-prison-with-22-more-inmates-testing-positive/800216/",
+      "source_name": "Daily Voice"
+    },
+    {
+      "county": "Bucks",
+      "date": "12/18/2020",
+      "fips": "42017",
+      "source": "http://levittownnow.com/2020/12/18/covid-19-cases-surge-at-bucks-county-correctional-facility/",
+      "source_name": "Levittown Now"
+    },
+    {
+      "county": "York",
+      "date": "12/11/2020",
+      "fips": "42133",
+      "source": "https://www.witf.org/2020/12/11/demonstrators-in-york-call-for-releases-from-immigration-detention/",
+      "source_name": "WITF"
+    },
+    {
+      "county": "Clinton",
+      "date": "12/11/2020",
+      "fips": "42035",
+      "source": "https://www.witf.org/2020/12/11/demonstrators-in-york-call-for-releases-from-immigration-detention/",
+      "source_name": "WITF"
+    },
+    {
       "county": "Blair",
       "date": "12/10/2020",
       "fips": "42013",
@@ -401,11 +464,11 @@
       "source_name": "Pennsylvania Prison Society"
     },
     {
-      "county": "Lehigh",
-      "date": "12/20/2020",
-      "fips": "42077",
-      "source": "https://www.lehighvalleylive.com/coronavirus/2020/12/healthy-and-sick-kept-together-at-lehigh-county-jail-as-covid-19-cases-double-inmates-say.html",
-      "source_name": "Lehigh Valley Live"
+      "county": "Dauphin",
+      "date": "12/9/2020",
+      "fips": "42043",
+      "source": "https://lancasteronline.com/news/health/testing-at-dauphin-county-prison-finds-more-than-100-inmates-employees-with-covid-19/article_a4c5a8bc-961e-54f0-b5bc-96d089d6ca92.html",
+      "source_name": "Lancaster Online"
     },
     {
       "county": "Allegheny",
@@ -413,13 +476,6 @@
       "fips": "42003",
       "source": "https://www.post-gazette.com/news/crime-courts/2020/12/08/allegheny-county-jail-acj-covid-19-coronavirus-cases-staff-inmates/stories/202012080108",
       "source_name": "Pittsburgh Post-Gazette"
-    },
-    {
-      "county": "Westmoreland",
-      "date": "12/7/2020",
-      "fips": "42129",
-      "source": "https://triblive.com/local/westmoreland/virus-spreads-quickly-among-westmoreland-county-prison-inmates/",
-      "source_name": "TribLive"
     },
     {
       "county": "Montgomery",
@@ -443,13 +499,6 @@
       "source_name": "Beaver County Jail"
     },
     {
-      "county": "Monroe",
-      "date": "12/4/2020",
-      "fips": "42089",
-      "source": "https://www.poconorecord.com/story/news/coronavirus/2020/12/04/covid-19-jumps-monroe-county-correctional-facility/3826288001/",
-      "source_name": "Pocono Record"
-    },
-    {
       "county": "Pike",
       "date": "12/4/2020",
       "fips": "42103",
@@ -462,13 +511,6 @@
       "fips": "42045",
       "source": "https://www.delcotimes.com/news/geo-reports-prison-c-o-died-of-covid/article_f28c39be-336d-11eb-9bca-f7bd07863b1f.html",
       "source_name": "Delco Daily Times"
-    },
-    {
-      "county": "Northampton",
-      "date": "12/22/2020",
-      "fips": "42095",
-      "source": "https://dailyvoice.com/pennsylvania/northampton/news/covid-19-ravages-northampton-county-prison-with-22-more-inmates-testing-positive/800216/",
-      "source_name": "Daily Voice"
     },
     {
       "county": "Tioga",
@@ -506,13 +548,6 @@
       "source_name": "WNEP"
     },
     {
-      "county": "Chester",
-      "date": "10/27/2020",
-      "fips": "42029",
-      "source": "https://www.chesco.org/175/Prison",
-      "source_name": "Chester County"
-    },
-    {
       "county": "Huntingdon",
       "date": "10/23/2020",
       "fips": "42061",
@@ -525,67 +560,32 @@
       "fips": "42027",
       "source": "https://centrecountypa.gov/2175/COVID-19-Pandemic-Protocols",
       "source_name": "Centre County Correctional Facility"
-    },
-    {
-      "county": "Luzerne",
-      "date": "10/13/2020",
-      "fips": "42079",
-      "source": "https://fox56.com/news/local/covid-cases-among-luzerne-county-prison-employees-rises-to-double-digits",
-      "source_name": "FOX 56"
-    },
-    {
-      "county": "York",
-      "date": "12/11/2020",
-      "fips": "42133",
-      "source": "https://www.witf.org/2020/12/11/demonstrators-in-york-call-for-releases-from-immigration-detention/",
-      "source_name": "WITF"
-    },
-    {
-      "county": "Clinton",
-      "date": "12/11/2020",
-      "fips": "42035",
-      "source": "https://www.witf.org/2020/12/11/demonstrators-in-york-call-for-releases-from-immigration-detention/",
-      "source_name": "WITF"
-    },
-    {
-      "county": "Bucks",
-      "date": "12/18/2020",
-      "fips": "42017",
-      "source": "http://levittownnow.com/2020/12/18/covid-19-cases-surge-at-bucks-county-correctional-facility/",
-      "source_name": "Levittown Now"
-    },
-    {
-      "county": "Dauphin",
-      "date": "12/9/2020",
-      "fips": "42043",
-      "source": "https://lancasteronline.com/news/health/testing-at-dauphin-county-prison-finds-more-than-100-inmates-employees-with-covid-19/article_a4c5a8bc-961e-54f0-b5bc-96d089d6ca92.html",
-      "source_name": "Lancaster Online"
     }
   ],
   "sciCovidData": [
     {
-      "All Cases": 284,
-      "Current Cases": 37,
+      "All Cases": 290,
+      "Current Cases": 43,
       "Inmate Death": 2,
       "Inmate Positive": 156,
       "Inmate Recovered": 140,
       "SCI": "Benner Township",
       "Staff Death": 0,
-      "Staff Positive": 128,
+      "Staff Positive": 134,
       "Staff Recovered": 107,
       "fips": 42027,
       "lat": 40.859221000000005,
       "lon": -77.77810600000001
     },
     {
-      "All Cases": 293,
-      "Current Cases": -29,
+      "All Cases": 294,
+      "Current Cases": -28,
       "Inmate Death": 1,
       "Inmate Positive": 115,
       "Inmate Recovered": 125,
       "SCI": "Rockview",
       "Staff Death": 0,
-      "Staff Positive": 178,
+      "Staff Positive": 179,
       "Staff Recovered": 197,
       "fips": 42027,
       "lat": 40.8499,
@@ -594,7 +594,7 @@
     {
       "All Cases": 313,
       "Current Cases": 23,
-      "Inmate Death": 5,
+      "Inmate Death": 7,
       "Inmate Positive": 178,
       "Inmate Recovered": 173,
       "SCI": "Chester",
@@ -606,28 +606,28 @@
       "lon": -75.3516
     },
     {
-      "All Cases": 257,
-      "Current Cases": 43,
+      "All Cases": 258,
+      "Current Cases": 44,
       "Inmate Death": 0,
       "Inmate Positive": 178,
       "Inmate Recovered": 136,
       "SCI": "Houtzdale",
       "Staff Death": 0,
-      "Staff Positive": 79,
+      "Staff Positive": 80,
       "Staff Recovered": 78,
       "fips": 42033,
       "lat": 40.4844,
       "lon": -78.2123
     },
     {
-      "All Cases": 169,
-      "Current Cases": 12,
+      "All Cases": 171,
+      "Current Cases": 14,
       "Inmate Death": 0,
       "Inmate Positive": 134,
       "Inmate Recovered": 116,
       "SCI": "Quehanna BC",
       "Staff Death": 0,
-      "Staff Positive": 35,
+      "Staff Positive": 37,
       "Staff Recovered": 41,
       "fips": 42033,
       "lat": 41.1854,
@@ -662,14 +662,14 @@
       "lon": -76.9265
     },
     {
-      "All Cases": 107,
-      "Current Cases": 29,
+      "All Cases": 112,
+      "Current Cases": 34,
       "Inmate Death": 0,
-      "Inmate Positive": 10,
+      "Inmate Positive": 12,
       "Inmate Recovered": 11,
       "SCI": "Albion",
       "Staff Death": 0,
-      "Staff Positive": 97,
+      "Staff Positive": 100,
       "Staff Recovered": 67,
       "fips": 42049,
       "lat": 41.8787,
@@ -690,14 +690,14 @@
       "lon": -79.988
     },
     {
-      "All Cases": 118,
-      "Current Cases": 22,
+      "All Cases": 119,
+      "Current Cases": 23,
       "Inmate Death": 2,
       "Inmate Positive": 38,
       "Inmate Recovered": 22,
       "SCI": "Forest",
       "Staff Death": 0,
-      "Staff Positive": 80,
+      "Staff Positive": 81,
       "Staff Recovered": 74,
       "fips": 42053,
       "lat": 41.4819,
@@ -732,28 +732,28 @@
       "lon": -78.0277
     },
     {
-      "All Cases": 600,
-      "Current Cases": 228,
+      "All Cases": 603,
+      "Current Cases": 231,
       "Inmate Death": 3,
-      "Inmate Positive": 429,
+      "Inmate Positive": 428,
       "Inmate Recovered": 223,
       "SCI": "Smithfield",
       "Staff Death": 0,
-      "Staff Positive": 171,
+      "Staff Positive": 175,
       "Staff Recovered": 149,
       "fips": 42061,
       "lat": 40.4981,
       "lon": -78.0333
     },
     {
-      "All Cases": 222,
-      "Current Cases": 4,
+      "All Cases": 223,
+      "Current Cases": 5,
       "Inmate Death": 1,
       "Inmate Positive": 150,
       "Inmate Recovered": 149,
       "SCI": "Pine Grove",
       "Staff Death": 0,
-      "Staff Positive": 72,
+      "Staff Positive": 73,
       "Staff Recovered": 69,
       "fips": 42063,
       "lat": 40.6477,
@@ -763,11 +763,11 @@
       "All Cases": 1457,
       "Current Cases": 993,
       "Inmate Death": 9,
-      "Inmate Positive": 1231,
+      "Inmate Positive": 1230,
       "Inmate Recovered": 259,
       "SCI": "Dallas",
       "Staff Death": 0,
-      "Staff Positive": 226,
+      "Staff Positive": 227,
       "Staff Recovered": 205,
       "fips": 42079,
       "lat": 41.2732,
@@ -788,14 +788,14 @@
       "lon": -76.082
     },
     {
-      "All Cases": 500,
-      "Current Cases": 27,
+      "All Cases": 503,
+      "Current Cases": 30,
       "Inmate Death": 0,
-      "Inmate Positive": 406,
+      "Inmate Positive": 405,
       "Inmate Recovered": 375,
       "SCI": "Muncy",
       "Staff Death": 0,
-      "Staff Positive": 94,
+      "Staff Positive": 98,
       "Staff Recovered": 98,
       "fips": 42081,
       "lat": 41.2025,
@@ -816,42 +816,42 @@
       "lon": -80.2204
     },
     {
-      "All Cases": 355,
-      "Current Cases": 76,
+      "All Cases": 358,
+      "Current Cases": 79,
       "Inmate Death": 12,
-      "Inmate Positive": 188,
+      "Inmate Positive": 189,
       "Inmate Recovered": 143,
       "SCI": "Phoenix",
       "Staff Death": 1,
-      "Staff Positive": 167,
+      "Staff Positive": 169,
       "Staff Recovered": 136,
       "fips": 42091,
       "lat": 40.1358,
       "lon": -75.2513
     },
     {
-      "All Cases": 280,
-      "Current Cases": -28,
+      "All Cases": 440,
+      "Current Cases": 132,
       "Inmate Death": 0,
-      "Inmate Positive": 205,
+      "Inmate Positive": 364,
       "Inmate Recovered": 244,
       "SCI": "Coal Township",
       "Staff Death": 0,
-      "Staff Positive": 75,
+      "Staff Positive": 76,
       "Staff Recovered": 64,
       "fips": 42097,
       "lat": 40.8065,
       "lon": -76.5552
     },
     {
-      "All Cases": 395,
-      "Current Cases": 48,
+      "All Cases": 397,
+      "Current Cases": 50,
       "Inmate Death": 3,
       "Inmate Positive": 299,
       "Inmate Recovered": 219,
       "SCI": "Mahanoy",
       "Staff Death": 0,
-      "Staff Positive": 96,
+      "Staff Positive": 98,
       "Staff Recovered": 128,
       "fips": 42097,
       "lat": 40.7928,
@@ -872,42 +872,42 @@
       "lon": -76.2083
     },
     {
-      "All Cases": 599,
-      "Current Cases": 15,
+      "All Cases": 606,
+      "Current Cases": 22,
       "Inmate Death": 11,
-      "Inmate Positive": 449,
+      "Inmate Positive": 455,
       "Inmate Recovered": 437,
       "SCI": "Laurel Highlands",
       "Staff Death": 0,
-      "Staff Positive": 150,
+      "Staff Positive": 151,
       "Staff Recovered": 147,
       "fips": 42111,
       "lat": 40.0016,
       "lon": -79.0227
     },
     {
-      "All Cases": 758,
-      "Current Cases": 13,
-      "Inmate Death": 2,
-      "Inmate Positive": 598,
+      "All Cases": 761,
+      "Current Cases": 16,
+      "Inmate Death": 3,
+      "Inmate Positive": 599,
       "Inmate Recovered": 610,
       "SCI": "Somerset",
       "Staff Death": 0,
-      "Staff Positive": 160,
+      "Staff Positive": 162,
       "Staff Recovered": 135,
       "fips": 42111,
       "lat": 39.9642,
       "lon": -79.039
     },
     {
-      "All Cases": 855,
-      "Current Cases": 466,
+      "All Cases": 858,
+      "Current Cases": 469,
       "Inmate Death": 2,
-      "Inmate Positive": 733,
+      "Inmate Positive": 734,
       "Inmate Recovered": 306,
       "SCI": "Waymart",
       "Staff Death": 0,
-      "Staff Positive": 122,
+      "Staff Positive": 124,
       "Staff Recovered": 83,
       "fips": 42127,
       "lat": 41.5746,
