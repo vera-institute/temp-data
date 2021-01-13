@@ -1,5 +1,5 @@
 {
-  "date": "2021-01-12",
+  "date": "2021-01-13",
   "jailChangeData": [
     {
       "april": "",
@@ -556,10 +556,10 @@
     },
     {
       "county": "Centre",
-      "date": "10/23/2020",
+      "date": "1/8/2020",
       "fips": "42027",
-      "source": "https://centrecountypa.gov/2175/COVID-19-Pandemic-Protocols",
-      "source_name": "Centre County Correctional Facility"
+      "source": "https://www.centredaily.com/news/rebuild/article248376970.html",
+      "source_name": "Centre Daily Times"
     },
     {
       "county": "Bedford",
