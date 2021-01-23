@@ -1,395 +1,460 @@
 {
-  "date": "2021-01-22",
+  "date": "2021-01-23",
   "jailChangeData": [
     {
       "april": "",
       "february": "",
       "fips": 42001,
-      "june": ""
+      "june": "",
+      "october": ""
     },
     {
       "april": 1709.0,
       "february": 2488.0,
       "fips": 42003,
-      "june": 1717.0
+      "june": 1717.0,
+      "october": 1791.0
     },
     {
       "april": 119.0,
       "february": 174.0,
       "fips": 42005,
-      "june": 119.0
+      "june": 119.0,
+      "october": 168.0
     },
     {
       "april": 191.0,
       "february": 248.0,
       "fips": 42007,
-      "june": 172.0
+      "june": 172.0,
+      "october": 186.0
     },
     {
       "april": 148.0,
       "february": 181.0,
       "fips": 42009,
-      "june": 137.0
+      "june": 137.0,
+      "october": 122.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42011,
-      "june": 573.0
+      "june": 573.0,
+      "october": ""
     },
     {
       "april": 252.0,
       "february": 380.0,
       "fips": 42013,
-      "june": 262.0
+      "june": 262.0,
+      "october": 283.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42015,
-      "june": ""
+      "june": "",
+      "october": 139.0
     },
     {
       "april": 734.0,
       "february": 946.0,
       "fips": 42017,
-      "june": ""
+      "june": "",
+      "october": ""
     },
     {
       "april": "",
       "february": "",
       "fips": 42019,
-      "june": ""
+      "june": "",
+      "october": 225.0
     },
     {
       "april": 322.0,
       "february": 409.0,
       "fips": 42021,
-      "june": 286.0
+      "june": 286.0,
+      "october": 275.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42023,
-      "june": ""
+      "june": "",
+      "october": 10.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42025,
-      "june": 191.0
+      "june": 191.0,
+      "october": 190.0
     },
     {
       "april": 177.0,
       "february": 220.0,
       "fips": 42027,
-      "june": 128.0
+      "june": 128.0,
+      "october": ""
     },
     {
       "april": "",
       "february": 746.0,
       "fips": 42029,
-      "june": ""
+      "june": "",
+      "october": ""
     },
     {
       "april": 63.0,
       "february": 79.0,
       "fips": 42031,
-      "june": 57.0
+      "june": 57.0,
+      "october": 71.0
     },
     {
       "april": 108.0,
       "february": 177.0,
       "fips": 42033,
-      "june": 126.0
+      "june": 126.0,
+      "october": 169.0
     },
     {
       "april": 157.0,
       "february": 139.0,
       "fips": 42035,
-      "june": 171.0
+      "june": 171.0,
+      "october": 168.0
     },
     {
       "april": 108.0,
       "february": 196.0,
       "fips": 42037,
-      "june": 93.0
+      "june": 93.0,
+      "october": ""
     },
     {
       "april": 135.0,
       "february": 151.0,
       "fips": 42039,
-      "june": 129.0
+      "june": 129.0,
+      "october": 161.0
     },
     {
       "april": 263.0,
       "february": "",
       "fips": 42041,
-      "june": 221.0
+      "june": 221.0,
+      "october": 239.0
     },
     {
       "april": 899.0,
       "february": 1121.0,
       "fips": 42043,
-      "june": 865.0
+      "june": 865.0,
+      "october": 985.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42045,
-      "june": ""
+      "june": "",
+      "october": ""
     },
     {
       "april": "",
       "february": "",
       "fips": 42047,
-      "june": 49.0
+      "june": 49.0,
+      "october": 72.0
     },
     {
       "april": 462.0,
       "february": "",
       "fips": 42049,
-      "june": 496.0
+      "june": 496.0,
+      "october": 565.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42051,
-      "june": 152.0
+      "june": 152.0,
+      "october": 156.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42053,
-      "june": ""
+      "june": "",
+      "october": ""
     },
     {
       "april": 329.0,
       "february": 431.0,
       "fips": 42055,
-      "june": 337.0
+      "june": 337.0,
+      "october": 373.0
     },
     {
       "april": 29.0,
       "february": 59.0,
       "fips": 42059,
-      "june": 37.0
+      "june": 37.0,
+      "october": 52.0
     },
     {
       "april": 40.0,
       "february": 48.0,
       "fips": 42061,
-      "june": 35.0
+      "june": 35.0,
+      "october": 36.0
     },
     {
       "april": 131.0,
       "february": 181.0,
       "fips": 42063,
-      "june": 110.0
+      "june": 110.0,
+      "october": 160.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42065,
-      "june": 126.0
+      "june": 126.0,
+      "october": 132.0
     },
     {
       "april": 140.0,
       "february": 159.0,
       "fips": 42067,
-      "june": 155.0
+      "june": 155.0,
+      "october": 157.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42069,
-      "june": 530.0
+      "june": 530.0,
+      "october": 765.0
     },
     {
       "april": 627.0,
       "february": 781.0,
       "fips": 42071,
-      "june": 666.0
+      "june": 666.0,
+      "october": 688.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42073,
-      "june": 94.0
+      "june": 94.0,
+      "october": ""
     },
     {
       "april": 321.0,
       "february": "",
       "fips": 42075,
-      "june": 313.0
+      "june": 313.0,
+      "october": 300.0
     },
     {
       "april": 565.0,
       "february": 730.0,
       "fips": 42077,
-      "june": 545.0
+      "june": 545.0,
+      "october": 682.0
     },
     {
       "april": 425.0,
       "february": 646.0,
       "fips": 42079,
-      "june": 388.0
+      "june": 388.0,
+      "october": 405.0
     },
     {
       "april": 240.0,
       "february": "",
       "fips": 42081,
-      "june": 213.0
+      "june": 213.0,
+      "october": ""
     },
     {
       "april": 47.0,
       "february": 89.0,
       "fips": 42083,
-      "june": 49.0
+      "june": 49.0,
+      "october": 66.0
     },
     {
       "april": 173.0,
       "february": 276.0,
       "fips": 42085,
-      "june": 184.0
+      "june": 184.0,
+      "october": 225.0
     },
     {
       "april": 139.0,
       "february": 159.0,
       "fips": 42087,
-      "june": 151.0
+      "june": 151.0,
+      "october": 160.0
     },
     {
       "april": 321.0,
       "february": "",
       "fips": 42089,
-      "june": ""
+      "june": "",
+      "october": ""
     },
     {
       "april": 701.0,
       "february": 1383.0,
       "fips": 42091,
-      "june": 900.0
+      "june": 900.0,
+      "october": 936.0
     },
     {
       "april": 11.0,
       "february": 26.0,
       "fips": 42093,
-      "june": 13.0
+      "june": 13.0,
+      "october": 15.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42095,
-      "june": ""
+      "june": "",
+      "october": 514.0
     },
     {
       "april": 200.0,
       "february": 246.0,
       "fips": 42097,
-      "june": 203.0
+      "june": 203.0,
+      "october": 209.0
     },
     {
       "april": 69.0,
       "february": 82.0,
       "fips": 42099,
-      "june": 70.0
+      "june": 70.0,
+      "october": 86.0
     },
     {
       "april": 3725.0,
       "february": 4780.0,
       "fips": 42101,
-      "june": 3874.0
+      "june": 3874.0,
+      "october": 4351.0
     },
     {
       "april": 224.0,
       "february": 335.0,
       "fips": 42103,
-      "june": ""
+      "june": "",
+      "october": ""
     },
     {
       "april": 33.0,
       "february": "",
       "fips": 42105,
-      "june": 38.0
+      "june": 38.0,
+      "october": 47.0
     },
     {
       "april": 169.0,
       "february": 254.0,
       "fips": 42107,
-      "june": 171.0
+      "june": 171.0,
+      "october": 243.0
     },
     {
       "april": 73.0,
       "february": 111.0,
       "fips": 42109,
-      "june": 69.0
+      "june": 69.0,
+      "october": 69.0
     },
     {
       "april": 90.0,
       "february": 135.0,
       "fips": 42111,
-      "june": 72.0
+      "june": 72.0,
+      "october": ""
     },
     {
       "april": 1.0,
       "february": 0.0,
       "fips": 42113,
-      "june": 4.0
+      "june": 4.0,
+      "october": ""
     },
     {
       "april": 39.0,
       "february": 51.0,
       "fips": 42115,
-      "june": 41.0
+      "june": 41.0,
+      "october": 53.0
     },
     {
       "april": 47.0,
       "february": 81.0,
       "fips": 42117,
-      "june": 52.0
+      "june": 52.0,
+      "october": 53.0
     },
     {
       "april": 13.0,
       "february": 36.0,
       "fips": 42119,
-      "june": 10.0
+      "june": 10.0,
+      "october": 27.0
     },
     {
       "april": 76.0,
       "february": 172.0,
       "fips": 42121,
-      "june": 140.0
+      "june": 140.0,
+      "october": 136.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42123,
-      "june": 98.0
+      "june": 98.0,
+      "october": ""
     },
     {
       "april": 280.0,
       "february": 323.0,
       "fips": 42125,
-      "june": 282.0
+      "june": 282.0,
+      "october": ""
     },
     {
       "april": 63.0,
       "february": 82.0,
       "fips": 42127,
-      "june": 51.0
+      "june": 51.0,
+      "october": ""
     },
     {
       "april": "",
       "february": "",
       "fips": 42129,
-      "june": 429.0
+      "june": 429.0,
+      "october": ""
     },
     {
       "april": 41.0,
       "february": 59.0,
       "fips": 42131,
-      "june": 36.0
+      "june": 36.0,
+      "october": ""
     }
   ],
   "jailCovidData": [
@@ -409,10 +474,10 @@
     },
     {
       "county": "Lehigh",
-      "date": "1/14/2021",
+      "date": "1/21/2021",
       "fips": "42077",
-      "source": "https://www.lehighvalleylive.com/lehigh-county/2021/01/some-lehigh-county-jail-guards-hospitalized-with-covid-complications-employee-tells-officials.html",
-      "source_name": "Lehigh Valley Live"
+      "source": "https://www.mcall.com/coronavirus/mc-nws-coronavirus-lehigh-county-corrections-officer-dies-20210121-ver2uxb4orhrnjxmcvhlqrttga-story.html",
+      "source_name": "The Morning Call"
     },
     {
       "county": "Monroe",
@@ -634,211 +699,211 @@
   ],
   "sciCovidData": [
     {
-      "All Cases": 361,
-      "Current Cases": 57,
+      "All Cases": 372,
+      "Current Cases": 56,
       "Inmate Death": 5,
-      "Inmate Positive": 201,
-      "Inmate Recovered": 162,
+      "Inmate Positive": 207,
+      "Inmate Recovered": 172,
       "SCI": "Benner Township",
       "Staff Death": 0,
-      "Staff Positive": 160,
-      "Staff Recovered": 142,
+      "Staff Positive": 165,
+      "Staff Recovered": 144,
       "fips": 42027,
       "lat": 40.859221000000005,
       "lon": -77.77810600000001
     },
     {
-      "All Cases": 329,
-      "Current Cases": -16,
-      "Inmate Death": 1,
+      "All Cases": 330,
+      "Current Cases": -18,
+      "Inmate Death": 2,
       "Inmate Positive": 122,
-      "Inmate Recovered": 131,
+      "Inmate Recovered": 132,
       "SCI": "Rockview",
       "Staff Death": 0,
-      "Staff Positive": 207,
-      "Staff Recovered": 214,
+      "Staff Positive": 208,
+      "Staff Recovered": 216,
       "fips": 42027,
       "lat": 40.8499,
       "lon": -77.7763
     },
     {
-      "All Cases": 355,
+      "All Cases": 362,
       "Current Cases": 23,
-      "Inmate Death": 9,
+      "Inmate Death": 8,
       "Inmate Positive": 214,
-      "Inmate Recovered": 207,
+      "Inmate Recovered": 214,
       "SCI": "Chester",
       "Staff Death": 0,
-      "Staff Positive": 141,
+      "Staff Positive": 148,
       "Staff Recovered": 125,
       "fips": 42029,
       "lat": 39.8512,
       "lon": -75.3516
     },
     {
-      "All Cases": 324,
-      "Current Cases": 20,
+      "All Cases": 365,
+      "Current Cases": 45,
       "Inmate Death": 1,
-      "Inmate Positive": 215,
-      "Inmate Recovered": 194,
+      "Inmate Positive": 218,
+      "Inmate Recovered": 198,
       "SCI": "Houtzdale",
-      "Staff Death": 0,
-      "Staff Positive": 109,
-      "Staff Recovered": 110,
+      "Staff Death": 1,
+      "Staff Positive": 147,
+      "Staff Recovered": 122,
       "fips": 42033,
       "lat": 40.4844,
       "lon": -78.2123
     },
     {
-      "All Cases": 243,
-      "Current Cases": 7,
+      "All Cases": 266,
+      "Current Cases": 31,
       "Inmate Death": 0,
-      "Inmate Positive": 193,
+      "Inmate Positive": 198,
       "Inmate Recovered": 178,
       "SCI": "Quehanna BC",
       "Staff Death": 0,
-      "Staff Positive": 50,
-      "Staff Recovered": 58,
+      "Staff Positive": 68,
+      "Staff Recovered": 57,
       "fips": 42033,
       "lat": 41.1854,
       "lon": -78.1443
     },
     {
-      "All Cases": 769,
-      "Current Cases": 17,
+      "All Cases": 775,
+      "Current Cases": 18,
       "Inmate Death": 1,
       "Inmate Positive": 692,
-      "Inmate Recovered": 678,
+      "Inmate Recovered": 683,
       "SCI": "Cambridge Springs",
       "Staff Death": 0,
-      "Staff Positive": 77,
+      "Staff Positive": 83,
       "Staff Recovered": 74,
       "fips": 42039,
       "lat": 41.7972,
       "lon": -80.054
     },
     {
-      "All Cases": 463,
-      "Current Cases": 1,
+      "All Cases": 516,
+      "Current Cases": 46,
       "Inmate Death": 3,
-      "Inmate Positive": 258,
-      "Inmate Recovered": 287,
+      "Inmate Positive": 274,
+      "Inmate Recovered": 289,
       "SCI": "Camp Hill",
       "Staff Death": 1,
-      "Staff Positive": 205,
-      "Staff Recovered": 175,
+      "Staff Positive": 242,
+      "Staff Recovered": 181,
       "fips": 42041,
       "lat": 40.2159,
       "lon": -76.9265
     },
     {
-      "All Cases": 388,
-      "Current Cases": 267,
+      "All Cases": 420,
+      "Current Cases": 286,
       "Inmate Death": 2,
-      "Inmate Positive": 236,
-      "Inmate Recovered": 11,
+      "Inmate Positive": 258,
+      "Inmate Recovered": 20,
       "SCI": "Albion",
       "Staff Death": 0,
-      "Staff Positive": 152,
-      "Staff Recovered": 110,
+      "Staff Positive": 162,
+      "Staff Recovered": 114,
       "fips": 42049,
       "lat": 41.8787,
       "lon": -80.3633
     },
     {
-      "All Cases": 194,
+      "All Cases": 200,
       "Current Cases": 21,
       "Inmate Death": 1,
-      "Inmate Positive": 47,
-      "Inmate Recovered": 39,
+      "Inmate Positive": 48,
+      "Inmate Recovered": 44,
       "SCI": "Fayette",
       "Staff Death": 1,
-      "Staff Positive": 147,
-      "Staff Recovered": 134,
+      "Staff Positive": 152,
+      "Staff Recovered": 135,
       "fips": 42051,
       "lat": 40.0003,
       "lon": -79.988
     },
     {
-      "All Cases": 976,
-      "Current Cases": 823,
+      "All Cases": 1061,
+      "Current Cases": 897,
       "Inmate Death": 4,
-      "Inmate Positive": 867,
-      "Inmate Recovered": 49,
+      "Inmate Positive": 933,
+      "Inmate Recovered": 59,
       "SCI": "Forest",
       "Staff Death": 0,
-      "Staff Positive": 109,
-      "Staff Recovered": 104,
+      "Staff Positive": 128,
+      "Staff Recovered": 105,
       "fips": 42053,
       "lat": 41.4819,
       "lon": -79.1008
     },
     {
-      "All Cases": 316,
-      "Current Cases": 19,
+      "All Cases": 335,
+      "Current Cases": 30,
       "Inmate Death": 1,
-      "Inmate Positive": 145,
-      "Inmate Recovered": 129,
+      "Inmate Positive": 152,
+      "Inmate Recovered": 134,
       "SCI": "Greene",
       "Staff Death": 0,
-      "Staff Positive": 171,
-      "Staff Recovered": 168,
+      "Staff Positive": 183,
+      "Staff Recovered": 171,
       "fips": 42059,
       "lat": 39.9047,
       "lon": -80.1387
     },
     {
-      "All Cases": 390,
+      "All Cases": 401,
       "Current Cases": 42,
-      "Inmate Death": 6,
-      "Inmate Positive": 232,
-      "Inmate Recovered": 206,
+      "Inmate Death": 7,
+      "Inmate Positive": 233,
+      "Inmate Recovered": 214,
       "SCI": "Huntingdon",
       "Staff Death": 0,
-      "Staff Positive": 158,
-      "Staff Recovered": 142,
+      "Staff Positive": 168,
+      "Staff Recovered": 145,
       "fips": 42061,
       "lat": 40.4917,
       "lon": -78.0277
     },
     {
-      "All Cases": 701,
-      "Current Cases": 82,
+      "All Cases": 705,
+      "Current Cases": 66,
       "Inmate Death": 4,
       "Inmate Positive": 503,
-      "Inmate Recovered": 443,
+      "Inmate Recovered": 461,
       "SCI": "Smithfield",
       "Staff Death": 1,
-      "Staff Positive": 198,
-      "Staff Recovered": 176,
+      "Staff Positive": 202,
+      "Staff Recovered": 178,
       "fips": 42061,
       "lat": 40.4981,
       "lon": -78.0333
     },
     {
-      "All Cases": 246,
-      "Current Cases": 8,
+      "All Cases": 249,
+      "Current Cases": 11,
       "Inmate Death": 1,
       "Inmate Positive": 156,
       "Inmate Recovered": 150,
       "SCI": "Pine Grove",
       "Staff Death": 0,
-      "Staff Positive": 90,
+      "Staff Positive": 93,
       "Staff Recovered": 88,
       "fips": 42063,
       "lat": 40.6477,
       "lon": -79.0999
     },
     {
-      "All Cases": 1516,
-      "Current Cases": -3,
+      "All Cases": 1539,
+      "Current Cases": 22,
       "Inmate Death": 10,
       "Inmate Positive": 1283,
       "Inmate Recovered": 1288,
       "SCI": "Dallas",
       "Staff Death": 0,
-      "Staff Positive": 233,
-      "Staff Recovered": 231,
+      "Staff Positive": 256,
+      "Staff Recovered": 229,
       "fips": 42079,
       "lat": 41.2732,
       "lon": -76.0119
@@ -858,127 +923,127 @@
       "lon": -76.082
     },
     {
-      "All Cases": 541,
-      "Current Cases": 27,
+      "All Cases": 581,
+      "Current Cases": 61,
       "Inmate Death": 0,
-      "Inmate Positive": 420,
-      "Inmate Recovered": 388,
+      "Inmate Positive": 427,
+      "Inmate Recovered": 392,
       "SCI": "Muncy",
       "Staff Death": 0,
-      "Staff Positive": 121,
-      "Staff Recovered": 126,
+      "Staff Positive": 154,
+      "Staff Recovered": 128,
       "fips": 42081,
       "lat": 41.2025,
       "lon": -76.8255
     },
     {
-      "All Cases": 218,
-      "Current Cases": 2,
+      "All Cases": 222,
+      "Current Cases": -8,
       "Inmate Death": 5,
       "Inmate Positive": 148,
-      "Inmate Recovered": 127,
+      "Inmate Recovered": 138,
       "SCI": "Mercer",
       "Staff Death": 0,
-      "Staff Positive": 70,
-      "Staff Recovered": 89,
+      "Staff Positive": 74,
+      "Staff Recovered": 92,
       "fips": 42085,
       "lat": 41.207,
       "lon": -80.2204
     },
     {
-      "All Cases": 397,
-      "Current Cases": 47,
+      "All Cases": 423,
+      "Current Cases": 61,
       "Inmate Death": 13,
-      "Inmate Positive": 208,
-      "Inmate Recovered": 178,
+      "Inmate Positive": 210,
+      "Inmate Recovered": 183,
       "SCI": "Phoenix",
       "Staff Death": 1,
-      "Staff Positive": 189,
-      "Staff Recovered": 172,
+      "Staff Positive": 213,
+      "Staff Recovered": 179,
       "fips": 42091,
       "lat": 40.1358,
       "lon": -75.2513
     },
     {
-      "All Cases": 492,
-      "Current Cases": -28,
+      "All Cases": 519,
+      "Current Cases": -15,
       "Inmate Death": 0,
-      "Inmate Positive": 392,
-      "Inmate Recovered": 433,
+      "Inmate Positive": 396,
+      "Inmate Recovered": 442,
       "SCI": "Coal Township",
       "Staff Death": 0,
-      "Staff Positive": 100,
-      "Staff Recovered": 87,
+      "Staff Positive": 123,
+      "Staff Recovered": 92,
       "fips": 42097,
       "lat": 40.8065,
       "lon": -76.5552
     },
     {
-      "All Cases": 530,
-      "Current Cases": 78,
+      "All Cases": 536,
+      "Current Cases": 168,
       "Inmate Death": 4,
-      "Inmate Positive": 369,
-      "Inmate Recovered": 280,
+      "Inmate Positive": 372,
+      "Inmate Recovered": 194,
       "SCI": "Mahanoy",
       "Staff Death": 0,
-      "Staff Positive": 161,
-      "Staff Recovered": 172,
+      "Staff Positive": 164,
+      "Staff Recovered": 174,
       "fips": 42097,
       "lat": 40.7928,
       "lon": -76.1805
     },
     {
-      "All Cases": 205,
-      "Current Cases": 2,
+      "All Cases": 246,
+      "Current Cases": 37,
       "Inmate Death": 1,
-      "Inmate Positive": 88,
-      "Inmate Recovered": 84,
+      "Inmate Positive": 90,
+      "Inmate Recovered": 89,
       "SCI": "Frackville",
       "Staff Death": 0,
-      "Staff Positive": 117,
-      "Staff Recovered": 119,
+      "Staff Positive": 156,
+      "Staff Recovered": 120,
       "fips": 42107,
       "lat": 40.7711,
       "lon": -76.2083
     },
     {
-      "All Cases": 688,
-      "Current Cases": 70,
+      "All Cases": 697,
+      "Current Cases": 43,
       "Inmate Death": 11,
-      "Inmate Positive": 519,
-      "Inmate Recovered": 456,
+      "Inmate Positive": 524,
+      "Inmate Recovered": 488,
       "SCI": "Laurel Highlands",
       "Staff Death": 0,
-      "Staff Positive": 169,
-      "Staff Recovered": 162,
+      "Staff Positive": 173,
+      "Staff Recovered": 166,
       "fips": 42111,
       "lat": 40.0016,
       "lon": -79.0227
     },
     {
-      "All Cases": 797,
-      "Current Cases": 19,
+      "All Cases": 803,
+      "Current Cases": 24,
       "Inmate Death": 4,
       "Inmate Positive": 618,
       "Inmate Recovered": 612,
       "SCI": "Somerset",
       "Staff Death": 0,
-      "Staff Positive": 179,
-      "Staff Recovered": 166,
+      "Staff Positive": 185,
+      "Staff Recovered": 167,
       "fips": 42111,
       "lat": 39.9642,
       "lon": -79.039
     },
     {
-      "All Cases": 918,
-      "Current Cases": 188,
-      "Inmate Death": 4,
-      "Inmate Positive": 792,
-      "Inmate Recovered": 564,
+      "All Cases": 1021,
+      "Current Cases": 248,
+      "Inmate Death": 5,
+      "Inmate Positive": 803,
+      "Inmate Recovered": 602,
       "SCI": "Waymart",
       "Staff Death": 0,
-      "Staff Positive": 126,
-      "Staff Recovered": 166,
+      "Staff Positive": 218,
+      "Staff Recovered": 171,
       "fips": 42127,
       "lat": 41.5746,
       "lon": -75.4295
