@@ -709,6 +709,13 @@
       "fips": "42011",
       "source": "https://www.wfmz.com/health/coronavirus/berks-county-jail-staffer-tests-positive-for-covid-19/article_1277d6c8-77a5-11ea-8d6e-83a14edc2995.html",
       "source_name": "WFMZ "
+    },
+    {
+      "county": "Jefferson",
+      "date": "3/3/2021",
+      "fips": "42065",
+      "source": "http://www.thecourierexpress.com/jeffersonian_democrat/jefferson-county-jail-board-discuss-positive-covid-19-cases/article_e411319d-6a33-5a19-8cea-1e75d968c14e.html",
+      "source_name": "Jeffersonian Democrat"
     }
   ],
   "sciCovidPdfData": [
