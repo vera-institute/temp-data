@@ -1,5 +1,5 @@
 {
-  "date": "2021-03-11",
+  "date": "2021-03-12",
   "jailChangeData": [
     {
       "april": "",
@@ -425,8 +425,8 @@
       "april": "",
       "february": "",
       "fips": 42123,
-      "june": 98.0,
-      "november": ""
+      "june": 96.0,
+      "november": 87.0
     },
     {
       "april": 280.0,
@@ -439,8 +439,8 @@
       "april": 63.0,
       "february": 82.0,
       "fips": 42127,
-      "june": 51.0,
-      "november": ""
+      "june": 52.0,
+      "november": 63.0
     },
     {
       "april": "",
