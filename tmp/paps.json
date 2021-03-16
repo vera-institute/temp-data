@@ -1,5 +1,5 @@
 {
-  "date": "2021-03-15",
+  "date": "2021-03-16",
   "jailChangeData": [
     {
       "april": "",
@@ -495,10 +495,10 @@
     },
     {
       "county": "Lycoming",
-      "date": "2/4/2021",
+      "date": "3/4/2021",
       "fips": "42081",
-      "source": "https://www.sungazette.com/news/top-news/2021/02/lycoming-county-prison-reports-32-covid-19-cases/",
-      "source_name": "Williamsport Sun-Gazette"
+      "source": "https://www.northcentralpa.com/covid-19/over-100-covid-19-cases-at-lycoming-county-prison-to-date/article_0f61fbdc-7c39-11eb-9402-93bf879ade73.html",
+      "source_name": "NorthCentralPa.com"
     },
     {
       "county": "York",
@@ -705,10 +705,10 @@
     },
     {
       "county": "Berks",
-      "date": "4/5/2020",
+      "date": "3/11/2020",
       "fips": "42011",
-      "source": "https://www.wfmz.com/health/coronavirus/berks-county-jail-staffer-tests-positive-for-covid-19/article_1277d6c8-77a5-11ea-8d6e-83a14edc2995.html",
-      "source_name": "WFMZ "
+      "source": "https://www.pottsmerc.com/news/coronavirus/berks-county-prison-sees-outbreak-of-covid-cases/article_229f01b2-d9c3-55c2-8125-6fb5af187666.html",
+      "source_name": "Pottstown Mercury"
     },
     {
       "county": "Jefferson",
