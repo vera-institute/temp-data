@@ -1,5 +1,5 @@
 {
-  "date": "2021-03-29",
+  "date": "2021-03-30",
   "jailChangeData": [
     {
       "april": "",
@@ -459,18 +459,32 @@
   ],
   "jailCovidData": [
     {
-      "county": "Philadelphia",
-      "date": "2/25/2021",
-      "fips": "42101",
-      "source": "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data",
-      "source_name": "City of Philadelphia"
-    },
-    {
       "county": "Allegheny",
-      "date": "3/2/2021",
+      "date": "3/29/2021",
       "fips": "42003",
       "source": "https://www.alleghenycounty.us/jail/index.aspx",
       "source_name": "Allegheny County Jail"
+    },
+    {
+      "county": "Lycoming",
+      "date": "3/4/2021",
+      "fips": "42081",
+      "source": "https://www.northcentralpa.com/covid-19/over-100-covid-19-cases-at-lycoming-county-prison-to-date/article_0f61fbdc-7c39-11eb-9402-93bf879ade73.html",
+      "source_name": "NorthCentralPa.com"
+    },
+    {
+      "county": "Jefferson",
+      "date": "3/3/2021",
+      "fips": "42065",
+      "source": "http://www.thecourierexpress.com/jeffersonian_democrat/jefferson-county-jail-board-discuss-positive-covid-19-cases/article_e411319d-6a33-5a19-8cea-1e75d968c14e.html",
+      "source_name": "Jeffersonian Democrat"
+    },
+    {
+      "county": "Philadelphia",
+      "date": "3/29/2021",
+      "fips": "42101",
+      "source": "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data",
+      "source_name": "City of Philadelphia"
     },
     {
       "county": "Blair",
@@ -492,13 +506,6 @@
       "fips": "42011",
       "source": "https://www.buckscountycouriertimes.com/story/news/2021/02/05/covid-19-surge-bucks-montco-jails-infection-control-corrections/4222453001/",
       "source_name": "Bucks County Courier Times"
-    },
-    {
-      "county": "Lycoming",
-      "date": "3/4/2021",
-      "fips": "42081",
-      "source": "https://www.northcentralpa.com/covid-19/over-100-covid-19-cases-at-lycoming-county-prison-to-date/article_0f61fbdc-7c39-11eb-9402-93bf879ade73.html",
-      "source_name": "NorthCentralPa.com"
     },
     {
       "county": "York",
@@ -709,13 +716,6 @@
       "fips": "42011",
       "source": "https://www.pottsmerc.com/news/coronavirus/berks-county-prison-sees-outbreak-of-covid-cases/article_229f01b2-d9c3-55c2-8125-6fb5af187666.html",
       "source_name": "Pottstown Mercury"
-    },
-    {
-      "county": "Jefferson",
-      "date": "3/3/2021",
-      "fips": "42065",
-      "source": "http://www.thecourierexpress.com/jeffersonian_democrat/jefferson-county-jail-board-discuss-positive-covid-19-cases/article_e411319d-6a33-5a19-8cea-1e75d968c14e.html",
-      "source_name": "Jeffersonian Democrat"
     }
   ],
   "sciCovidPdfData": [
