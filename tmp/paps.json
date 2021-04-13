@@ -1,5 +1,5 @@
 {
-  "date": "2021-04-11",
+  "date": "2021-04-13",
   "jailChangeData": [
     {
       "april": "",
@@ -460,10 +460,24 @@
   "jailCovidData": [
     {
       "county": "Allegheny",
-      "date": "3/29/2021",
+      "date": "4/12/2021",
       "fips": "42003",
       "source": "https://www.alleghenycounty.us/jail/index.aspx",
       "source_name": "Allegheny County Jail"
+    },
+    {
+      "county": "Philadelphia",
+      "date": "4/12/2021",
+      "fips": "42101",
+      "source": "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data",
+      "source_name": "City of Philadelphia"
+    },
+    {
+      "county": "Chester",
+      "date": "4/12/2021",
+      "fips": "42029",
+      "source": "https://www.chesco.org/175/Prison",
+      "source_name": "Chester County Prison"
     },
     {
       "county": "Lycoming",
@@ -478,13 +492,6 @@
       "fips": "42065",
       "source": "http://www.thecourierexpress.com/jeffersonian_democrat/jefferson-county-jail-board-discuss-positive-covid-19-cases/article_e411319d-6a33-5a19-8cea-1e75d968c14e.html",
       "source_name": "Jeffersonian Democrat"
-    },
-    {
-      "county": "Philadelphia",
-      "date": "3/29/2021",
-      "fips": "42101",
-      "source": "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data",
-      "source_name": "City of Philadelphia"
     },
     {
       "county": "Blair",
@@ -562,13 +569,6 @@
       "fips": "42129",
       "source": "https://triblive.com/local/westmoreland/virus-cases-continue-to-spread-at-westmoreland-prison/",
       "source_name": "TribLive"
-    },
-    {
-      "county": "Chester",
-      "date": "1/6/2021",
-      "fips": "42029",
-      "source": "https://www.chesco.org/175/Prison",
-      "source_name": "Chester County Prison"
     },
     {
       "county": "Luzerne",
