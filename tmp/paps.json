@@ -1,5 +1,5 @@
 {
-  "date": "2021-04-13",
+  "date": "2021-04-14",
   "jailChangeData": [
     {
       "april": "",
@@ -750,7 +750,7 @@
       "fips": "42003"
     },
     {
-      "Date": "3/19/2021",
+      "Date": "4/13/2021",
       "Have you started vaccinating staff? Y/N": "Yes",
       "How many inmates?": "",
       "How many staff?": "",
@@ -758,7 +758,7 @@
       "Inmates vaccinated?": "",
       "Inmates_Number_Vaccinated": "",
       "Inmates_Percent_Vaccinated": "",
-      "Notes": "Josie: Asked if I could verify that I am with PPS, told me that I wasn't on the list of PPS people and that the warden said she could not answer any of my questions, I asked if I should file a right to know and she didn't know what that was. 3/23 called back told that the warden said they wouldn't speak to me unless my name was on the OV list",
+      "Notes": "Josie: Asked if I could verify that I am with PPS, told me that I wasn't on the list of PPS people and that the warden said she could not answer any of my questions, I asked if I should file a right to know and she didn't know what that was. 3/23 called back told that the warden said they wouldn't speak to me unless my name was on the OV list | Lara: Left message with Kelsey ",
       "Staff vaccinated?": "",
       "Staff_Number_Vaccinated": "",
       "Staff_Percent_Vaccinated": "",
@@ -840,7 +840,7 @@
       "fips": "42015"
     },
     {
-      "Date": "3/22/2021",
+      "Date": "4/13/2021",
       "Have you started vaccinating staff? Y/N": "",
       "How many inmates?": "",
       "How many staff?": "",
@@ -848,7 +848,7 @@
       "Inmates vaccinated?": "",
       "Inmates_Number_Vaccinated": "",
       "Inmates_Percent_Vaccinated": "",
-      "Notes": "Josie: 3/22 Didn't answer, left a message. 3/23 told they were \"not permitted to release that information\" transferred to administration, no answer, left a message",
+      "Notes": "Josie: 3/22 Didn't answer, left a message. 3/23 told they were \"not permitted to release that information\" transferred to administration, no answer, left a message | Lara: told me the same thing, transferred me to admin and I left a message with Michelle ",
       "Staff vaccinated?": "",
       "Staff_Number_Vaccinated": "",
       "Staff_Percent_Vaccinated": "",
@@ -1605,18 +1605,18 @@
       "fips": "42127"
     },
     {
-      "Date": "3/23/2021",
-      "Have you started vaccinating staff? Y/N": "",
+      "Date": "4/13/2021",
+      "Have you started vaccinating staff? Y/N": "Yes",
       "How many inmates?": "",
-      "How many staff?": "",
-      "IF NO: When do you plan to start vaccinating staff?": "",
-      "Inmates vaccinated?": "",
-      "Inmates_Number_Vaccinated": "",
-      "Inmates_Percent_Vaccinated": "",
-      "Notes": "Note: Was transferred to the medical dept and the guy who picked up the phone was very rude. He said \"I just have one question for you. Who is Noah Barth?\" (I called from Noah's office phone) so I said I was calling from Prison Society and he said \"well you have no way of proving that to me and I do not want to give out information over the phone. What number are you calling from?\" Got no info out of him ",
-      "Staff vaccinated?": "",
-      "Staff_Number_Vaccinated": "",
-      "Staff_Percent_Vaccinated": "",
+      "How many staff?": "177",
+      "IF NO: When do you plan to start vaccinating staff?": "-",
+      "Inmates vaccinated?": "No",
+      "Inmates_Number_Vaccinated": "0",
+      "Inmates_Percent_Vaccinated": "0%",
+      "Notes": "Note: Was transferred to the medical dept and the guy who picked up the phone was very rude. He said \"I just have one question for you. Who is Noah Barth?\" (I called from Noah's office phone) so I said I was calling from Prison Society and he said \"well you have no way of proving that to me and I do not want to give out information over the phone. What number are you calling from?\" Got no info out of him | Lara: Spoke with Dept. Warden Kline, very nice, super helpful (recommend calling him instead)  - says he is unable to disclose the private health information of employees ",
+      "Staff vaccinated?": "Yes",
+      "Staff_Number_Vaccinated": "Unsure",
+      "Staff_Percent_Vaccinated": "Unsure ",
       "fips": "42129"
     },
     {
