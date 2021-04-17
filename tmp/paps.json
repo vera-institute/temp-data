@@ -1,5 +1,5 @@
 {
-  "date": "2021-04-16",
+  "date": "2021-04-17",
   "jailChangeData": [
     {
       "april": "",
@@ -720,7 +720,7 @@
   ],
   "jailVaccineData": [
     {
-      "Date": "3/15/2021",
+      "Date": "4/16/2021",
       "Have you started vaccinating staff? Y/N": "Yes",
       "How many inmates?": "",
       "How many staff?": "",
@@ -728,7 +728,7 @@
       "Inmates vaccinated?": "Unknown",
       "Inmates_Number_Vaccinated": "",
       "Inmates_Percent_Vaccinated": "",
-      "Notes": "Lara: Left VM with Warden Josie: 3/23 medical said that they have submitted everything to the state and are waiting on the vaccinations, but inmates don't qualify yet",
+      "Notes": "Lara: Left VM with Warden Josie: 3/23 medical said that they have submitted everything to the state and are waiting on the vaccinations, but inmates don't qualify yet. 4/16 left message with warden",
       "Staff vaccinated?": "Yes",
       "Staff_Number_Vaccinated": "",
       "Staff_Percent_Vaccinated": "",
@@ -765,7 +765,7 @@
       "fips": "42005"
     },
     {
-      "Date": "3/22/2021",
+      "Date": "4/16/2021",
       "Have you started vaccinating staff? Y/N": "No",
       "How many inmates?": "168",
       "How many staff?": "About 100-110",
@@ -773,7 +773,7 @@
       "Inmates vaccinated?": "No",
       "Inmates_Number_Vaccinated": "0",
       "Inmates_Percent_Vaccinated": "0%",
-      "Notes": "Josie: Called, got transferred to Warden, didn't pick up left a message 3/22. 3/23 Called back, have not recieved vaccine because they are 1-B",
+      "Notes": "Josie: Called, got transferred to Warden, didn't pick up left a message 3/22. 3/23 Called back, have not recieved vaccine because they are 1-B. 4/16 Got transferred to warden, left a vm",
       "Staff vaccinated?": "Unknown",
       "Staff_Number_Vaccinated": "Unknown",
       "Staff_Percent_Vaccinated": "-",
