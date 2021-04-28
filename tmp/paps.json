@@ -1,5 +1,5 @@
 {
-  "date": "2021-04-27",
+  "date": "2021-04-28",
   "jailChangeData": [
     {
       "april": "",
@@ -459,6 +459,20 @@
   ],
   "jailCovidData": [
     {
+      "county": "Westmoreland",
+      "date": "4/27/2021",
+      "fips": "42129",
+      "source": "https://www.latrobebulletinnews.com/covid19/county-inmates-to-get-commissary-incentive-to-receive-covid-19-vaccine/article_235b97c3-2b65-5bea-8674-f927fedfa05d.html",
+      "source_name": "Latrobe Bulletin"
+    },
+    {
+      "county": "Cambria",
+      "date": "4/15/2021",
+      "fips": "42021",
+      "source": "https://www.tribdem.com/news/just-takes-off-warden-says-cambria-county-prison-seeing-third-wave-of-covid-19-cases/article_87bfa3f6-9d39-11eb-831b-dfc823782ccd.html",
+      "source_name": "The Tribune-Democrat"
+    },
+    {
       "county": "Allegheny",
       "date": "4/12/2021",
       "fips": "42003",
@@ -536,13 +550,6 @@
       "source_name": "ICE"
     },
     {
-      "county": "Cambria",
-      "date": "4/15/2021",
-      "fips": "42021",
-      "source": "https://www.tribdem.com/news/just-takes-off-warden-says-cambria-county-prison-seeing-third-wave-of-covid-19-cases/article_87bfa3f6-9d39-11eb-831b-dfc823782ccd.html",
-      "source_name": "The Tribune-Democrat"
-    },
-    {
       "county": "Lawrence",
       "date": "1/22/2021",
       "fips": "42073",
@@ -562,13 +569,6 @@
       "fips": "42027",
       "source": "https://www.centredaily.com/news/rebuild/article248376970.html",
       "source_name": "Centre Daily Times"
-    },
-    {
-      "county": "Westmoreland",
-      "date": "1/7/2021",
-      "fips": "42129",
-      "source": "https://triblive.com/local/westmoreland/virus-cases-continue-to-spread-at-westmoreland-prison/",
-      "source_name": "TribLive"
     },
     {
       "county": "Luzerne",
