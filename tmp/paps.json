@@ -1,5 +1,5 @@
 {
-  "date": "2021-05-13",
+  "date": "2021-05-14",
   "jailChangeData": [
     {
       "april": "",
@@ -1040,10 +1040,10 @@
       "How many inmates?": "",
       "How many staff?": "",
       "IF NO: When do you plan to start vaccinating staff?": "",
-      "Inmates vaccinated?": "No",
+      "Inmates vaccinated?": "Yes",
       "Inmates_Number_Vaccinated": "",
       "Inmates_Percent_Vaccinated": "",
-      "Notes": "",
+      "Notes": "Joel: Updated with info from news report",
       "Staff vaccinated?": "No",
       "Staff_Number_Vaccinated": "",
       "Staff_Percent_Vaccinated": "",
