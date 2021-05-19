@@ -1,5 +1,5 @@
 {
-  "date": "2021-05-18",
+  "date": "2021-05-19",
   "jailChangeData": [
     {
       "april": "",
@@ -720,7 +720,7 @@
   ],
   "jailVaccineData": [
     {
-      "Date": "5/7/2021",
+      "Date": "5/18/2021 (left VM)",
       "Have you started vaccinating staff? Y/N": "Yes",
       "How many inmates?": "",
       "How many staff?": "",
@@ -746,7 +746,7 @@
       "fips": "42003"
     },
     {
-      "Date": "",
+      "Date": "05/18/2021 (left VM)",
       "Have you started vaccinating staff? Y/N": "Yes",
       "How many inmates?": "",
       "How many staff?": "",
@@ -759,20 +759,20 @@
       "fips": "42005"
     },
     {
-      "Date": "",
-      "Have you started vaccinating staff? Y/N": "No",
-      "How many inmates?": "",
+      "Date": "5/18/2021",
+      "Have you started vaccinating staff? Y/N": "Yes",
+      "How many inmates?": "158",
       "How many staff?": "110",
-      "IF NO: When do you plan to start vaccinating staff?": "",
+      "IF NO: When do you plan to start vaccinating staff?": "-",
       "Inmates vaccinated?": "No",
-      "Inmates_Number_Vaccinated": "",
-      "Staff vaccinated?": "Unknown",
-      "Staff_Number_Vaccinated": "",
-      "Staff_Percent_Vaccinated": "",
+      "Inmates_Number_Vaccinated": "N/A",
+      "Staff vaccinated?": "Yes",
+      "Staff_Number_Vaccinated": "N/A",
+      "Staff_Percent_Vaccinated": "N/A",
       "fips": "42007"
     },
     {
-      "Date": "",
+      "Date": "05/18/2021 ( left VM)",
       "Have you started vaccinating staff? Y/N": "Yes",
       "How many inmates?": "",
       "How many staff?": "55",
@@ -785,7 +785,7 @@
       "fips": "42009"
     },
     {
-      "Date": "5/17/21",
+      "Date": "5/18/21",
       "Have you started vaccinating staff? Y/N": "Yes",
       "How many inmates?": "800+",
       "How many staff?": "",
@@ -798,10 +798,10 @@
       "fips": "42011"
     },
     {
-      "Date": "5/17/21 (left vm)",
+      "Date": "5/18/21 (left vm)",
       "Have you started vaccinating staff? Y/N": "Yes",
-      "How many inmates?": "286",
-      "How many staff?": "",
+      "How many inmates?": "254",
+      "How many staff?": "100",
       "IF NO: When do you plan to start vaccinating staff?": "",
       "Inmates vaccinated?": "Yes",
       "Inmates_Number_Vaccinated": "30",
@@ -824,7 +824,7 @@
       "fips": "42015"
     },
     {
-      "Date": "5/17/21 (left vm)",
+      "Date": "5/18/21 (left vm)",
       "Have you started vaccinating staff? Y/N": "N/A",
       "How many inmates?": "",
       "How many staff?": "",
@@ -896,7 +896,7 @@
       "IF NO: When do you plan to start vaccinating staff?": "",
       "Inmates vaccinated?": "",
       "Inmates_Number_Vaccinated": "",
-      "Staff vaccinated?": "",
+      "Staff vaccinated?": "Yes",
       "Staff_Number_Vaccinated": "",
       "Staff_Percent_Vaccinated": "",
       "fips": "42029"
@@ -943,14 +943,14 @@
     {
       "Date": "5/17/21 (left vm)",
       "Have you started vaccinating staff? Y/N": "Yes",
-      "How many inmates?": "",
-      "How many staff?": "",
+      "How many inmates?": "33",
+      "How many staff?": "100",
       "IF NO: When do you plan to start vaccinating staff?": "",
-      "Inmates vaccinated?": "No",
-      "Inmates_Number_Vaccinated": "",
+      "Inmates vaccinated?": "Yes (started 5/4/21)",
+      "Inmates_Number_Vaccinated": "130",
       "Staff vaccinated?": "Yes",
-      "Staff_Number_Vaccinated": "",
-      "Staff_Percent_Vaccinated": "",
+      "Staff_Number_Vaccinated": "82",
+      "Staff_Percent_Vaccinated": "82",
       "fips": "42037"
     },
     {
