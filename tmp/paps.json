@@ -1,5 +1,5 @@
 {
-  "date": "2021-05-21",
+  "date": "2021-05-22",
   "jailChangeData": [
     {
       "april": "",
@@ -720,7 +720,7 @@
   ],
   "jailVaccineData": [
     {
-      "Date": "5/18/2021 (left VM)",
+      "Date": "5/21/21 - left vm",
       "Have you started vaccinating staff? Y/N": "Yes",
       "How many inmates?": "",
       "How many staff?": "",
@@ -980,7 +980,7 @@
       "fips": "42041"
     },
     {
-      "Date": "4/29/2021",
+      "Date": "05/21/21(left vm)",
       "Have you started vaccinating staff? Y/N": "Yes",
       "How many inmates?": ">900",
       "How many staff?": "",
@@ -993,10 +993,10 @@
       "fips": "42043"
     },
     {
-      "Date": "",
+      "Date": "05/21/21",
       "Have you started vaccinating staff? Y/N": "Yes",
-      "How many inmates?": "",
-      "How many staff?": "",
+      "How many inmates?": "Started this week.  Doesn't have numbers yet.  Call back end of next week",
+      "How many staff?": "N/A.  Don't keep track of vaxxed staff.  Staff advised of where they can get vaxxed.",
       "IF NO: When do you plan to start vaccinating staff?": "",
       "Inmates vaccinated?": "Yes",
       "Inmates_Number_Vaccinated": "",
@@ -1188,20 +1188,20 @@
       "fips": "42079"
     },
     {
-      "Date": "",
-      "Have you started vaccinating staff? Y/N": "N/A",
-      "How many inmates?": "",
-      "How many staff?": "",
-      "IF NO: When do you plan to start vaccinating staff?": "",
-      "Inmates vaccinated?": "",
-      "Inmates_Number_Vaccinated": "",
-      "Staff vaccinated?": "",
-      "Staff_Number_Vaccinated": "",
-      "Staff_Percent_Vaccinated": "",
+      "Date": "5/21/21",
+      "Have you started vaccinating staff? Y/N": "YES",
+      "How many inmates?": "N/A",
+      "How many staff?": "N/A",
+      "IF NO: When do you plan to start vaccinating staff?": "N/A",
+      "Inmates vaccinated?": "YES",
+      "Inmates_Number_Vaccinated": "N/A",
+      "Staff vaccinated?": "YES",
+      "Staff_Number_Vaccinated": "N/A",
+      "Staff_Percent_Vaccinated": "N/A",
       "fips": "42081"
     },
     {
-      "Date": "",
+      "Date": "5/21/21",
       "Have you started vaccinating staff? Y/N": "",
       "How many inmates?": "",
       "How many staff?": "",
@@ -1214,7 +1214,7 @@
       "fips": "42083"
     },
     {
-      "Date": "",
+      "Date": "5/21/21",
       "Have you started vaccinating staff? Y/N": "",
       "How many inmates?": "",
       "How many staff?": "",
@@ -1227,12 +1227,12 @@
       "fips": "42085"
     },
     {
-      "Date": "",
-      "Have you started vaccinating staff? Y/N": "",
+      "Date": "5/21/21",
+      "Have you started vaccinating staff? Y/N": "NO",
       "How many inmates?": "",
       "How many staff?": "",
       "IF NO: When do you plan to start vaccinating staff?": "",
-      "Inmates vaccinated?": "",
+      "Inmates vaccinated?": "NO",
       "Inmates_Number_Vaccinated": "",
       "Staff vaccinated?": "",
       "Staff_Number_Vaccinated": "",
@@ -1253,7 +1253,7 @@
       "fips": "42089"
     },
     {
-      "Date": "",
+      "Date": "5/21/21",
       "Have you started vaccinating staff? Y/N": "",
       "How many inmates?": "",
       "How many staff?": "",
@@ -1266,16 +1266,16 @@
       "fips": "42091"
     },
     {
-      "Date": "",
-      "Have you started vaccinating staff? Y/N": "",
-      "How many inmates?": "",
-      "How many staff?": "",
-      "IF NO: When do you plan to start vaccinating staff?": "",
-      "Inmates vaccinated?": "",
-      "Inmates_Number_Vaccinated": "",
-      "Staff vaccinated?": "",
-      "Staff_Number_Vaccinated": "",
-      "Staff_Percent_Vaccinated": "",
+      "Date": "5/21/21",
+      "Have you started vaccinating staff? Y/N": "YES",
+      "How many inmates?": "12",
+      "How many staff?": "9 CO's + 5/4PT staff",
+      "IF NO: When do you plan to start vaccinating staff?": "N/A",
+      "Inmates vaccinated?": "YES",
+      "Inmates_Number_Vaccinated": "8",
+      "Staff vaccinated?": "YES",
+      "Staff_Number_Vaccinated": "14",
+      "Staff_Percent_Vaccinated": "100%",
       "fips": "42093"
     },
     {
@@ -1530,8 +1530,8 @@
     {
       "All Cases": 958,
       "All Deaths": 3,
-      "Current Cases": 9,
-      "Guard Current Positive": 8,
+      "Current Cases": 7,
+      "Guard Current Positive": 6,
       "Guard Total Positive": 234,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 3,
@@ -1563,10 +1563,10 @@
     {
       "All Cases": 1015,
       "All Deaths": 4,
-      "Current Cases": 9,
+      "Current Cases": 8,
       "Guard Current Positive": 7,
       "Guard Total Positive": 310,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 705,
       "SCI": "CAMP HILL"
@@ -1704,14 +1704,14 @@
       "SCI": "MERCER"
     },
     {
-      "All Cases": 650,
+      "All Cases": 652,
       "All Deaths": 1,
-      "Current Cases": 4,
+      "Current Cases": 6,
       "Guard Current Positive": 2,
       "Guard Total Positive": 180,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 4,
       "Prisoner Total Deaths": 1,
-      "Prisoner Total Positive": 470,
+      "Prisoner Total Positive": 472,
       "SCI": "MUNCY"
     },
     {
@@ -1728,8 +1728,8 @@
     {
       "All Cases": 264,
       "All Deaths": 1,
-      "Current Cases": 6,
-      "Guard Current Positive": 4,
+      "Current Cases": 5,
+      "Guard Current Positive": 3,
       "Guard Total Positive": 110,
       "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 1,
@@ -1770,22 +1770,22 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1092,
+      "All Cases": 1094,
       "All Deaths": 5,
-      "Current Cases": 19,
+      "Current Cases": 18,
       "Guard Current Positive": 1,
       "Guard Total Positive": 211,
-      "Prisoner Current Positive": 18,
+      "Prisoner Current Positive": 17,
       "Prisoner Total Deaths": 5,
-      "Prisoner Total Positive": 881,
+      "Prisoner Total Positive": 883,
       "SCI": "SMITHFIELD"
     },
     {
-      "All Cases": 834,
+      "All Cases": 835,
       "All Deaths": 4,
-      "Current Cases": 5,
-      "Guard Current Positive": 5,
-      "Guard Total Positive": 212,
+      "Current Cases": 6,
+      "Guard Current Positive": 6,
+      "Guard Total Positive": 213,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 622,
