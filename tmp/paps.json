@@ -1,5 +1,5 @@
 {
-  "date": "2021-05-27",
+  "date": "2021-05-28",
   "jailChangeData": [
     {
       "april": "",
@@ -1118,8 +1118,8 @@
     {
       "All Cases": 782,
       "All Deaths": 1,
-      "Current Cases": 1,
-      "Guard Current Positive": 1,
+      "Current Cases": 0,
+      "Guard Current Positive": 0,
       "Guard Total Positive": 91,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 1,
@@ -1149,11 +1149,11 @@
       "SCI": "CHESTER"
     },
     {
-      "All Cases": 722,
+      "All Cases": 723,
       "All Deaths": 3,
       "Current Cases": 2,
       "Guard Current Positive": 1,
-      "Guard Total Positive": 200,
+      "Guard Total Positive": 201,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 3,
       "Prisoner Total Positive": 522,
@@ -1226,11 +1226,11 @@
       "SCI": "HOUTZDALE"
     },
     {
-      "All Cases": 507,
+      "All Cases": 508,
       "All Deaths": 8,
-      "Current Cases": 0,
-      "Guard Current Positive": 0,
-      "Guard Total Positive": 197,
+      "Current Cases": 1,
+      "Guard Current Positive": 1,
+      "Guard Total Positive": 198,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 8,
       "Prisoner Total Positive": 310,
