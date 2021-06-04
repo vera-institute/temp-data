@@ -1,5 +1,5 @@
 {
-  "date": "2021-06-03",
+  "date": "2021-06-04",
   "jailChangeData": [
     {
       "april": "",
@@ -769,8 +769,8 @@
     },
     {
       "Date": "5/18/21 (left vm)",
-      "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "",
-      "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "",
+      "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "Yes",
+      "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "Yes",
       "fips": "42017"
     },
     {
@@ -1129,8 +1129,8 @@
     {
       "All Cases": 1018,
       "All Deaths": 4,
-      "Current Cases": 7,
-      "Guard Current Positive": 5,
+      "Current Cases": 6,
+      "Guard Current Positive": 4,
       "Guard Total Positive": 311,
       "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 4,
@@ -1151,10 +1151,10 @@
     {
       "All Cases": 723,
       "All Deaths": 3,
-      "Current Cases": 2,
+      "Current Cases": 1,
       "Guard Current Positive": 1,
       "Guard Total Positive": 201,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
       "Prisoner Total Positive": 522,
       "SCI": "COAL TOWNSHIP"
@@ -1338,10 +1338,10 @@
     {
       "All Cases": 1115,
       "All Deaths": 5,
-      "Current Cases": 27,
+      "Current Cases": 24,
       "Guard Current Positive": 1,
       "Guard Total Positive": 212,
-      "Prisoner Current Positive": 26,
+      "Prisoner Current Positive": 23,
       "Prisoner Total Deaths": 5,
       "Prisoner Total Positive": 903,
       "SCI": "SMITHFIELD"
@@ -1349,8 +1349,8 @@
     {
       "All Cases": 836,
       "All Deaths": 4,
-      "Current Cases": 5,
-      "Guard Current Positive": 4,
+      "Current Cases": 4,
+      "Guard Current Positive": 3,
       "Guard Total Positive": 213,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 4,
@@ -1360,10 +1360,10 @@
     {
       "All Cases": 1104,
       "All Deaths": 16,
-      "Current Cases": 4,
+      "Current Cases": 3,
       "Guard Current Positive": 1,
       "Guard Total Positive": 260,
-      "Prisoner Current Positive": 3,
+      "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 16,
       "Prisoner Total Positive": 844,
       "SCI": "WAYMART"
