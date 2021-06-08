@@ -1,5 +1,5 @@
 {
-  "date": "2021-06-07",
+  "date": "2021-06-08",
   "jailChangeData": [
     {
       "april": "",
@@ -990,25 +990,25 @@
       "fips": "42097"
     },
     {
-      "Date": "5/24/2021",
+      "Date": "5/24/2021; pop. count from 6/7/2021",
       "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "No",
       "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "Yes",
       "fips": "42099"
     },
     {
-      "Date": "5/24/2021 (awaiting email response)",
+      "Date": "5/24/2021 (awaiting email response). 6/7/2021: called, hung up on.",
       "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "Yes",
       "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "Yes",
       "fips": "42101"
     },
     {
-      "Date": "voicemail",
+      "Date": "voicemail 6/7/2021: no response",
       "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "Yes",
       "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "Yes",
       "fips": "42103"
     },
     {
-      "Date": "voicemail",
+      "Date": "voicemail; 6/7/2021: pop. count",
       "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "",
       "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "",
       "fips": "42105"
@@ -1020,31 +1020,31 @@
       "fips": "42107"
     },
     {
-      "Date": "voicemail",
+      "Date": "voicemail; 6/7/2021: pop. count",
       "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "No",
       "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "No",
       "fips": "42109"
     },
     {
-      "Date": "5/24/2021",
+      "Date": "5/24/2021; 6/7/2021: pop. count",
       "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "Yes",
       "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "Yes",
       "fips": "42111"
     },
     {
-      "Date": "5/26 should call back",
+      "Date": "5/26 should call back; 6/7/2021: pop. count",
       "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "Yes",
       "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "Yes",
       "fips": "42115"
     },
     {
-      "Date": "5/24/2021",
+      "Date": "5/24/2021; 6/7/2021: pop. count",
       "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "Yes",
       "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "Yes",
       "fips": "42117"
     },
     {
-      "Date": "5/24/2021",
+      "Date": "5/24/2021; 6/7/2021: pop. count",
       "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "No",
       "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "No",
       "fips": "42119"
@@ -1068,13 +1068,13 @@
       "fips": "42125"
     },
     {
-      "Date": "5/24/2021",
+      "Date": "5/24/2021; 6/7/2021: pop. count",
       "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "No",
       "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "Yes",
       "fips": "42127"
     },
     {
-      "Date": "5/26/2021 left voicemail",
+      "Date": "5/26/2021 left voicemail; 6/7/2021: left voicemail.",
       "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "Yes",
       "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "Yes",
       "fips": "42129"
@@ -1094,14 +1094,14 @@
   ],
   "sciCovidData": [
     {
-      "All Cases": 960,
+      "All Cases": 961,
       "All Deaths": 3,
       "Current Cases": 5,
       "Guard Current Positive": 4,
       "Guard Total Positive": 235,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 3,
-      "Prisoner Total Positive": 725,
+      "Prisoner Total Positive": 726,
       "SCI": "ALBION"
     },
     {
@@ -1129,10 +1129,10 @@
     {
       "All Cases": 1019,
       "All Deaths": 4,
-      "Current Cases": 7,
+      "Current Cases": 6,
       "Guard Current Positive": 4,
       "Guard Total Positive": 311,
-      "Prisoner Current Positive": 3,
+      "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 708,
       "SCI": "CAMP HILL"
@@ -1151,8 +1151,8 @@
     {
       "All Cases": 723,
       "All Deaths": 3,
-      "Current Cases": 1,
-      "Guard Current Positive": 1,
+      "Current Cases": 0,
+      "Guard Current Positive": 0,
       "Guard Total Positive": 201,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
@@ -1239,8 +1239,8 @@
     {
       "All Cases": 729,
       "All Deaths": 15,
-      "Current Cases": 3,
-      "Guard Current Positive": 2,
+      "Current Cases": 2,
+      "Guard Current Positive": 1,
       "Guard Total Positive": 197,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 15,
@@ -1270,23 +1270,23 @@
       "SCI": "MERCER"
     },
     {
-      "All Cases": 655,
+      "All Cases": 656,
       "All Deaths": 1,
-      "Current Cases": 3,
+      "Current Cases": 4,
       "Guard Current Positive": 1,
       "Guard Total Positive": 181,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 3,
       "Prisoner Total Deaths": 1,
-      "Prisoner Total Positive": 474,
+      "Prisoner Total Positive": 475,
       "SCI": "MUNCY"
     },
     {
       "All Cases": 509,
       "All Deaths": 17,
-      "Current Cases": 7,
+      "Current Cases": 6,
       "Guard Current Positive": 5,
       "Guard Total Positive": 286,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 17,
       "Prisoner Total Positive": 223,
       "SCI": "PHOENIX"
@@ -1336,14 +1336,14 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1118,
+      "All Cases": 1125,
       "All Deaths": 5,
-      "Current Cases": 21,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 212,
-      "Prisoner Current Positive": 20,
+      "Current Cases": 27,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 213,
+      "Prisoner Current Positive": 25,
       "Prisoner Total Deaths": 5,
-      "Prisoner Total Positive": 906,
+      "Prisoner Total Positive": 912,
       "SCI": "SMITHFIELD"
     },
     {
@@ -1360,10 +1360,10 @@
     {
       "All Cases": 1104,
       "All Deaths": 16,
-      "Current Cases": 3,
+      "Current Cases": 2,
       "Guard Current Positive": 1,
       "Guard Total Positive": 260,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 16,
       "Prisoner Total Positive": 844,
       "SCI": "WAYMART"
