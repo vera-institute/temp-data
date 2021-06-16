@@ -1,5 +1,5 @@
 {
-  "date": "2021-06-15",
+  "date": "2021-06-16",
   "jailChangeData": [
     {
       "april": "",
@@ -1129,8 +1129,8 @@
     {
       "All Cases": 1021,
       "All Deaths": 4,
-      "Current Cases": 5,
-      "Guard Current Positive": 2,
+      "Current Cases": 3,
+      "Guard Current Positive": 0,
       "Guard Total Positive": 311,
       "Prisoner Current Positive": 3,
       "Prisoner Total Deaths": 4,
@@ -1206,10 +1206,10 @@
     {
       "All Cases": 399,
       "All Deaths": 1,
-      "Current Cases": 3,
+      "Current Cases": 2,
       "Guard Current Positive": 1,
       "Guard Total Positive": 220,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 179,
       "SCI": "GREENE"
@@ -1270,23 +1270,23 @@
       "SCI": "MERCER"
     },
     {
-      "All Cases": 658,
+      "All Cases": 660,
       "All Deaths": 1,
-      "Current Cases": 4,
+      "Current Cases": 6,
       "Guard Current Positive": 0,
       "Guard Total Positive": 181,
-      "Prisoner Current Positive": 4,
+      "Prisoner Current Positive": 6,
       "Prisoner Total Deaths": 1,
-      "Prisoner Total Positive": 477,
+      "Prisoner Total Positive": 479,
       "SCI": "MUNCY"
     },
     {
       "All Cases": 510,
       "All Deaths": 17,
-      "Current Cases": 7,
+      "Current Cases": 6,
       "Guard Current Positive": 6,
       "Guard Total Positive": 287,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 17,
       "Prisoner Total Positive": 223,
       "SCI": "PHOENIX"
@@ -1303,14 +1303,14 @@
       "SCI": "PINE GROVE"
     },
     {
-      "All Cases": 310,
+      "All Cases": 311,
       "All Deaths": 0,
-      "Current Cases": 0,
+      "Current Cases": 1,
       "Guard Current Positive": 0,
       "Guard Total Positive": 87,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 0,
-      "Prisoner Total Positive": 223,
+      "Prisoner Total Positive": 224,
       "SCI": "QUEHANNA"
     },
     {
@@ -1338,10 +1338,10 @@
     {
       "All Cases": 1150,
       "All Deaths": 5,
-      "Current Cases": 37,
-      "Guard Current Positive": 2,
+      "Current Cases": 33,
+      "Guard Current Positive": 1,
       "Guard Total Positive": 214,
-      "Prisoner Current Positive": 35,
+      "Prisoner Current Positive": 32,
       "Prisoner Total Deaths": 5,
       "Prisoner Total Positive": 936,
       "SCI": "SMITHFIELD"
