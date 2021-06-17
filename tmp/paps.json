@@ -1,19 +1,19 @@
 {
-  "date": "2021-06-16",
+  "date": "2021-06-17",
   "jailChangeData": [
     {
-      "april": "",
+      "april": 157.0,
       "february": "",
       "fips": 42001,
-      "june": "",
-      "november": ""
+      "june": 164.0,
+      "november": 183.0
     },
     {
       "april": 1709.0,
       "february": 2488.0,
       "fips": 42003,
       "june": 1717.0,
-      "november": 1791.0
+      "november": 1781.0
     },
     {
       "april": 119.0,
@@ -27,14 +27,14 @@
       "february": 248.0,
       "fips": 42007,
       "june": 172.0,
-      "november": 186.0
+      "november": 181.0
     },
     {
       "april": 148.0,
       "february": 181.0,
       "fips": 42009,
       "june": 137.0,
-      "november": 122.0
+      "november": 128.0
     },
     {
       "april": "",
@@ -48,14 +48,14 @@
       "february": 380.0,
       "fips": 42013,
       "june": 262.0,
-      "november": 283.0
+      "november": 278.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42015,
       "june": "",
-      "november": 139.0
+      "november": 144.0
     },
     {
       "april": 734.0,
@@ -69,14 +69,14 @@
       "february": "",
       "fips": 42019,
       "june": "",
-      "november": 225.0
+      "november": 256.0
     },
     {
       "april": 322.0,
       "february": 409.0,
       "fips": 42021,
       "june": 286.0,
-      "november": 275.0
+      "november": 277.0
     },
     {
       "april": "",
@@ -90,35 +90,35 @@
       "february": "",
       "fips": 42025,
       "june": 191.0,
-      "november": 190.0
+      "november": 192.0
     },
     {
       "april": 177.0,
       "february": 220.0,
       "fips": 42027,
-      "june": 128.0,
-      "november": ""
+      "june": 131.0,
+      "november": 158.0
     },
     {
-      "april": "",
-      "february": 746.0,
+      "april": 725.0,
+      "february": 745.0,
       "fips": 42029,
-      "june": "",
-      "november": ""
+      "june": 704.0,
+      "november": 652.0
     },
     {
       "april": 63.0,
       "february": 79.0,
       "fips": 42031,
       "june": 57.0,
-      "november": 71.0
+      "november": 68.0
     },
     {
       "april": 108.0,
       "february": 177.0,
       "fips": 42033,
       "june": 126.0,
-      "november": 169.0
+      "november": 161.0
     },
     {
       "april": 157.0,
@@ -131,8 +131,8 @@
       "april": 108.0,
       "february": 196.0,
       "fips": 42037,
-      "june": 93.0,
-      "november": ""
+      "june": 89.0,
+      "november": 63.0
     },
     {
       "april": 135.0,
@@ -156,18 +156,18 @@
       "november": 969.0
     },
     {
-      "april": "",
+      "april": 1382.0,
       "february": "",
       "fips": 42045,
-      "june": "",
-      "november": ""
+      "june": 1376.0,
+      "november": 1359.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42047,
       "june": 49.0,
-      "november": 73.0
+      "november": 71.0
     },
     {
       "april": 462.0,
@@ -181,7 +181,7 @@
       "february": "",
       "fips": 42051,
       "june": 152.0,
-      "november": 157.0
+      "november": 158.0
     },
     {
       "april": "",
@@ -195,7 +195,7 @@
       "february": 431.0,
       "fips": 42055,
       "june": 337.0,
-      "november": 375.0
+      "november": 374.0
     },
     {
       "april": 29.0,
@@ -216,7 +216,7 @@
       "february": 181.0,
       "fips": 42063,
       "june": 110.0,
-      "november": 162.0
+      "november": 159.0
     },
     {
       "april": "",
@@ -237,7 +237,7 @@
       "february": "",
       "fips": 42069,
       "june": 530.0,
-      "november": 777.0
+      "november": 762.0
     },
     {
       "april": 627.0,
@@ -250,29 +250,29 @@
       "april": "",
       "february": "",
       "fips": 42073,
-      "june": 94.0,
-      "november": ""
+      "june": 95.0,
+      "november": 106.0
     },
     {
       "april": 321.0,
       "february": "",
       "fips": 42075,
       "june": 313.0,
-      "november": 300.0
+      "november": 303.0
     },
     {
       "april": 565.0,
       "february": 730.0,
       "fips": 42077,
       "june": 545.0,
-      "november": 682.0
+      "november": 678.0
     },
     {
       "april": 425.0,
       "february": 646.0,
       "fips": 42079,
       "june": 388.0,
-      "november": 405.0
+      "november": 407.0
     },
     {
       "april": 240.0,
@@ -300,49 +300,49 @@
       "february": 159.0,
       "fips": 42087,
       "june": 151.0,
-      "november": 160.0
+      "november": 161.0
     },
     {
       "april": 321.0,
       "february": "",
       "fips": 42089,
-      "june": "",
-      "november": ""
+      "june": 322.0,
+      "november": 326.0
     },
     {
       "april": 701.0,
       "february": 1383.0,
       "fips": 42091,
       "june": 900.0,
-      "november": 936.0
+      "november": 923.0
     },
     {
       "april": 11.0,
       "february": 26.0,
       "fips": 42093,
       "june": 13.0,
-      "november": 15.0
+      "november": 14.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42095,
       "june": "",
-      "november": 514.0
+      "november": 521.0
     },
     {
       "april": 200.0,
       "february": 246.0,
       "fips": 42097,
       "june": 203.0,
-      "november": 209.0
+      "november": 211.0
     },
     {
       "april": 69.0,
       "february": 82.0,
       "fips": 42099,
       "june": 70.0,
-      "november": 86.0
+      "november": 85.0
     },
     {
       "april": 3725.0,
@@ -352,11 +352,11 @@
       "november": 4320.0
     },
     {
-      "april": 224.0,
+      "april": 219.0,
       "february": 335.0,
       "fips": 42103,
-      "june": "",
-      "november": ""
+      "june": 206.0,
+      "november": 175.0
     },
     {
       "april": 33.0,
@@ -370,7 +370,7 @@
       "february": 254.0,
       "fips": 42107,
       "june": 171.0,
-      "november": 243.0
+      "november": 242.0
     },
     {
       "april": 73.0,
@@ -384,7 +384,7 @@
       "february": 135.0,
       "fips": 42111,
       "june": 72.0,
-      "november": ""
+      "november": 75.0
     },
     {
       "april": 1.0,
@@ -398,7 +398,7 @@
       "february": 51.0,
       "fips": 42115,
       "june": 41.0,
-      "november": 54.0
+      "november": 55.0
     },
     {
       "april": 47.0,
@@ -412,7 +412,7 @@
       "february": 36.0,
       "fips": 42119,
       "june": 10.0,
-      "november": 28.0
+      "november": 26.0
     },
     {
       "april": 76.0,
@@ -440,20 +440,27 @@
       "february": 82.0,
       "fips": 42127,
       "june": 52.0,
-      "november": 63.0
+      "november": 62.0
     },
     {
       "april": "",
       "february": "",
       "fips": 42129,
-      "june": 429.0,
-      "november": ""
+      "june": 434.0,
+      "november": 476.0
     },
     {
       "april": 41.0,
       "february": 59.0,
       "fips": 42131,
-      "june": 36.0,
+      "june": 37.0,
+      "november": 44.0
+    },
+    {
+      "april": "",
+      "february": "",
+      "fips": 42133,
+      "june": "",
       "november": ""
     }
   ],
@@ -1094,14 +1101,14 @@
   ],
   "sciCovidData": [
     {
-      "All Cases": 961,
+      "All Cases": 962,
       "All Deaths": 3,
-      "Current Cases": 3,
+      "Current Cases": 4,
       "Guard Current Positive": 2,
       "Guard Total Positive": 235,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 3,
-      "Prisoner Total Positive": 726,
+      "Prisoner Total Positive": 727,
       "SCI": "ALBION"
     },
     {
@@ -1151,8 +1158,8 @@
     {
       "All Cases": 725,
       "All Deaths": 3,
-      "Current Cases": 1,
-      "Guard Current Positive": 1,
+      "Current Cases": 0,
+      "Guard Current Positive": 0,
       "Guard Total Positive": 202,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
@@ -1248,14 +1255,14 @@
       "SCI": "LAUREL HIGHLANDS"
     },
     {
-      "All Cases": 615,
+      "All Cases": 616,
       "All Deaths": 6,
       "Current Cases": 1,
-      "Guard Current Positive": 1,
+      "Guard Current Positive": 0,
       "Guard Total Positive": 223,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 392,
+      "Prisoner Total Positive": 393,
       "SCI": "MAHANOY"
     },
     {
@@ -1338,10 +1345,10 @@
     {
       "All Cases": 1150,
       "All Deaths": 5,
-      "Current Cases": 33,
+      "Current Cases": 30,
       "Guard Current Positive": 1,
       "Guard Total Positive": 214,
-      "Prisoner Current Positive": 32,
+      "Prisoner Current Positive": 29,
       "Prisoner Total Deaths": 5,
       "Prisoner Total Positive": 936,
       "SCI": "SMITHFIELD"
@@ -1358,14 +1365,14 @@
       "SCI": "SOMERSET"
     },
     {
-      "All Cases": 1104,
+      "All Cases": 1105,
       "All Deaths": 16,
-      "Current Cases": 1,
+      "Current Cases": 2,
       "Guard Current Positive": 1,
       "Guard Total Positive": 260,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 16,
-      "Prisoner Total Positive": 844,
+      "Prisoner Total Positive": 845,
       "SCI": "WAYMART"
     }
   ]
