@@ -1,5 +1,5 @@
 {
-  "date": "2021-06-21",
+  "date": "2021-06-22",
   "jailChangeData": [
     {
       "april": 157.0,
@@ -1136,10 +1136,10 @@
     {
       "All Cases": 1021,
       "All Deaths": 4,
-      "Current Cases": 3,
+      "Current Cases": 2,
       "Guard Current Positive": 0,
       "Guard Total Positive": 311,
-      "Prisoner Current Positive": 3,
+      "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 710,
       "SCI": "CAMP HILL"
@@ -1180,10 +1180,10 @@
     {
       "All Cases": 318,
       "All Deaths": 4,
-      "Current Cases": 5,
+      "Current Cases": 4,
       "Guard Current Positive": 4,
       "Guard Total Positive": 209,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 109,
       "SCI": "FAYETTE"
@@ -1257,10 +1257,10 @@
     {
       "All Cases": 616,
       "All Deaths": 6,
-      "Current Cases": 1,
+      "Current Cases": 0,
       "Guard Current Positive": 0,
       "Guard Total Positive": 223,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 393,
       "SCI": "MAHANOY"
@@ -1279,10 +1279,10 @@
     {
       "All Cases": 660,
       "All Deaths": 1,
-      "Current Cases": 6,
+      "Current Cases": 5,
       "Guard Current Positive": 0,
       "Guard Total Positive": 181,
-      "Prisoner Current Positive": 6,
+      "Prisoner Current Positive": 5,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 479,
       "SCI": "MUNCY"
@@ -1343,14 +1343,14 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1150,
+      "All Cases": 1151,
       "All Deaths": 5,
-      "Current Cases": 29,
+      "Current Cases": 27,
       "Guard Current Positive": 1,
       "Guard Total Positive": 214,
-      "Prisoner Current Positive": 28,
+      "Prisoner Current Positive": 26,
       "Prisoner Total Deaths": 5,
-      "Prisoner Total Positive": 936,
+      "Prisoner Total Positive": 937,
       "SCI": "SMITHFIELD"
     },
     {
