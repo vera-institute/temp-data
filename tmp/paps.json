@@ -1,5 +1,5 @@
 {
-  "date": "2021-06-23",
+  "date": "2021-06-24",
   "jailChangeData": [
     {
       "april": 157.0,
@@ -1288,22 +1288,22 @@
       "SCI": "MUNCY"
     },
     {
-      "All Cases": 511,
+      "All Cases": 512,
       "All Deaths": 17,
-      "Current Cases": 7,
+      "Current Cases": 6,
       "Guard Current Positive": 6,
-      "Guard Total Positive": 287,
-      "Prisoner Current Positive": 1,
+      "Guard Total Positive": 288,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 17,
       "Prisoner Total Positive": 224,
       "SCI": "PHOENIX"
     },
     {
-      "All Cases": 265,
+      "All Cases": 266,
       "All Deaths": 1,
-      "Current Cases": 0,
-      "Guard Current Positive": 0,
-      "Guard Total Positive": 111,
+      "Current Cases": 1,
+      "Guard Current Positive": 1,
+      "Guard Total Positive": 112,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 154,
