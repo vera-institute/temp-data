@@ -1,5 +1,5 @@
 {
-  "date": "2021-06-29",
+  "date": "2021-06-30",
   "jailChangeData": [
     {
       "april": 157.0,
@@ -1103,10 +1103,10 @@
     {
       "All Cases": 962,
       "All Deaths": 3,
-      "Current Cases": 3,
+      "Current Cases": 2,
       "Guard Current Positive": 2,
       "Guard Total Positive": 235,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
       "Prisoner Total Positive": 727,
       "SCI": "ALBION"
@@ -1136,10 +1136,10 @@
     {
       "All Cases": 1022,
       "All Deaths": 4,
-      "Current Cases": 2,
+      "Current Cases": 1,
       "Guard Current Positive": 0,
       "Guard Total Positive": 311,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 711,
       "SCI": "CAMP HILL"
@@ -1279,23 +1279,23 @@
     {
       "All Cases": 664,
       "All Deaths": 1,
-      "Current Cases": 6,
+      "Current Cases": 4,
       "Guard Current Positive": 0,
       "Guard Total Positive": 181,
-      "Prisoner Current Positive": 6,
+      "Prisoner Current Positive": 4,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 483,
       "SCI": "MUNCY"
     },
     {
-      "All Cases": 513,
+      "All Cases": 515,
       "All Deaths": 17,
-      "Current Cases": 7,
+      "Current Cases": 9,
       "Guard Current Positive": 6,
       "Guard Total Positive": 288,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 3,
       "Prisoner Total Deaths": 17,
-      "Prisoner Total Positive": 225,
+      "Prisoner Total Positive": 227,
       "SCI": "PHOENIX"
     },
     {
@@ -1332,25 +1332,25 @@
       "SCI": "RETREAT"
     },
     {
-      "All Cases": 395,
+      "All Cases": 396,
       "All Deaths": 2,
-      "Current Cases": 1,
+      "Current Cases": 2,
       "Guard Current Positive": 0,
       "Guard Total Positive": 267,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 2,
-      "Prisoner Total Positive": 128,
+      "Prisoner Total Positive": 129,
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1168,
+      "All Cases": 1169,
       "All Deaths": 6,
       "Current Cases": 19,
-      "Guard Current Positive": 1,
+      "Guard Current Positive": 0,
       "Guard Total Positive": 214,
-      "Prisoner Current Positive": 18,
+      "Prisoner Current Positive": 19,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 954,
+      "Prisoner Total Positive": 955,
       "SCI": "SMITHFIELD"
     },
     {
@@ -1367,10 +1367,10 @@
     {
       "All Cases": 1105,
       "All Deaths": 16,
-      "Current Cases": 2,
+      "Current Cases": 1,
       "Guard Current Positive": 1,
       "Guard Total Positive": 260,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 16,
       "Prisoner Total Positive": 845,
       "SCI": "WAYMART"
