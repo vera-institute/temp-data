@@ -2,466 +2,532 @@
   "date": "2021-07-01",
   "jailChangeData": [
     {
-      "april": 157.0,
-      "february": "",
+      "april20": 157.0,
+      "february20": "",
       "fips": 42001,
-      "june": 164.0,
-      "november": 183.0
+      "june20": 164.0,
+      "june21": 204.0,
+      "november20": 183.0
     },
     {
-      "april": 1709.0,
-      "february": 2488.0,
+      "april20": 1709.0,
+      "february20": 2488.0,
       "fips": 42003,
-      "june": 1717.0,
-      "november": 1781.0
+      "june20": 1717.0,
+      "june21": 1735.0,
+      "november20": 1781.0
     },
     {
-      "april": 119.0,
-      "february": 174.0,
+      "april20": 119.0,
+      "february20": 174.0,
       "fips": 42005,
-      "june": 119.0,
-      "november": 168.0
+      "june20": 119.0,
+      "june21": "",
+      "november20": 168.0
     },
     {
-      "april": 191.0,
-      "february": 248.0,
+      "april20": 191.0,
+      "february20": 248.0,
       "fips": 42007,
-      "june": 172.0,
-      "november": 181.0
+      "june20": 172.0,
+      "june21": 158.0,
+      "november20": 181.0
     },
     {
-      "april": 148.0,
-      "february": 181.0,
+      "april20": 148.0,
+      "february20": 181.0,
       "fips": 42009,
-      "june": 137.0,
-      "november": 128.0
+      "june20": 137.0,
+      "june21": 166.0,
+      "november20": 128.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42011,
-      "june": 573.0,
-      "november": ""
+      "june20": 573.0,
+      "june21": "",
+      "november20": ""
     },
     {
-      "april": 252.0,
-      "february": 380.0,
+      "april20": 252.0,
+      "february20": 380.0,
       "fips": 42013,
-      "june": 262.0,
-      "november": 278.0
+      "june20": 262.0,
+      "june21": 254.0,
+      "november20": 278.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42015,
-      "june": "",
-      "november": 144.0
+      "june20": "",
+      "june21": 170.0,
+      "november20": 144.0
     },
     {
-      "april": 734.0,
-      "february": 946.0,
+      "april20": 734.0,
+      "february20": 946.0,
       "fips": 42017,
-      "june": "",
-      "november": ""
+      "june20": "",
+      "june21": "",
+      "november20": ""
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42019,
-      "june": "",
-      "november": 256.0
+      "june20": "",
+      "june21": 429.0,
+      "november20": 256.0
     },
     {
-      "april": 322.0,
-      "february": 409.0,
+      "april20": 322.0,
+      "february20": 409.0,
       "fips": 42021,
-      "june": 286.0,
-      "november": 277.0
+      "june20": 286.0,
+      "june21": 293.0,
+      "november20": 277.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42023,
-      "june": "",
-      "november": 10.0
+      "june20": "",
+      "june21": "",
+      "november20": 10.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42025,
-      "june": 191.0,
-      "november": 192.0
+      "june20": 191.0,
+      "june21": 207.0,
+      "november20": 192.0
     },
     {
-      "april": 177.0,
-      "february": 220.0,
+      "april20": 177.0,
+      "february20": 220.0,
       "fips": 42027,
-      "june": 131.0,
-      "november": 158.0
+      "june20": 131.0,
+      "june21": 189.0,
+      "november20": 158.0
     },
     {
-      "april": 725.0,
-      "february": 745.0,
+      "april20": 725.0,
+      "february20": 745.0,
       "fips": 42029,
-      "june": 704.0,
-      "november": 652.0
+      "june20": 704.0,
+      "june21": 596.0,
+      "november20": 652.0
     },
     {
-      "april": 63.0,
-      "february": 79.0,
+      "april20": 63.0,
+      "february20": 79.0,
       "fips": 42031,
-      "june": 57.0,
-      "november": 68.0
+      "june20": 57.0,
+      "june21": 54.0,
+      "november20": 68.0
     },
     {
-      "april": 108.0,
-      "february": 177.0,
+      "april20": 108.0,
+      "february20": 177.0,
       "fips": 42033,
-      "june": 126.0,
-      "november": 161.0
+      "june20": 126.0,
+      "june21": 120.0,
+      "november20": 161.0
     },
     {
-      "april": 157.0,
-      "february": 139.0,
+      "april20": 157.0,
+      "february20": 139.0,
       "fips": 42035,
-      "june": 171.0,
-      "november": 168.0
+      "june20": 171.0,
+      "june21": 172.0,
+      "november20": 168.0
     },
     {
-      "april": 108.0,
-      "february": 196.0,
+      "april20": 108.0,
+      "february20": 196.0,
       "fips": 42037,
-      "june": 89.0,
-      "november": 63.0
+      "june20": 89.0,
+      "june21": 33.0,
+      "november20": 63.0
     },
     {
-      "april": 135.0,
-      "february": 151.0,
+      "april20": 135.0,
+      "february20": 151.0,
       "fips": 42039,
-      "june": 129.0,
-      "november": 156.0
+      "june20": 129.0,
+      "june21": 170.0,
+      "november20": 156.0
     },
     {
-      "april": 263.0,
-      "february": "",
+      "april20": 263.0,
+      "february20": "",
       "fips": 42041,
-      "june": 221.0,
-      "november": 247.0
+      "june20": 221.0,
+      "june21": 263.0,
+      "november20": 247.0
     },
     {
-      "april": 899.0,
-      "february": 1121.0,
+      "april20": 899.0,
+      "february20": 1121.0,
       "fips": 42043,
-      "june": 865.0,
-      "november": 969.0
+      "june20": 865.0,
+      "june21": 989.0,
+      "november20": 969.0
     },
     {
-      "april": 1382.0,
-      "february": "",
+      "april20": 1382.0,
+      "february20": "",
       "fips": 42045,
-      "june": 1376.0,
-      "november": 1359.0
+      "june20": 1376.0,
+      "june21": 1340.0,
+      "november20": 1359.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42047,
-      "june": 49.0,
-      "november": 71.0
+      "june20": 49.0,
+      "june21": 60.0,
+      "november20": 71.0
     },
     {
-      "april": 462.0,
-      "february": "",
+      "april20": 462.0,
+      "february20": "",
       "fips": 42049,
-      "june": 496.0,
-      "november": 568.0
+      "june20": 496.0,
+      "june21": "",
+      "november20": 568.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42051,
-      "june": 152.0,
-      "november": 158.0
+      "june20": 152.0,
+      "june21": 170.0,
+      "november20": 158.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42053,
-      "june": "",
-      "november": 2321.0
+      "june20": "",
+      "june21": "",
+      "november20": 2321.0
     },
     {
-      "april": 329.0,
-      "february": 431.0,
+      "april20": 329.0,
+      "february20": 431.0,
       "fips": 42055,
-      "june": 337.0,
-      "november": 374.0
+      "june20": 337.0,
+      "june21": 367.0,
+      "november20": 374.0
     },
     {
-      "april": 29.0,
-      "february": 59.0,
+      "april20": 29.0,
+      "february20": 59.0,
       "fips": 42059,
-      "june": 37.0,
-      "november": 44.0
+      "june20": 37.0,
+      "june21": 68.0,
+      "november20": 44.0
     },
     {
-      "april": 40.0,
-      "february": 48.0,
+      "april20": 40.0,
+      "february20": 48.0,
       "fips": 42061,
-      "june": 35.0,
-      "november": 37.0
+      "june20": 35.0,
+      "june21": "",
+      "november20": 37.0
     },
     {
-      "april": 131.0,
-      "february": 181.0,
+      "april20": 131.0,
+      "february20": 181.0,
       "fips": 42063,
-      "june": 110.0,
-      "november": 159.0
+      "june20": 110.0,
+      "june21": 143.0,
+      "november20": 159.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42065,
-      "june": 126.0,
-      "november": 133.0
+      "june20": 126.0,
+      "june21": 139.0,
+      "november20": 133.0
     },
     {
-      "april": 140.0,
-      "february": 159.0,
+      "april20": 140.0,
+      "february20": 159.0,
       "fips": 42067,
-      "june": 155.0,
-      "november": 158.0
+      "june20": 155.0,
+      "june21": "",
+      "november20": 158.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42069,
-      "june": 530.0,
-      "november": 762.0
+      "june20": 530.0,
+      "june21": 659.0,
+      "november20": 762.0
     },
     {
-      "april": 627.0,
-      "february": 781.0,
+      "april20": 627.0,
+      "february20": 781.0,
       "fips": 42071,
-      "june": 666.0,
-      "november": 709.0
+      "june20": 666.0,
+      "june21": "",
+      "november20": 709.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42073,
-      "june": 95.0,
-      "november": 106.0
+      "june20": 95.0,
+      "june21": 120.0,
+      "november20": 106.0
     },
     {
-      "april": 321.0,
-      "february": "",
+      "april20": 321.0,
+      "february20": "",
       "fips": 42075,
-      "june": 313.0,
-      "november": 303.0
+      "june20": 313.0,
+      "june21": 320.0,
+      "november20": 303.0
     },
     {
-      "april": 565.0,
-      "february": 730.0,
+      "april20": 565.0,
+      "february20": 730.0,
       "fips": 42077,
-      "june": 545.0,
-      "november": 678.0
+      "june20": 545.0,
+      "june21": 661.0,
+      "november20": 678.0
     },
     {
-      "april": 425.0,
-      "february": 646.0,
+      "april20": 425.0,
+      "february20": 646.0,
       "fips": 42079,
-      "june": 388.0,
-      "november": 407.0
+      "june20": 388.0,
+      "june21": 419.0,
+      "november20": 407.0
     },
     {
-      "april": 240.0,
-      "february": "",
+      "april20": 240.0,
+      "february20": "",
       "fips": 42081,
-      "june": 213.0,
-      "november": ""
+      "june20": 213.0,
+      "june21": "",
+      "november20": ""
     },
     {
-      "april": 47.0,
-      "february": 89.0,
+      "april20": 47.0,
+      "february20": 89.0,
       "fips": 42083,
-      "june": 49.0,
-      "november": 66.0
+      "june20": 49.0,
+      "june21": 67.0,
+      "november20": 66.0
     },
     {
-      "april": 173.0,
-      "february": 276.0,
+      "april20": 173.0,
+      "february20": 276.0,
       "fips": 42085,
-      "june": 184.0,
-      "november": 226.0
+      "june20": 184.0,
+      "june21": 221.0,
+      "november20": 226.0
     },
     {
-      "april": 139.0,
-      "february": 159.0,
+      "april20": 139.0,
+      "february20": 159.0,
       "fips": 42087,
-      "june": 151.0,
-      "november": 161.0
+      "june20": 151.0,
+      "june21": 168.0,
+      "november20": 161.0
     },
     {
-      "april": 321.0,
-      "february": "",
+      "april20": 321.0,
+      "february20": "",
       "fips": 42089,
-      "june": 322.0,
-      "november": 326.0
+      "june20": 322.0,
+      "june21": 330.0,
+      "november20": 326.0
     },
     {
-      "april": 701.0,
-      "february": 1383.0,
+      "april20": 701.0,
+      "february20": 1383.0,
       "fips": 42091,
-      "june": 900.0,
-      "november": 923.0
+      "june20": 900.0,
+      "june21": 858.0,
+      "november20": 923.0
     },
     {
-      "april": 11.0,
-      "february": 26.0,
+      "april20": 11.0,
+      "february20": 26.0,
       "fips": 42093,
-      "june": 13.0,
-      "november": 14.0
+      "june20": 13.0,
+      "june21": 12.0,
+      "november20": 14.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42095,
-      "june": "",
-      "november": 521.0
+      "june20": "",
+      "june21": 560.0,
+      "november20": 521.0
     },
     {
-      "april": 200.0,
-      "february": 246.0,
+      "april20": 200.0,
+      "february20": 246.0,
       "fips": 42097,
-      "june": 203.0,
-      "november": 211.0
+      "june20": 203.0,
+      "june21": 225.0,
+      "november20": 211.0
     },
     {
-      "april": 69.0,
-      "february": 82.0,
+      "april20": 69.0,
+      "february20": 82.0,
       "fips": 42099,
-      "june": 70.0,
-      "november": 85.0
+      "june20": 70.0,
+      "june21": 84.0,
+      "november20": 85.0
     },
     {
-      "april": 3725.0,
-      "february": 4780.0,
+      "april20": 3725.0,
+      "february20": 4780.0,
       "fips": 42101,
-      "june": 3874.0,
-      "november": 4320.0
+      "june20": 3874.0,
+      "june21": 4862.0,
+      "november20": 4320.0
     },
     {
-      "april": 219.0,
-      "february": 335.0,
+      "april20": 219.0,
+      "february20": 335.0,
       "fips": 42103,
-      "june": 206.0,
-      "november": 175.0
+      "june20": 206.0,
+      "june21": 136.0,
+      "november20": 175.0
     },
     {
-      "april": 33.0,
-      "february": "",
+      "april20": 33.0,
+      "february20": "",
       "fips": 42105,
-      "june": 38.0,
-      "november": 47.0
+      "june20": 38.0,
+      "june21": 50.0,
+      "november20": 47.0
     },
     {
-      "april": 169.0,
-      "february": 254.0,
+      "april20": 169.0,
+      "february20": 254.0,
       "fips": 42107,
-      "june": 171.0,
-      "november": 242.0
+      "june20": 171.0,
+      "june21": 240.0,
+      "november20": 242.0
     },
     {
-      "april": 73.0,
-      "february": 111.0,
+      "april20": 73.0,
+      "february20": 111.0,
       "fips": 42109,
-      "june": 69.0,
-      "november": 69.0
+      "june20": 69.0,
+      "june21": 79.0,
+      "november20": 69.0
     },
     {
-      "april": 90.0,
-      "february": 135.0,
+      "april20": 90.0,
+      "february20": 135.0,
       "fips": 42111,
-      "june": 72.0,
-      "november": 75.0
+      "june20": 72.0,
+      "june21": 79.0,
+      "november20": 75.0
     },
     {
-      "april": 1.0,
-      "february": 0.0,
+      "april20": 1.0,
+      "february20": 0.0,
       "fips": 42113,
-      "june": 4.0,
-      "november": ""
+      "june20": 4.0,
+      "june21": "",
+      "november20": ""
     },
     {
-      "april": 39.0,
-      "february": 51.0,
+      "april20": 39.0,
+      "february20": 51.0,
       "fips": 42115,
-      "june": 41.0,
-      "november": 55.0
+      "june20": 41.0,
+      "june21": 71.0,
+      "november20": 55.0
     },
     {
-      "april": 47.0,
-      "february": 81.0,
+      "april20": 47.0,
+      "february20": 81.0,
       "fips": 42117,
-      "june": 52.0,
-      "november": 54.0
+      "june20": 52.0,
+      "june21": 56.0,
+      "november20": 54.0
     },
     {
-      "april": 13.0,
-      "february": 36.0,
+      "april20": 13.0,
+      "february20": 36.0,
       "fips": 42119,
-      "june": 10.0,
-      "november": 26.0
+      "june20": 10.0,
+      "june21": 12.0,
+      "november20": 26.0
     },
     {
-      "april": 76.0,
-      "february": 172.0,
+      "april20": 76.0,
+      "february20": 172.0,
       "fips": 42121,
-      "june": 140.0,
-      "november": 136.0
+      "june20": 140.0,
+      "june21": "",
+      "november20": 136.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42123,
-      "june": 96.0,
-      "november": 87.0
+      "june20": 96.0,
+      "june21": "",
+      "november20": 87.0
     },
     {
-      "april": 280.0,
-      "february": 323.0,
+      "april20": 280.0,
+      "february20": 323.0,
       "fips": 42125,
-      "june": 282.0,
-      "november": ""
+      "june20": 282.0,
+      "june21": "",
+      "november20": ""
     },
     {
-      "april": 63.0,
-      "february": 82.0,
+      "april20": 63.0,
+      "february20": 82.0,
       "fips": 42127,
-      "june": 52.0,
-      "november": 62.0
+      "june20": 52.0,
+      "june21": 55.0,
+      "november20": 62.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42129,
-      "june": 434.0,
-      "november": 476.0
+      "june20": 434.0,
+      "june21": 527.0,
+      "november20": 476.0
     },
     {
-      "april": 41.0,
-      "february": 59.0,
+      "april20": 41.0,
+      "february20": 59.0,
       "fips": 42131,
-      "june": 37.0,
-      "november": 44.0
+      "june20": 37.0,
+      "june21": 54.0,
+      "november20": 44.0
     },
     {
-      "april": "",
-      "february": "",
+      "april20": "",
+      "february20": "",
       "fips": 42133,
-      "june": "",
-      "november": ""
+      "june20": "",
+      "june21": 1316.0,
+      "november20": ""
     }
   ],
   "jailCovidData": [
@@ -1101,14 +1167,14 @@
   ],
   "sciCovidData": [
     {
-      "All Cases": 962,
+      "All Cases": 963,
       "All Deaths": 3,
-      "Current Cases": 2,
+      "Current Cases": 3,
       "Guard Current Positive": 2,
       "Guard Total Positive": 235,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 3,
-      "Prisoner Total Positive": 727,
+      "Prisoner Total Positive": 728,
       "SCI": "ALBION"
     },
     {
@@ -1134,14 +1200,14 @@
       "SCI": "CAMBRIDGE SPRINGS"
     },
     {
-      "All Cases": 1023,
+      "All Cases": 1025,
       "All Deaths": 4,
-      "Current Cases": 2,
+      "Current Cases": 4,
       "Guard Current Positive": 0,
       "Guard Total Positive": 311,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 4,
       "Prisoner Total Deaths": 4,
-      "Prisoner Total Positive": 712,
+      "Prisoner Total Positive": 714,
       "SCI": "CAMP HILL"
     },
     {
@@ -1246,10 +1312,10 @@
     {
       "All Cases": 730,
       "All Deaths": 15,
-      "Current Cases": 1,
+      "Current Cases": 0,
       "Guard Current Positive": 0,
       "Guard Total Positive": 197,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 15,
       "Prisoner Total Positive": 533,
       "SCI": "LAUREL HIGHLANDS"
@@ -1343,14 +1409,14 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1172,
+      "All Cases": 1178,
       "All Deaths": 6,
-      "Current Cases": 21,
+      "Current Cases": 25,
       "Guard Current Positive": 0,
       "Guard Total Positive": 214,
-      "Prisoner Current Positive": 21,
+      "Prisoner Current Positive": 25,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 958,
+      "Prisoner Total Positive": 964,
       "SCI": "SMITHFIELD"
     },
     {
