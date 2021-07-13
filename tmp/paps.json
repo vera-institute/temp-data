@@ -1,5 +1,5 @@
 {
-  "date": "2021-07-12",
+  "date": "2021-07-13",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -1167,14 +1167,14 @@
   ],
   "sciCovidData": [
     {
-      "All Cases": 963,
+      "All Cases": 964,
       "All Deaths": 3,
-      "Current Cases": 2,
+      "Current Cases": 3,
       "Guard Current Positive": 2,
       "Guard Total Positive": 235,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 3,
-      "Prisoner Total Positive": 728,
+      "Prisoner Total Positive": 729,
       "SCI": "ALBION"
     },
     {
@@ -1356,23 +1356,23 @@
     {
       "All Cases": 517,
       "All Deaths": 17,
-      "Current Cases": 7,
+      "Current Cases": 5,
       "Guard Current Positive": 4,
       "Guard Total Positive": 289,
-      "Prisoner Current Positive": 3,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 17,
       "Prisoner Total Positive": 228,
       "SCI": "PHOENIX"
     },
     {
-      "All Cases": 266,
+      "All Cases": 267,
       "All Deaths": 1,
       "Current Cases": 0,
       "Guard Current Positive": 0,
       "Guard Total Positive": 112,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 1,
-      "Prisoner Total Positive": 154,
+      "Prisoner Total Positive": 155,
       "SCI": "PINE GROVE"
     },
     {
@@ -1409,25 +1409,25 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1189,
+      "All Cases": 1190,
       "All Deaths": 6,
-      "Current Cases": 20,
+      "Current Cases": 21,
       "Guard Current Positive": 1,
       "Guard Total Positive": 215,
-      "Prisoner Current Positive": 19,
+      "Prisoner Current Positive": 20,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 974,
+      "Prisoner Total Positive": 975,
       "SCI": "SMITHFIELD"
     },
     {
-      "All Cases": 839,
+      "All Cases": 840,
       "All Deaths": 4,
-      "Current Cases": 4,
+      "Current Cases": 5,
       "Guard Current Positive": 2,
       "Guard Total Positive": 214,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 3,
       "Prisoner Total Deaths": 4,
-      "Prisoner Total Positive": 625,
+      "Prisoner Total Positive": 626,
       "SCI": "SOMERSET"
     },
     {
