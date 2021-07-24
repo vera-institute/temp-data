@@ -1,5 +1,5 @@
 {
-  "date": "2021-07-23",
+  "date": "2021-07-24",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -1191,10 +1191,10 @@
     {
       "All Cases": 786,
       "All Deaths": 1,
-      "Current Cases": 1,
+      "Current Cases": 0,
       "Guard Current Positive": 0,
       "Guard Total Positive": 91,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 695,
       "SCI": "CAMBRIDGE SPRINGS"
@@ -1279,10 +1279,10 @@
     {
       "All Cases": 399,
       "All Deaths": 1,
-      "Current Cases": 2,
+      "Current Cases": 1,
       "Guard Current Positive": 1,
       "Guard Total Positive": 219,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 180,
       "SCI": "GREENE"
@@ -1409,14 +1409,14 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1201,
+      "All Cases": 1203,
       "All Deaths": 6,
-      "Current Cases": 15,
+      "Current Cases": 13,
       "Guard Current Positive": 0,
       "Guard Total Positive": 215,
-      "Prisoner Current Positive": 15,
+      "Prisoner Current Positive": 13,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 986,
+      "Prisoner Total Positive": 988,
       "SCI": "SMITHFIELD"
     },
     {
