@@ -1,5 +1,5 @@
 {
-  "date": "2021-07-26",
+  "date": "2021-07-27",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -956,7 +956,7 @@
     },
     {
       "Date": "6/29/2021",
-      "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "",
+      "Have You Started Vaccinating Inmates?  ONLY ENTER Yes/No": "Yes",
       "Have you started vaccinating staff? ONLY ENTER Yes/No (facility on site vaccinating)": "",
       "fips": "42061"
     },
