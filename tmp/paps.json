@@ -1,5 +1,5 @@
 {
-  "date": "2021-07-28",
+  "date": "2021-07-29",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -1211,11 +1211,11 @@
       "SCI": "CAMP HILL"
     },
     {
-      "All Cases": 404,
+      "All Cases": 405,
       "All Deaths": 12,
-      "Current Cases": 4,
-      "Guard Current Positive": 4,
-      "Guard Total Positive": 180,
+      "Current Cases": 5,
+      "Guard Current Positive": 5,
+      "Guard Total Positive": 181,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 12,
       "Prisoner Total Positive": 224,
@@ -1321,11 +1321,11 @@
       "SCI": "LAUREL HIGHLANDS"
     },
     {
-      "All Cases": 619,
+      "All Cases": 620,
       "All Deaths": 6,
-      "Current Cases": 0,
-      "Guard Current Positive": 0,
-      "Guard Total Positive": 223,
+      "Current Cases": 1,
+      "Guard Current Positive": 1,
+      "Guard Total Positive": 224,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 396,
@@ -1356,8 +1356,8 @@
     {
       "All Cases": 519,
       "All Deaths": 17,
-      "Current Cases": 5,
-      "Guard Current Positive": 5,
+      "Current Cases": 4,
+      "Guard Current Positive": 4,
       "Guard Total Positive": 290,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 17,
@@ -1376,11 +1376,11 @@
       "SCI": "PINE GROVE"
     },
     {
-      "All Cases": 316,
+      "All Cases": 317,
       "All Deaths": 0,
-      "Current Cases": 3,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 88,
+      "Current Cases": 4,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 89,
       "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 0,
       "Prisoner Total Positive": 228,
@@ -1411,10 +1411,10 @@
     {
       "All Cases": 1205,
       "All Deaths": 6,
-      "Current Cases": 9,
+      "Current Cases": 7,
       "Guard Current Positive": 0,
       "Guard Total Positive": 215,
-      "Prisoner Current Positive": 9,
+      "Prisoner Current Positive": 7,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 990,
       "SCI": "SMITHFIELD"
