@@ -1,5 +1,5 @@
 {
-  "date": "2021-07-29",
+  "date": "2021-07-30",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -1213,8 +1213,8 @@
     {
       "All Cases": 405,
       "All Deaths": 12,
-      "Current Cases": 5,
-      "Guard Current Positive": 5,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
       "Guard Total Positive": 181,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 12,
@@ -1257,8 +1257,8 @@
     {
       "All Cases": 1152,
       "All Deaths": 6,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
+      "Current Cases": 1,
+      "Guard Current Positive": 1,
       "Guard Total Positive": 152,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 6,
@@ -1354,11 +1354,11 @@
       "SCI": "MUNCY"
     },
     {
-      "All Cases": 519,
+      "All Cases": 520,
       "All Deaths": 17,
-      "Current Cases": 4,
-      "Guard Current Positive": 4,
-      "Guard Total Positive": 290,
+      "Current Cases": 3,
+      "Guard Current Positive": 3,
+      "Guard Total Positive": 291,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 17,
       "Prisoner Total Positive": 229,
@@ -1376,11 +1376,11 @@
       "SCI": "PINE GROVE"
     },
     {
-      "All Cases": 317,
+      "All Cases": 316,
       "All Deaths": 0,
-      "Current Cases": 4,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 89,
+      "Current Cases": 3,
+      "Guard Current Positive": 1,
+      "Guard Total Positive": 88,
       "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 0,
       "Prisoner Total Positive": 228,
