@@ -1,5 +1,5 @@
 {
-  "date": "2021-07-30",
+  "date": "2021-07-31",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -1191,10 +1191,10 @@
     {
       "All Cases": 787,
       "All Deaths": 1,
-      "Current Cases": 1,
+      "Current Cases": 0,
       "Guard Current Positive": 0,
       "Guard Total Positive": 91,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 696,
       "SCI": "CAMBRIDGE SPRINGS"
@@ -1235,8 +1235,8 @@
     {
       "All Cases": 1553,
       "All Deaths": 11,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
+      "Current Cases": 1,
+      "Guard Current Positive": 1,
       "Guard Total Positive": 275,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 11,
@@ -1290,8 +1290,8 @@
     {
       "All Cases": 420,
       "All Deaths": 3,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
+      "Current Cases": 1,
+      "Guard Current Positive": 1,
       "Guard Total Positive": 163,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
@@ -1312,10 +1312,10 @@
     {
       "All Cases": 733,
       "All Deaths": 15,
-      "Current Cases": 3,
+      "Current Cases": 1,
       "Guard Current Positive": 0,
       "Guard Total Positive": 197,
-      "Prisoner Current Positive": 3,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 15,
       "Prisoner Total Positive": 536,
       "SCI": "LAUREL HIGHLANDS"
@@ -1354,14 +1354,14 @@
       "SCI": "MUNCY"
     },
     {
-      "All Cases": 520,
+      "All Cases": 524,
       "All Deaths": 17,
-      "Current Cases": 3,
-      "Guard Current Positive": 3,
-      "Guard Total Positive": 291,
-      "Prisoner Current Positive": 0,
+      "Current Cases": 7,
+      "Guard Current Positive": 4,
+      "Guard Total Positive": 292,
+      "Prisoner Current Positive": 3,
       "Prisoner Total Deaths": 17,
-      "Prisoner Total Positive": 229,
+      "Prisoner Total Positive": 232,
       "SCI": "PHOENIX"
     },
     {
@@ -1376,12 +1376,12 @@
       "SCI": "PINE GROVE"
     },
     {
-      "All Cases": 316,
+      "All Cases": 317,
       "All Deaths": 0,
-      "Current Cases": 3,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 88,
-      "Prisoner Current Positive": 2,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 89,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 0,
       "Prisoner Total Positive": 228,
       "SCI": "QUEHANNA"
@@ -1409,22 +1409,22 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1205,
+      "All Cases": 1207,
       "All Deaths": 6,
-      "Current Cases": 7,
+      "Current Cases": 9,
       "Guard Current Positive": 0,
       "Guard Total Positive": 215,
-      "Prisoner Current Positive": 7,
+      "Prisoner Current Positive": 9,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 990,
+      "Prisoner Total Positive": 992,
       "SCI": "SMITHFIELD"
     },
     {
-      "All Cases": 840,
+      "All Cases": 841,
       "All Deaths": 4,
-      "Current Cases": 1,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 214,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 215,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 626,
