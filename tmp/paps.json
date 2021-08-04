@@ -1,5 +1,5 @@
 {
-  "date": "2021-08-03",
+  "date": "2021-08-04",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -1169,23 +1169,23 @@
     {
       "All Cases": 965,
       "All Deaths": 4,
-      "Current Cases": 2,
+      "Current Cases": 1,
       "Guard Current Positive": 1,
       "Guard Total Positive": 235,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 730,
       "SCI": "ALBION"
     },
     {
-      "All Cases": 424,
+      "All Cases": 425,
       "All Deaths": 8,
-      "Current Cases": 3,
+      "Current Cases": 4,
       "Guard Current Positive": 2,
       "Guard Total Positive": 187,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 8,
-      "Prisoner Total Positive": 237,
+      "Prisoner Total Positive": 238,
       "SCI": "BENNER"
     },
     {
@@ -1222,25 +1222,25 @@
       "SCI": "CHESTER"
     },
     {
-      "All Cases": 726,
+      "All Cases": 727,
       "All Deaths": 3,
-      "Current Cases": 0,
+      "Current Cases": 1,
       "Guard Current Positive": 0,
       "Guard Total Positive": 203,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 3,
-      "Prisoner Total Positive": 523,
+      "Prisoner Total Positive": 524,
       "SCI": "COAL TOWNSHIP"
     },
     {
-      "All Cases": 1553,
+      "All Cases": 1554,
       "All Deaths": 11,
-      "Current Cases": 1,
+      "Current Cases": 2,
       "Guard Current Positive": 1,
       "Guard Total Positive": 275,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 11,
-      "Prisoner Total Positive": 1278,
+      "Prisoner Total Positive": 1279,
       "SCI": "DALLAS"
     },
     {
@@ -1266,33 +1266,33 @@
       "SCI": "FOREST"
     },
     {
-      "All Cases": 262,
+      "All Cases": 264,
       "All Deaths": 1,
-      "Current Cases": 2,
+      "Current Cases": 4,
       "Guard Current Positive": 1,
       "Guard Total Positive": 148,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 3,
       "Prisoner Total Deaths": 1,
-      "Prisoner Total Positive": 114,
+      "Prisoner Total Positive": 116,
       "SCI": "FRACKVILLE"
     },
     {
-      "All Cases": 399,
+      "All Cases": 401,
       "All Deaths": 1,
-      "Current Cases": 1,
+      "Current Cases": 3,
       "Guard Current Positive": 1,
       "Guard Total Positive": 219,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 1,
-      "Prisoner Total Positive": 180,
+      "Prisoner Total Positive": 182,
       "SCI": "GREENE"
     },
     {
-      "All Cases": 421,
+      "All Cases": 423,
       "All Deaths": 3,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 164,
+      "Current Cases": 4,
+      "Guard Current Positive": 4,
+      "Guard Total Positive": 166,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
       "Prisoner Total Positive": 257,
@@ -1312,10 +1312,10 @@
     {
       "All Cases": 733,
       "All Deaths": 15,
-      "Current Cases": 1,
+      "Current Cases": 0,
       "Guard Current Positive": 0,
       "Guard Total Positive": 197,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 15,
       "Prisoner Total Positive": 536,
       "SCI": "LAUREL HIGHLANDS"
@@ -1354,14 +1354,14 @@
       "SCI": "MUNCY"
     },
     {
-      "All Cases": 526,
+      "All Cases": 543,
       "All Deaths": 17,
-      "Current Cases": 8,
-      "Guard Current Positive": 3,
+      "Current Cases": 23,
+      "Guard Current Positive": 2,
       "Guard Total Positive": 292,
-      "Prisoner Current Positive": 5,
+      "Prisoner Current Positive": 21,
       "Prisoner Total Deaths": 17,
-      "Prisoner Total Positive": 234,
+      "Prisoner Total Positive": 251,
       "SCI": "PHOENIX"
     },
     {
@@ -1376,11 +1376,11 @@
       "SCI": "PINE GROVE"
     },
     {
-      "All Cases": 317,
+      "All Cases": 318,
       "All Deaths": 0,
       "Current Cases": 2,
       "Guard Current Positive": 2,
-      "Guard Total Positive": 89,
+      "Guard Total Positive": 90,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 0,
       "Prisoner Total Positive": 228,
@@ -1398,36 +1398,36 @@
       "SCI": "RETREAT"
     },
     {
-      "All Cases": 398,
+      "All Cases": 399,
       "All Deaths": 2,
-      "Current Cases": 1,
-      "Guard Current Positive": 0,
-      "Guard Total Positive": 267,
+      "Current Cases": 2,
+      "Guard Current Positive": 1,
+      "Guard Total Positive": 268,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 2,
       "Prisoner Total Positive": 131,
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1207,
+      "All Cases": 1209,
       "All Deaths": 6,
-      "Current Cases": 7,
+      "Current Cases": 8,
       "Guard Current Positive": 0,
       "Guard Total Positive": 215,
-      "Prisoner Current Positive": 7,
+      "Prisoner Current Positive": 8,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 992,
+      "Prisoner Total Positive": 994,
       "SCI": "SMITHFIELD"
     },
     {
-      "All Cases": 841,
+      "All Cases": 842,
       "All Deaths": 4,
-      "Current Cases": 2,
+      "Current Cases": 3,
       "Guard Current Positive": 2,
       "Guard Total Positive": 215,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 4,
-      "Prisoner Total Positive": 626,
+      "Prisoner Total Positive": 627,
       "SCI": "SOMERSET"
     },
     {
