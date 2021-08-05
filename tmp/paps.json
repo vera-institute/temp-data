@@ -1,5 +1,5 @@
 {
-  "date": "2021-08-04",
+  "date": "2021-08-05",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -1167,25 +1167,25 @@
   ],
   "sciCovidData": [
     {
-      "All Cases": 965,
+      "All Cases": 969,
       "All Deaths": 4,
-      "Current Cases": 1,
+      "Current Cases": 5,
       "Guard Current Positive": 1,
       "Guard Total Positive": 235,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 4,
       "Prisoner Total Deaths": 4,
-      "Prisoner Total Positive": 730,
+      "Prisoner Total Positive": 734,
       "SCI": "ALBION"
     },
     {
-      "All Cases": 425,
+      "All Cases": 428,
       "All Deaths": 8,
-      "Current Cases": 4,
+      "Current Cases": 7,
       "Guard Current Positive": 2,
       "Guard Total Positive": 187,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 5,
       "Prisoner Total Deaths": 8,
-      "Prisoner Total Positive": 238,
+      "Prisoner Total Positive": 241,
       "SCI": "BENNER"
     },
     {
@@ -1200,25 +1200,25 @@
       "SCI": "CAMBRIDGE SPRINGS"
     },
     {
-      "All Cases": 1034,
+      "All Cases": 1031,
       "All Deaths": 4,
-      "Current Cases": 4,
+      "Current Cases": 1,
       "Guard Current Positive": 0,
       "Guard Total Positive": 312,
-      "Prisoner Current Positive": 4,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 4,
-      "Prisoner Total Positive": 722,
+      "Prisoner Total Positive": 719,
       "SCI": "CAMP HILL"
     },
     {
-      "All Cases": 405,
+      "All Cases": 407,
       "All Deaths": 12,
-      "Current Cases": 2,
+      "Current Cases": 3,
       "Guard Current Positive": 2,
-      "Guard Total Positive": 181,
-      "Prisoner Current Positive": 0,
+      "Guard Total Positive": 182,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 12,
-      "Prisoner Total Positive": 224,
+      "Prisoner Total Positive": 225,
       "SCI": "CHESTER"
     },
     {
@@ -1343,25 +1343,25 @@
       "SCI": "MERCER"
     },
     {
-      "All Cases": 667,
+      "All Cases": 668,
       "All Deaths": 1,
-      "Current Cases": 0,
+      "Current Cases": 1,
       "Guard Current Positive": 0,
       "Guard Total Positive": 181,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 1,
-      "Prisoner Total Positive": 486,
+      "Prisoner Total Positive": 487,
       "SCI": "MUNCY"
     },
     {
-      "All Cases": 543,
+      "All Cases": 547,
       "All Deaths": 17,
-      "Current Cases": 23,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 292,
-      "Prisoner Current Positive": 21,
+      "Current Cases": 27,
+      "Guard Current Positive": 5,
+      "Guard Total Positive": 295,
+      "Prisoner Current Positive": 22,
       "Prisoner Total Deaths": 17,
-      "Prisoner Total Positive": 251,
+      "Prisoner Total Positive": 252,
       "SCI": "PHOENIX"
     },
     {
@@ -1398,14 +1398,14 @@
       "SCI": "RETREAT"
     },
     {
-      "All Cases": 399,
+      "All Cases": 401,
       "All Deaths": 2,
-      "Current Cases": 2,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 268,
-      "Prisoner Current Positive": 1,
+      "Current Cases": 4,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 269,
+      "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 2,
-      "Prisoner Total Positive": 131,
+      "Prisoner Total Positive": 132,
       "SCI": "ROCKVIEW"
     },
     {
