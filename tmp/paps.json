@@ -1,5 +1,5 @@
 {
-  "date": "2021-08-09",
+  "date": "2021-08-10",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -532,6 +532,27 @@
   ],
   "jailCovidData": [
     {
+      "county": "Allegheny",
+      "date": "8/9/2021",
+      "fips": "42003",
+      "source": "https://www.alleghenycounty.us/jail/index.aspx",
+      "source_name": "Allegheny County Jail"
+    },
+    {
+      "county": "Chester",
+      "date": "8/9/2021",
+      "fips": "42029",
+      "source": "https://www.chesco.org/175/Prison",
+      "source_name": "Chester County Prison"
+    },
+    {
+      "county": "Westmoreland",
+      "date": "5/24/2021",
+      "fips": "42129",
+      "source": "https://triblive.com/local/westmoreland/in-person-visits-set-to-resume-at-westmoreland-jail-as-inmate-vaccinations-begin/",
+      "source_name": "TribLive"
+    },
+    {
       "county": "Lehigh",
       "date": "5/4/2021",
       "fips": "42077",
@@ -553,13 +574,6 @@
       "source_name": "WGAL"
     },
     {
-      "county": "Westmoreland",
-      "date": "5/24/2021",
-      "fips": "42129",
-      "source": "https://triblive.com/local/westmoreland/in-person-visits-set-to-resume-at-westmoreland-jail-as-inmate-vaccinations-begin/",
-      "source_name": "TribLive"
-    },
-    {
       "county": "Cambria",
       "date": "4/15/2021",
       "fips": "42021",
@@ -567,25 +581,11 @@
       "source_name": "The Tribune-Democrat"
     },
     {
-      "county": "Allegheny",
-      "date": "4/12/2021",
-      "fips": "42003",
-      "source": "https://www.alleghenycounty.us/jail/index.aspx",
-      "source_name": "Allegheny County Jail"
-    },
-    {
       "county": "Philadelphia",
       "date": "4/12/2021",
       "fips": "42101",
       "source": "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data",
       "source_name": "City of Philadelphia"
-    },
-    {
-      "county": "Chester",
-      "date": "4/12/2021",
-      "fips": "42029",
-      "source": "https://www.chesco.org/175/Prison",
-      "source_name": "Chester County Prison"
     },
     {
       "county": "Lycoming",
