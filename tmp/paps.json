@@ -1,5 +1,5 @@
 {
-  "date": "2021-08-16",
+  "date": "2021-08-17",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -1180,10 +1180,10 @@
     {
       "All Cases": 434,
       "All Deaths": 8,
-      "Current Cases": 11,
+      "Current Cases": 10,
       "Guard Current Positive": 1,
       "Guard Total Positive": 188,
-      "Prisoner Current Positive": 10,
+      "Prisoner Current Positive": 9,
       "Prisoner Total Deaths": 8,
       "Prisoner Total Positive": 246,
       "SCI": "BENNER"
@@ -1200,11 +1200,11 @@
       "SCI": "CAMBRIDGE SPRINGS"
     },
     {
-      "All Cases": 1033,
+      "All Cases": 1034,
       "All Deaths": 4,
-      "Current Cases": 3,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 313,
+      "Current Cases": 4,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 314,
       "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 720,
@@ -1222,12 +1222,12 @@
       "SCI": "CHESTER"
     },
     {
-      "All Cases": 729,
+      "All Cases": 730,
       "All Deaths": 3,
       "Current Cases": 3,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 205,
-      "Prisoner Current Positive": 1,
+      "Guard Current Positive": 3,
+      "Guard Total Positive": 206,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
       "Prisoner Total Positive": 524,
       "SCI": "COAL TOWNSHIP"
@@ -1268,8 +1268,8 @@
     {
       "All Cases": 266,
       "All Deaths": 1,
-      "Current Cases": 5,
-      "Guard Current Positive": 3,
+      "Current Cases": 3,
+      "Guard Current Positive": 1,
       "Guard Total Positive": 150,
       "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 1,
@@ -1288,11 +1288,11 @@
       "SCI": "GREENE"
     },
     {
-      "All Cases": 423,
+      "All Cases": 424,
       "All Deaths": 3,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 166,
+      "Current Cases": 3,
+      "Guard Current Positive": 3,
+      "Guard Total Positive": 167,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
       "Prisoner Total Positive": 257,
@@ -1321,11 +1321,11 @@
       "SCI": "LAUREL HIGHLANDS"
     },
     {
-      "All Cases": 623,
+      "All Cases": 624,
       "All Deaths": 6,
-      "Current Cases": 2,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 226,
+      "Current Cases": 3,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 227,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 397,
@@ -1334,10 +1334,10 @@
     {
       "All Cases": 352,
       "All Deaths": 6,
-      "Current Cases": 2,
+      "Current Cases": 0,
       "Guard Current Positive": 0,
       "Guard Total Positive": 104,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 248,
       "SCI": "MERCER"
@@ -1356,10 +1356,10 @@
     {
       "All Cases": 570,
       "All Deaths": 17,
-      "Current Cases": 36,
-      "Guard Current Positive": 7,
+      "Current Cases": 31,
+      "Guard Current Positive": 4,
       "Guard Total Positive": 309,
-      "Prisoner Current Positive": 29,
+      "Prisoner Current Positive": 27,
       "Prisoner Total Deaths": 17,
       "Prisoner Total Positive": 261,
       "SCI": "PHOENIX"
@@ -1409,21 +1409,21 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1217,
+      "All Cases": 1220,
       "All Deaths": 6,
-      "Current Cases": 10,
-      "Guard Current Positive": 0,
-      "Guard Total Positive": 215,
-      "Prisoner Current Positive": 10,
+      "Current Cases": 12,
+      "Guard Current Positive": 1,
+      "Guard Total Positive": 216,
+      "Prisoner Current Positive": 11,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 1002,
+      "Prisoner Total Positive": 1004,
       "SCI": "SMITHFIELD"
     },
     {
       "All Cases": 843,
       "All Deaths": 4,
-      "Current Cases": 3,
-      "Guard Current Positive": 2,
+      "Current Cases": 2,
+      "Guard Current Positive": 1,
       "Guard Total Positive": 216,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 4,
