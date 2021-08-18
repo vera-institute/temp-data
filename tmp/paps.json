@@ -1,5 +1,5 @@
 {
-  "date": "2021-08-17",
+  "date": "2021-08-18",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -532,11 +532,32 @@
   ],
   "jailCovidData": [
     {
+      "county": "Philadelphia",
+      "date": "8/17/2021",
+      "fips": "42101",
+      "source": "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data",
+      "source_name": "City of Philadelphia"
+    },
+    {
       "county": "Allegheny",
-      "date": "8/9/2021",
+      "date": "8/13/2021",
       "fips": "42003",
-      "source": "https://www.alleghenycounty.us/jail/index.aspx",
-      "source_name": "Allegheny County Jail"
+      "source": "https://triblive.com/local/covid-cases-rising-at-allegheny-county-jail/",
+      "source_name": "TribLive"
+    },
+    {
+      "county": "Bucks",
+      "date": "8/13/2021",
+      "fips": "42011",
+      "source": "https://www.buckscountycouriertimes.com/story/news/2021/08/13/covid-19-surge-jails-has-bucks-vaccine-mandates-county-montgomery-pennsylvania-inmates-corrections/5566386001/",
+      "source_name": "Bucks County Courier Times"
+    },
+    {
+      "county": "Montgomery",
+      "date": "8/13/2021",
+      "fips": "42091",
+      "source": "https://www.buckscountycouriertimes.com/story/news/2021/08/13/covid-19-surge-jails-has-bucks-vaccine-mandates-county-montgomery-pennsylvania-inmates-corrections/5566386001/",
+      "source_name": "Bucks County Courier Times"
     },
     {
       "county": "Chester",
@@ -581,13 +602,6 @@
       "source_name": "The Tribune-Democrat"
     },
     {
-      "county": "Philadelphia",
-      "date": "4/12/2021",
-      "fips": "42101",
-      "source": "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data",
-      "source_name": "City of Philadelphia"
-    },
-    {
       "county": "Lycoming",
       "date": "3/4/2021",
       "fips": "42081",
@@ -607,13 +621,6 @@
       "fips": "42013",
       "source": "Blair County Prison",
       "source_name": "Blair County Prison"
-    },
-    {
-      "county": "Bucks",
-      "date": "8/13/2021",
-      "fips": "42011",
-      "source": "https://www.buckscountycouriertimes.com/story/news/2021/08/13/covid-19-surge-jails-has-bucks-vaccine-mandates-county-montgomery-pennsylvania-inmates-corrections/5566386001/",
-      "source_name": "Bucks County Courier Times"
     },
     {
       "county": "York",
@@ -677,13 +684,6 @@
       "fips": "42043",
       "source": "https://lancasteronline.com/news/health/testing-at-dauphin-county-prison-finds-more-than-100-inmates-employees-with-covid-19/article_a4c5a8bc-961e-54f0-b5bc-96d089d6ca92.html",
       "source_name": "Lancaster Online"
-    },
-    {
-      "county": "Montgomery",
-      "date": "8/13/2021",
-      "fips": "42091",
-      "source": "https://www.buckscountycouriertimes.com/story/news/2021/08/13/covid-19-surge-jails-has-bucks-vaccine-mandates-county-montgomery-pennsylvania-inmates-corrections/5566386001/",
-      "source_name": "Bucks County Courier Times"
     },
     {
       "county": "Beaver",
@@ -1169,10 +1169,10 @@
     {
       "All Cases": 969,
       "All Deaths": 4,
-      "Current Cases": 5,
+      "Current Cases": 1,
       "Guard Current Positive": 1,
       "Guard Total Positive": 235,
-      "Prisoner Current Positive": 4,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 734,
       "SCI": "ALBION"
@@ -1180,23 +1180,23 @@
     {
       "All Cases": 434,
       "All Deaths": 8,
-      "Current Cases": 10,
+      "Current Cases": 6,
       "Guard Current Positive": 1,
       "Guard Total Positive": 188,
-      "Prisoner Current Positive": 9,
+      "Prisoner Current Positive": 5,
       "Prisoner Total Deaths": 8,
       "Prisoner Total Positive": 246,
       "SCI": "BENNER"
     },
     {
-      "All Cases": 788,
+      "All Cases": 789,
       "All Deaths": 1,
-      "Current Cases": 0,
+      "Current Cases": 1,
       "Guard Current Positive": 0,
       "Guard Total Positive": 92,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 1,
-      "Prisoner Total Positive": 696,
+      "Prisoner Total Positive": 697,
       "SCI": "CAMBRIDGE SPRINGS"
     },
     {
@@ -1211,11 +1211,11 @@
       "SCI": "CAMP HILL"
     },
     {
-      "All Cases": 412,
+      "All Cases": 413,
       "All Deaths": 12,
       "Current Cases": 0,
       "Guard Current Positive": 0,
-      "Guard Total Positive": 187,
+      "Guard Total Positive": 188,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 12,
       "Prisoner Total Positive": 225,
@@ -1224,8 +1224,8 @@
     {
       "All Cases": 730,
       "All Deaths": 3,
-      "Current Cases": 3,
-      "Guard Current Positive": 3,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
       "Guard Total Positive": 206,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
@@ -1235,10 +1235,10 @@
     {
       "All Cases": 1554,
       "All Deaths": 11,
-      "Current Cases": 2,
+      "Current Cases": 1,
       "Guard Current Positive": 1,
       "Guard Total Positive": 275,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 11,
       "Prisoner Total Positive": 1279,
       "SCI": "DALLAS"
@@ -1255,23 +1255,23 @@
       "SCI": "FAYETTE"
     },
     {
-      "All Cases": 1154,
+      "All Cases": 1155,
       "All Deaths": 6,
-      "Current Cases": 3,
+      "Current Cases": 4,
       "Guard Current Positive": 3,
       "Guard Total Positive": 154,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 1000,
+      "Prisoner Total Positive": 1001,
       "SCI": "FOREST"
     },
     {
       "All Cases": 266,
       "All Deaths": 1,
-      "Current Cases": 3,
+      "Current Cases": 1,
       "Guard Current Positive": 1,
       "Guard Total Positive": 150,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 116,
       "SCI": "FRACKVILLE"
@@ -1279,10 +1279,10 @@
     {
       "All Cases": 401,
       "All Deaths": 1,
-      "Current Cases": 3,
+      "Current Cases": 1,
       "Guard Current Positive": 1,
       "Guard Total Positive": 219,
-      "Prisoner Current Positive": 2,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 182,
       "SCI": "GREENE"
@@ -1310,11 +1310,11 @@
       "SCI": "HUNTINGDON"
     },
     {
-      "All Cases": 733,
+      "All Cases": 735,
       "All Deaths": 15,
-      "Current Cases": 0,
-      "Guard Current Positive": 0,
-      "Guard Total Positive": 197,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 199,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 15,
       "Prisoner Total Positive": 536,
@@ -1354,12 +1354,12 @@
       "SCI": "MUNCY"
     },
     {
-      "All Cases": 570,
+      "All Cases": 573,
       "All Deaths": 17,
-      "Current Cases": 31,
-      "Guard Current Positive": 4,
-      "Guard Total Positive": 309,
-      "Prisoner Current Positive": 27,
+      "Current Cases": 15,
+      "Guard Current Positive": 6,
+      "Guard Total Positive": 312,
+      "Prisoner Current Positive": 9,
       "Prisoner Total Deaths": 17,
       "Prisoner Total Positive": 261,
       "SCI": "PHOENIX"
@@ -1378,8 +1378,8 @@
     {
       "All Cases": 320,
       "All Deaths": 0,
-      "Current Cases": 4,
-      "Guard Current Positive": 4,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
       "Guard Total Positive": 92,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 0,
@@ -1400,10 +1400,10 @@
     {
       "All Cases": 401,
       "All Deaths": 2,
-      "Current Cases": 1,
+      "Current Cases": 0,
       "Guard Current Positive": 0,
       "Guard Total Positive": 269,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 2,
       "Prisoner Total Positive": 132,
       "SCI": "ROCKVIEW"
@@ -1411,10 +1411,10 @@
     {
       "All Cases": 1220,
       "All Deaths": 6,
-      "Current Cases": 12,
+      "Current Cases": 11,
       "Guard Current Positive": 1,
       "Guard Total Positive": 216,
-      "Prisoner Current Positive": 11,
+      "Prisoner Current Positive": 10,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 1004,
       "SCI": "SMITHFIELD"
@@ -1422,10 +1422,10 @@
     {
       "All Cases": 843,
       "All Deaths": 4,
-      "Current Cases": 2,
+      "Current Cases": 1,
       "Guard Current Positive": 1,
       "Guard Total Positive": 216,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 627,
       "SCI": "SOMERSET"
