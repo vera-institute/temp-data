@@ -1,5 +1,5 @@
 {
-  "date": "2021-08-18",
+  "date": "2021-08-19",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -539,6 +539,13 @@
       "source_name": "City of Philadelphia"
     },
     {
+      "county": "Northampton",
+      "date": "8/16/2021",
+      "fips": "42095",
+      "source": "",
+      "source_name": "Northampton County Department of Corrections"
+    },
+    {
       "county": "Allegheny",
       "date": "8/13/2021",
       "fips": "42003",
@@ -577,13 +584,6 @@
       "county": "Lehigh",
       "date": "5/4/2021",
       "fips": "42077",
-      "source": "https://www.mcall.com/news/police/mc-nws-northampton-jail-inmates-covid-vaccine-20210504-codkpnhk6nfpvioirlgzm4rf2u-story.html",
-      "source_name": "The Morning Call"
-    },
-    {
-      "county": "Northampton",
-      "date": "5/4/2021",
-      "fips": "42095",
       "source": "https://www.mcall.com/news/police/mc-nws-northampton-jail-inmates-covid-vaccine-20210504-codkpnhk6nfpvioirlgzm4rf2u-story.html",
       "source_name": "The Morning Call"
     },
