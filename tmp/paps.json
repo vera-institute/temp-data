@@ -1,5 +1,5 @@
 {
-  "date": "2021-08-19",
+  "date": "2021-08-20",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -1180,8 +1180,8 @@
     {
       "All Cases": 434,
       "All Deaths": 8,
-      "Current Cases": 6,
-      "Guard Current Positive": 1,
+      "Current Cases": 5,
+      "Guard Current Positive": 0,
       "Guard Total Positive": 188,
       "Prisoner Current Positive": 5,
       "Prisoner Total Deaths": 8,
@@ -1211,25 +1211,25 @@
       "SCI": "CAMP HILL"
     },
     {
-      "All Cases": 413,
+      "All Cases": 414,
       "All Deaths": 12,
-      "Current Cases": 0,
-      "Guard Current Positive": 0,
-      "Guard Total Positive": 188,
+      "Current Cases": 1,
+      "Guard Current Positive": 1,
+      "Guard Total Positive": 189,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 12,
       "Prisoner Total Positive": 225,
       "SCI": "CHESTER"
     },
     {
-      "All Cases": 730,
+      "All Cases": 731,
       "All Deaths": 3,
       "Current Cases": 2,
-      "Guard Current Positive": 2,
+      "Guard Current Positive": 1,
       "Guard Total Positive": 206,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 3,
-      "Prisoner Total Positive": 524,
+      "Prisoner Total Positive": 525,
       "SCI": "COAL TOWNSHIP"
     },
     {
@@ -1310,25 +1310,25 @@
       "SCI": "HUNTINGDON"
     },
     {
-      "All Cases": 735,
+      "All Cases": 736,
       "All Deaths": 15,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 199,
+      "Current Cases": 3,
+      "Guard Current Positive": 3,
+      "Guard Total Positive": 200,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 15,
       "Prisoner Total Positive": 536,
       "SCI": "LAUREL HIGHLANDS"
     },
     {
-      "All Cases": 624,
+      "All Cases": 630,
       "All Deaths": 6,
-      "Current Cases": 3,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 227,
-      "Prisoner Current Positive": 1,
+      "Current Cases": 9,
+      "Guard Current Positive": 3,
+      "Guard Total Positive": 228,
+      "Prisoner Current Positive": 6,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 397,
+      "Prisoner Total Positive": 402,
       "SCI": "MAHANOY"
     },
     {
@@ -1354,33 +1354,33 @@
       "SCI": "MUNCY"
     },
     {
-      "All Cases": 573,
+      "All Cases": 575,
       "All Deaths": 17,
-      "Current Cases": 15,
-      "Guard Current Positive": 6,
-      "Guard Total Positive": 312,
-      "Prisoner Current Positive": 9,
+      "Current Cases": 7,
+      "Guard Current Positive": 7,
+      "Guard Total Positive": 314,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 17,
       "Prisoner Total Positive": 261,
       "SCI": "PHOENIX"
     },
     {
-      "All Cases": 268,
+      "All Cases": 269,
       "All Deaths": 1,
       "Current Cases": 0,
       "Guard Current Positive": 0,
-      "Guard Total Positive": 112,
+      "Guard Total Positive": 113,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 156,
       "SCI": "PINE GROVE"
     },
     {
-      "All Cases": 320,
+      "All Cases": 321,
       "All Deaths": 0,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 92,
+      "Current Cases": 3,
+      "Guard Current Positive": 3,
+      "Guard Total Positive": 93,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 0,
       "Prisoner Total Positive": 228,
@@ -1409,14 +1409,14 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1220,
+      "All Cases": 1221,
       "All Deaths": 6,
-      "Current Cases": 11,
+      "Current Cases": 10,
       "Guard Current Positive": 1,
       "Guard Total Positive": 216,
-      "Prisoner Current Positive": 10,
+      "Prisoner Current Positive": 9,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 1004,
+      "Prisoner Total Positive": 1005,
       "SCI": "SMITHFIELD"
     },
     {
