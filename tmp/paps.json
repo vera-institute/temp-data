@@ -1,5 +1,5 @@
 {
-  "date": "2021-08-24",
+  "date": "2021-08-25",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -1180,10 +1180,10 @@
     {
       "All Cases": 434,
       "All Deaths": 8,
-      "Current Cases": 1,
+      "Current Cases": 0,
       "Guard Current Positive": 0,
       "Guard Total Positive": 188,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 8,
       "Prisoner Total Positive": 246,
       "SCI": "BENNER"
@@ -1200,22 +1200,22 @@
       "SCI": "CAMBRIDGE SPRINGS"
     },
     {
-      "All Cases": 1034,
+      "All Cases": 1039,
       "All Deaths": 4,
-      "Current Cases": 3,
+      "Current Cases": 7,
       "Guard Current Positive": 2,
       "Guard Total Positive": 314,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 5,
       "Prisoner Total Deaths": 4,
-      "Prisoner Total Positive": 720,
+      "Prisoner Total Positive": 725,
       "SCI": "CAMP HILL"
     },
     {
-      "All Cases": 415,
+      "All Cases": 416,
       "All Deaths": 12,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 190,
+      "Current Cases": 3,
+      "Guard Current Positive": 3,
+      "Guard Total Positive": 191,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 12,
       "Prisoner Total Positive": 225,
@@ -1224,8 +1224,8 @@
     {
       "All Cases": 731,
       "All Deaths": 3,
-      "Current Cases": 1,
-      "Guard Current Positive": 1,
+      "Current Cases": 0,
+      "Guard Current Positive": 0,
       "Guard Total Positive": 206,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
@@ -1290,8 +1290,8 @@
     {
       "All Cases": 424,
       "All Deaths": 3,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
+      "Current Cases": 1,
+      "Guard Current Positive": 1,
       "Guard Total Positive": 167,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
@@ -1299,11 +1299,11 @@
       "SCI": "HOUTZDALE"
     },
     {
-      "All Cases": 511,
+      "All Cases": 512,
       "All Deaths": 8,
-      "Current Cases": 0,
-      "Guard Current Positive": 0,
-      "Guard Total Positive": 198,
+      "Current Cases": 1,
+      "Guard Current Positive": 1,
+      "Guard Total Positive": 199,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 8,
       "Prisoner Total Positive": 313,
@@ -1323,10 +1323,10 @@
     {
       "All Cases": 636,
       "All Deaths": 6,
-      "Current Cases": 15,
+      "Current Cases": 14,
       "Guard Current Positive": 4,
       "Guard Total Positive": 229,
-      "Prisoner Current Positive": 11,
+      "Prisoner Current Positive": 10,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 407,
       "SCI": "MAHANOY"
@@ -1343,22 +1343,22 @@
       "SCI": "MERCER"
     },
     {
-      "All Cases": 669,
+      "All Cases": 670,
       "All Deaths": 1,
-      "Current Cases": 1,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 182,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 183,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 487,
       "SCI": "MUNCY"
     },
     {
-      "All Cases": 578,
+      "All Cases": 579,
       "All Deaths": 17,
-      "Current Cases": 8,
-      "Guard Current Positive": 8,
-      "Guard Total Positive": 317,
+      "Current Cases": 4,
+      "Guard Current Positive": 4,
+      "Guard Total Positive": 318,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 17,
       "Prisoner Total Positive": 261,
@@ -1378,8 +1378,8 @@
     {
       "All Cases": 322,
       "All Deaths": 0,
-      "Current Cases": 3,
-      "Guard Current Positive": 3,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
       "Guard Total Positive": 94,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 0,
@@ -1409,14 +1409,14 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1223,
+      "All Cases": 1237,
       "All Deaths": 6,
-      "Current Cases": 8,
+      "Current Cases": 20,
       "Guard Current Positive": 0,
       "Guard Total Positive": 216,
-      "Prisoner Current Positive": 8,
+      "Prisoner Current Positive": 20,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 1007,
+      "Prisoner Total Positive": 1021,
       "SCI": "SMITHFIELD"
     },
     {
@@ -1431,11 +1431,11 @@
       "SCI": "SOMERSET"
     },
     {
-      "All Cases": 1105,
+      "All Cases": 1107,
       "All Deaths": 16,
-      "Current Cases": 1,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 260,
+      "Current Cases": 3,
+      "Guard Current Positive": 3,
+      "Guard Total Positive": 262,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 16,
       "Prisoner Total Positive": 845,
