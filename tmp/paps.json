@@ -1,5 +1,5 @@
 {
-  "date": "2021-08-30",
+  "date": "2021-08-31",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -532,6 +532,27 @@
   ],
   "jailCovidData": [
     {
+      "county": "Montgomery",
+      "date": "8/30/2021",
+      "fips": "42091",
+      "source": "https://www.montcopa.org/9/COVID-19",
+      "source_name": "Mongomery County"
+    },
+    {
+      "county": "Bucks",
+      "date": "8/25/2021",
+      "fips": "42017",
+      "source": "https://www.buckscountycouriertimes.com/story/news/2021/08/25/bucks-county-covid-19-vaccine-deadline-corrections-employee-mandate-montgomery-prison-health/8249988002/",
+      "source_name": "Bucks County Courier Times"
+    },
+    {
+      "county": "Lancaster",
+      "date": "8/20/2021",
+      "fips": "42071",
+      "source": "https://www.abc27.com/news/local/lancaster/lancaster-county-prison-sees-spike-in-covid-cases/",
+      "source_name": "ABC27"
+    },
+    {
       "county": "Philadelphia",
       "date": "8/17/2021",
       "fips": "42101",
@@ -553,20 +574,6 @@
       "source_name": "TribLive"
     },
     {
-      "county": "Bucks",
-      "date": "8/13/2021",
-      "fips": "42017",
-      "source": "https://www.buckscountycouriertimes.com/story/news/2021/08/13/covid-19-surge-jails-has-bucks-vaccine-mandates-county-montgomery-pennsylvania-inmates-corrections/5566386001/",
-      "source_name": "Bucks County Courier Times"
-    },
-    {
-      "county": "Montgomery",
-      "date": "8/13/2021",
-      "fips": "42091",
-      "source": "https://www.buckscountycouriertimes.com/story/news/2021/08/13/covid-19-surge-jails-has-bucks-vaccine-mandates-county-montgomery-pennsylvania-inmates-corrections/5566386001/",
-      "source_name": "Bucks County Courier Times"
-    },
-    {
       "county": "Chester",
       "date": "8/9/2021",
       "fips": "42029",
@@ -586,13 +593,6 @@
       "fips": "42077",
       "source": "https://www.mcall.com/news/police/mc-nws-northampton-jail-inmates-covid-vaccine-20210504-codkpnhk6nfpvioirlgzm4rf2u-story.html",
       "source_name": "The Morning Call"
-    },
-    {
-      "county": "Lancaster",
-      "date": "4/28/2021",
-      "fips": "42071",
-      "source": "https://www.wgal.com/article/lancaster-county-prison-holds-covid-19-vaccine-clinic-for-inmates-staff/36267165",
-      "source_name": "WGAL"
     },
     {
       "county": "Cambria",
@@ -1178,44 +1178,44 @@
       "SCI": "ALBION"
     },
     {
-      "All Cases": 435,
+      "All Cases": 436,
       "All Deaths": 8,
-      "Current Cases": 1,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 189,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 190,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 8,
       "Prisoner Total Positive": 246,
       "SCI": "BENNER"
     },
     {
-      "All Cases": 789,
+      "All Cases": 790,
       "All Deaths": 1,
-      "Current Cases": 1,
-      "Guard Current Positive": 0,
-      "Guard Total Positive": 92,
+      "Current Cases": 2,
+      "Guard Current Positive": 1,
+      "Guard Total Positive": 93,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 697,
       "SCI": "CAMBRIDGE SPRINGS"
     },
     {
-      "All Cases": 1039,
+      "All Cases": 1041,
       "All Deaths": 4,
-      "Current Cases": 6,
+      "Current Cases": 8,
       "Guard Current Positive": 1,
       "Guard Total Positive": 314,
-      "Prisoner Current Positive": 5,
+      "Prisoner Current Positive": 7,
       "Prisoner Total Deaths": 4,
-      "Prisoner Total Positive": 725,
+      "Prisoner Total Positive": 727,
       "SCI": "CAMP HILL"
     },
     {
-      "All Cases": 417,
+      "All Cases": 419,
       "All Deaths": 12,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 192,
+      "Current Cases": 3,
+      "Guard Current Positive": 3,
+      "Guard Total Positive": 194,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 12,
       "Prisoner Total Positive": 225,
@@ -1354,11 +1354,11 @@
       "SCI": "MUNCY"
     },
     {
-      "All Cases": 583,
+      "All Cases": 585,
       "All Deaths": 17,
       "Current Cases": 5,
       "Guard Current Positive": 5,
-      "Guard Total Positive": 322,
+      "Guard Total Positive": 324,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 17,
       "Prisoner Total Positive": 261,
@@ -1378,8 +1378,8 @@
     {
       "All Cases": 323,
       "All Deaths": 0,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
+      "Current Cases": 1,
+      "Guard Current Positive": 1,
       "Guard Total Positive": 95,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 0,
@@ -1409,14 +1409,14 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1239,
+      "All Cases": 1240,
       "All Deaths": 6,
       "Current Cases": 19,
       "Guard Current Positive": 1,
       "Guard Total Positive": 217,
       "Prisoner Current Positive": 18,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 1022,
+      "Prisoner Total Positive": 1023,
       "SCI": "SMITHFIELD"
     },
     {
@@ -1431,11 +1431,11 @@
       "SCI": "SOMERSET"
     },
     {
-      "All Cases": 1107,
+      "All Cases": 1108,
       "All Deaths": 16,
-      "Current Cases": 3,
-      "Guard Current Positive": 3,
-      "Guard Total Positive": 262,
+      "Current Cases": 4,
+      "Guard Current Positive": 4,
+      "Guard Total Positive": 263,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 16,
       "Prisoner Total Positive": 845,
