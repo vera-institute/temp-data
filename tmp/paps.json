@@ -1,5 +1,5 @@
 {
-  "date": "2021-09-03",
+  "date": "2021-09-04",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -547,10 +547,10 @@
     },
     {
       "county": "Lancaster",
-      "date": "8/20/2021",
+      "date": "9/1/2021",
       "fips": "42071",
-      "source": "https://www.abc27.com/news/local/lancaster/lancaster-county-prison-sees-spike-in-covid-cases/",
-      "source_name": "ABC27"
+      "source": "https://lancasteronline.com/news/lancaster-county-approves-hiring-and-retention-bonuses-for-lancaster-county-prison-officers/article_15913eec-0b44-11ec-849c-1bd58be0f7d2.html",
+      "source_name": "Lancaster Online"
     },
     {
       "county": "Philadelphia",
@@ -789,6 +789,69 @@
       "fips": "42011",
       "source": "https://www.pottsmerc.com/news/coronavirus/berks-county-prison-sees-outbreak-of-covid-cases/article_229f01b2-d9c3-55c2-8125-6fb5af187666.html",
       "source_name": "Pottstown Mercury"
+    },
+    {
+      "county": "Adams",
+      "date": "12/1/2020",
+      "fips": "42001",
+      "source": "",
+      "source_name": "Adams County"
+    },
+    {
+      "county": "Armstrong",
+      "date": "12/1/2020",
+      "fips": "42005",
+      "source": "",
+      "source_name": "Armstrong County"
+    },
+    {
+      "county": "Butler",
+      "date": "2/15/2021",
+      "fips": "42019",
+      "source": "",
+      "source_name": "Butler County"
+    },
+    {
+      "county": "Carbon",
+      "date": "12/1/2020",
+      "fips": "42025",
+      "source": "",
+      "source_name": "Carbon County"
+    },
+    {
+      "county": "Clarion",
+      "date": "1/15/2021",
+      "fips": "42031",
+      "source": "",
+      "source_name": "Clarion County"
+    },
+    {
+      "county": "Columbia",
+      "date": "2/15/2021",
+      "fips": "42037",
+      "source": "",
+      "source_name": "Columbia County"
+    },
+    {
+      "county": "Cumberland",
+      "date": "2/15/2021",
+      "fips": "42041",
+      "source": "",
+      "source_name": "Cumberland County"
+    },
+    {
+      "county": "Elk",
+      "date": "2/15/2021",
+      "fips": "42047",
+      "source": "",
+      "source_name": "Elk County"
+    },
+    {
+      "county": "Franklin",
+      "date": "2/15/2021",
+      "fips": "42055",
+      "source": "",
+      "source_name": "Franklin County"
     }
   ],
   "jailVaccineData": [
@@ -1200,25 +1263,25 @@
       "SCI": "CAMBRIDGE SPRINGS"
     },
     {
-      "All Cases": 1043,
+      "All Cases": 1044,
       "All Deaths": 4,
-      "Current Cases": 9,
-      "Guard Current Positive": 0,
-      "Guard Total Positive": 314,
+      "Current Cases": 10,
+      "Guard Current Positive": 1,
+      "Guard Total Positive": 315,
       "Prisoner Current Positive": 9,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 729,
       "SCI": "CAMP HILL"
     },
     {
-      "All Cases": 425,
+      "All Cases": 426,
       "All Deaths": 12,
-      "Current Cases": 5,
+      "Current Cases": 6,
       "Guard Current Positive": 5,
       "Guard Total Positive": 200,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 12,
-      "Prisoner Total Positive": 225,
+      "Prisoner Total Positive": 226,
       "SCI": "CHESTER"
     },
     {
@@ -1255,11 +1318,11 @@
       "SCI": "FAYETTE"
     },
     {
-      "All Cases": 1156,
+      "All Cases": 1158,
       "All Deaths": 6,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 155,
+      "Current Cases": 4,
+      "Guard Current Positive": 4,
+      "Guard Total Positive": 157,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 1001,
@@ -1323,10 +1386,10 @@
     {
       "All Cases": 646,
       "All Deaths": 6,
-      "Current Cases": 17,
+      "Current Cases": 12,
       "Guard Current Positive": 2,
       "Guard Total Positive": 229,
-      "Prisoner Current Positive": 15,
+      "Prisoner Current Positive": 10,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 417,
       "SCI": "MAHANOY"
@@ -1345,8 +1408,8 @@
     {
       "All Cases": 673,
       "All Deaths": 1,
-      "Current Cases": 4,
-      "Guard Current Positive": 3,
+      "Current Cases": 3,
+      "Guard Current Positive": 2,
       "Guard Total Positive": 185,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 1,
@@ -1356,8 +1419,8 @@
     {
       "All Cases": 586,
       "All Deaths": 17,
-      "Current Cases": 4,
-      "Guard Current Positive": 4,
+      "Current Cases": 3,
+      "Guard Current Positive": 3,
       "Guard Total Positive": 325,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 17,
@@ -1409,12 +1472,12 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1246,
+      "All Cases": 1247,
       "All Deaths": 6,
       "Current Cases": 24,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 218,
-      "Prisoner Current Positive": 22,
+      "Guard Current Positive": 3,
+      "Guard Total Positive": 219,
+      "Prisoner Current Positive": 21,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 1028,
       "SCI": "SMITHFIELD"
