@@ -1,5 +1,5 @@
 {
-  "date": "2021-09-16",
+  "date": "2021-09-17",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -532,6 +532,27 @@
   ],
   "jailCovidData": [
     {
+      "county": "Allegheny",
+      "date": "9/13/2021",
+      "fips": "42003",
+      "source": "https://www.alleghenycounty.us/jail/index.aspx",
+      "source_name": "Allegheny County"
+    },
+    {
+      "county": "Lancaster",
+      "date": "9/1/2021",
+      "fips": "42071",
+      "source": "https://lancasteronline.com/news/lancaster-county-approves-hiring-and-retention-bonuses-for-lancaster-county-prison-officers/article_15913eec-0b44-11ec-849c-1bd58be0f7d2.html",
+      "source_name": "Lancaster Online"
+    },
+    {
+      "county": "Blair",
+      "date": "8/31/2021",
+      "fips": "42013",
+      "source": "Blair County Prison",
+      "source_name": "Blair County Prison"
+    },
+    {
       "county": "Montgomery",
       "date": "8/30/2021",
       "fips": "42091",
@@ -546,13 +567,6 @@
       "source_name": "Bucks County Courier Times"
     },
     {
-      "county": "Lancaster",
-      "date": "9/1/2021",
-      "fips": "42071",
-      "source": "https://lancasteronline.com/news/lancaster-county-approves-hiring-and-retention-bonuses-for-lancaster-county-prison-officers/article_15913eec-0b44-11ec-849c-1bd58be0f7d2.html",
-      "source_name": "Lancaster Online"
-    },
-    {
       "county": "Philadelphia",
       "date": "8/17/2021",
       "fips": "42101",
@@ -565,13 +579,6 @@
       "fips": "42095",
       "source": "",
       "source_name": "Northampton County Department of Corrections"
-    },
-    {
-      "county": "Allegheny",
-      "date": "9/13/2021",
-      "fips": "42003",
-      "source": "https://www.alleghenycounty.us/jail/index.aspx",
-      "source_name": "Allegheny County"
     },
     {
       "county": "Chester",
@@ -616,11 +623,60 @@
       "source_name": "Jeffersonian Democrat"
     },
     {
-      "county": "Blair",
-      "date": "8/31/2021",
-      "fips": "42013",
-      "source": "Blair County Prison",
-      "source_name": "Blair County Prison"
+      "county": "Butler",
+      "date": "2/15/2021",
+      "fips": "42019",
+      "source": "",
+      "source_name": "Butler County"
+    },
+    {
+      "county": "Columbia",
+      "date": "2/15/2021",
+      "fips": "42037",
+      "source": "",
+      "source_name": "Columbia County"
+    },
+    {
+      "county": "Cumberland",
+      "date": "2/15/2021",
+      "fips": "42041",
+      "source": "",
+      "source_name": "Cumberland County"
+    },
+    {
+      "county": "Elk",
+      "date": "2/15/2021",
+      "fips": "42047",
+      "source": "",
+      "source_name": "Elk County"
+    },
+    {
+      "county": "Franklin",
+      "date": "2/15/2021",
+      "fips": "42055",
+      "source": "",
+      "source_name": "Franklin County"
+    },
+    {
+      "county": "Mercer",
+      "date": "2/15/2021",
+      "fips": "42085",
+      "source": "",
+      "source_name": "Mercer County"
+    },
+    {
+      "county": "Warren",
+      "date": "2/15/2021",
+      "fips": "42123",
+      "source": "",
+      "source_name": "Warren County"
+    },
+    {
+      "county": "McKean",
+      "date": "2/10/2021",
+      "fips": "42083",
+      "source": "",
+      "source_name": "McKean County"
     },
     {
       "county": "York",
@@ -651,6 +707,41 @@
       "source_name": "Lawrence County Jail"
     },
     {
+      "county": "Clarion",
+      "date": "1/15/2021",
+      "fips": "42031",
+      "source": "",
+      "source_name": "Clarion County"
+    },
+    {
+      "county": "Snyder",
+      "date": "1/15/2021",
+      "fips": "42109",
+      "source": "",
+      "source_name": "Snyder County"
+    },
+    {
+      "county": "Somerset",
+      "date": "1/15/2021",
+      "fips": "42111",
+      "source": "",
+      "source_name": "Somerset County"
+    },
+    {
+      "county": "Venango",
+      "date": "1/15/2021",
+      "fips": "42121",
+      "source": "",
+      "source_name": "Venango County"
+    },
+    {
+      "county": "Washington",
+      "date": "1/15/2021",
+      "fips": "42125",
+      "source": "",
+      "source_name": "Washington County"
+    },
+    {
       "county": "Crawford",
       "date": "1/12/2021",
       "fips": "42039",
@@ -679,6 +770,27 @@
       "source_name": "The Morning Call"
     },
     {
+      "county": "Montour",
+      "date": "12/15/2020",
+      "fips": "42093",
+      "source": "",
+      "source_name": "Montour County"
+    },
+    {
+      "county": "Potter",
+      "date": "12/15/2020",
+      "fips": "42105",
+      "source": "",
+      "source_name": "Potter County"
+    },
+    {
+      "county": "Union",
+      "date": "12/15/2020",
+      "fips": "42119",
+      "source": "",
+      "source_name": "Union County"
+    },
+    {
       "county": "Dauphin",
       "date": "12/9/2020",
       "fips": "42043",
@@ -698,6 +810,41 @@
       "fips": "42045",
       "source": "https://www.delcotimes.com/news/geo-reports-prison-c-o-died-of-covid/article_f28c39be-336d-11eb-9bca-f7bd07863b1f.html",
       "source_name": "Delco Daily Times"
+    },
+    {
+      "county": "Adams",
+      "date": "12/1/2020",
+      "fips": "42001",
+      "source": "",
+      "source_name": "Adams County"
+    },
+    {
+      "county": "Armstrong",
+      "date": "12/1/2020",
+      "fips": "42005",
+      "source": "",
+      "source_name": "Armstrong County"
+    },
+    {
+      "county": "Carbon",
+      "date": "12/1/2020",
+      "fips": "42025",
+      "source": "",
+      "source_name": "Carbon County"
+    },
+    {
+      "county": "Perry",
+      "date": "12/1/2020",
+      "fips": "42099",
+      "source": "",
+      "source_name": "Perry County"
+    },
+    {
+      "county": "Schuylkill",
+      "date": "12/1/2020",
+      "fips": "42107",
+      "source": "",
+      "source_name": "Schuylkill County"
     },
     {
       "county": "Tioga",
@@ -789,146 +936,6 @@
       "fips": "42011",
       "source": "https://www.pottsmerc.com/news/coronavirus/berks-county-prison-sees-outbreak-of-covid-cases/article_229f01b2-d9c3-55c2-8125-6fb5af187666.html",
       "source_name": "Pottstown Mercury"
-    },
-    {
-      "county": "Adams",
-      "date": "12/1/2020",
-      "fips": "42001",
-      "source": "",
-      "source_name": "Adams County"
-    },
-    {
-      "county": "Armstrong",
-      "date": "12/1/2020",
-      "fips": "42005",
-      "source": "",
-      "source_name": "Armstrong County"
-    },
-    {
-      "county": "Butler",
-      "date": "2/15/2021",
-      "fips": "42019",
-      "source": "",
-      "source_name": "Butler County"
-    },
-    {
-      "county": "Carbon",
-      "date": "12/1/2020",
-      "fips": "42025",
-      "source": "",
-      "source_name": "Carbon County"
-    },
-    {
-      "county": "Clarion",
-      "date": "1/15/2021",
-      "fips": "42031",
-      "source": "",
-      "source_name": "Clarion County"
-    },
-    {
-      "county": "Columbia",
-      "date": "2/15/2021",
-      "fips": "42037",
-      "source": "",
-      "source_name": "Columbia County"
-    },
-    {
-      "county": "Cumberland",
-      "date": "2/15/2021",
-      "fips": "42041",
-      "source": "",
-      "source_name": "Cumberland County"
-    },
-    {
-      "county": "Elk",
-      "date": "2/15/2021",
-      "fips": "42047",
-      "source": "",
-      "source_name": "Elk County"
-    },
-    {
-      "county": "Franklin",
-      "date": "2/15/2021",
-      "fips": "42055",
-      "source": "",
-      "source_name": "Franklin County"
-    },
-    {
-      "county": "Mercer",
-      "date": "2/15/2021",
-      "fips": "42085",
-      "source": "",
-      "source_name": "Mercer County"
-    },
-    {
-      "county": "Montour",
-      "date": "12/15/2020",
-      "fips": "42093",
-      "source": "",
-      "source_name": "Montour County"
-    },
-    {
-      "county": "Perry",
-      "date": "12/1/2020",
-      "fips": "42099",
-      "source": "",
-      "source_name": "Perry County"
-    },
-    {
-      "county": "Potter",
-      "date": "12/15/2020",
-      "fips": "42105",
-      "source": "",
-      "source_name": "Potter County"
-    },
-    {
-      "county": "Schuylkill",
-      "date": "12/1/2020",
-      "fips": "42107",
-      "source": "",
-      "source_name": "Schuylkill County"
-    },
-    {
-      "county": "Snyder",
-      "date": "1/15/2021",
-      "fips": "42109",
-      "source": "",
-      "source_name": "Snyder County"
-    },
-    {
-      "county": "Somerset",
-      "date": "1/15/2021",
-      "fips": "42111",
-      "source": "",
-      "source_name": "Somerset County"
-    },
-    {
-      "county": "Union",
-      "date": "12/15/2020",
-      "fips": "42119",
-      "source": "",
-      "source_name": "Union County"
-    },
-    {
-      "county": "Venango",
-      "date": "1/15/2021",
-      "fips": "42121",
-      "source": "",
-      "source_name": "Venango County"
-    },
-    {
-      "county": "Warren",
-      "date": "2/15/2021",
-      "fips": "42123",
-      "source": "",
-      "source_name": "Warren County"
-    },
-    {
-      "county": "Washington",
-      "date": "1/15/2021",
-      "fips": "42125",
-      "source": "",
-      "source_name": "Washington County"
     }
   ],
   "jailVaccineData": [
@@ -1340,25 +1347,25 @@
       "SCI": "CAMBRIDGE SPRINGS"
     },
     {
-      "All Cases": 1059,
+      "All Cases": 1066,
       "All Deaths": 4,
-      "Current Cases": 17,
-      "Guard Current Positive": 12,
-      "Guard Total Positive": 326,
-      "Prisoner Current Positive": 5,
+      "Current Cases": 22,
+      "Guard Current Positive": 14,
+      "Guard Total Positive": 329,
+      "Prisoner Current Positive": 8,
       "Prisoner Total Deaths": 4,
-      "Prisoner Total Positive": 733,
+      "Prisoner Total Positive": 737,
       "SCI": "CAMP HILL"
     },
     {
-      "All Cases": 462,
+      "All Cases": 513,
       "All Deaths": 12,
-      "Current Cases": 34,
+      "Current Cases": 84,
       "Guard Current Positive": 2,
       "Guard Total Positive": 204,
-      "Prisoner Current Positive": 32,
+      "Prisoner Current Positive": 82,
       "Prisoner Total Deaths": 12,
-      "Prisoner Total Positive": 258,
+      "Prisoner Total Positive": 309,
       "SCI": "CHESTER"
     },
     {
@@ -1417,14 +1424,14 @@
       "SCI": "FRACKVILLE"
     },
     {
-      "All Cases": 408,
+      "All Cases": 409,
       "All Deaths": 1,
       "Current Cases": 5,
       "Guard Current Positive": 1,
       "Guard Total Positive": 219,
       "Prisoner Current Positive": 4,
       "Prisoner Total Deaths": 1,
-      "Prisoner Total Positive": 189,
+      "Prisoner Total Positive": 190,
       "SCI": "GREENE"
     },
     {
@@ -1439,11 +1446,11 @@
       "SCI": "HOUTZDALE"
     },
     {
-      "All Cases": 514,
+      "All Cases": 515,
       "All Deaths": 8,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 201,
+      "Current Cases": 3,
+      "Guard Current Positive": 3,
+      "Guard Total Positive": 202,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 8,
       "Prisoner Total Positive": 313,
@@ -1463,20 +1470,20 @@
     {
       "All Cases": 649,
       "All Deaths": 6,
-      "Current Cases": 5,
+      "Current Cases": 1,
       "Guard Current Positive": 1,
       "Guard Total Positive": 232,
-      "Prisoner Current Positive": 4,
+      "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 417,
       "SCI": "MAHANOY"
     },
     {
-      "All Cases": 352,
+      "All Cases": 356,
       "All Deaths": 6,
-      "Current Cases": 0,
-      "Guard Current Positive": 0,
-      "Guard Total Positive": 104,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 108,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 248,
@@ -1494,14 +1501,14 @@
       "SCI": "MUNCY"
     },
     {
-      "All Cases": 592,
+      "All Cases": 593,
       "All Deaths": 17,
-      "Current Cases": 3,
+      "Current Cases": 4,
       "Guard Current Positive": 2,
       "Guard Total Positive": 330,
-      "Prisoner Current Positive": 1,
+      "Prisoner Current Positive": 2,
       "Prisoner Total Deaths": 17,
-      "Prisoner Total Positive": 262,
+      "Prisoner Total Positive": 263,
       "SCI": "PHOENIX"
     },
     {
@@ -1538,44 +1545,44 @@
       "SCI": "RETREAT"
     },
     {
-      "All Cases": 406,
+      "All Cases": 408,
       "All Deaths": 2,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 274,
+      "Current Cases": 3,
+      "Guard Current Positive": 3,
+      "Guard Total Positive": 276,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 2,
       "Prisoner Total Positive": 132,
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1260,
+      "All Cases": 1263,
       "All Deaths": 6,
-      "Current Cases": 16,
-      "Guard Current Positive": 2,
+      "Current Cases": 14,
+      "Guard Current Positive": 1,
       "Guard Total Positive": 222,
-      "Prisoner Current Positive": 14,
+      "Prisoner Current Positive": 13,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 1038,
+      "Prisoner Total Positive": 1041,
       "SCI": "SMITHFIELD"
     },
     {
-      "All Cases": 854,
+      "All Cases": 856,
       "All Deaths": 4,
-      "Current Cases": 8,
-      "Guard Current Positive": 8,
-      "Guard Total Positive": 227,
-      "Prisoner Current Positive": 0,
+      "Current Cases": 10,
+      "Guard Current Positive": 9,
+      "Guard Total Positive": 228,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 4,
-      "Prisoner Total Positive": 627,
+      "Prisoner Total Positive": 628,
       "SCI": "SOMERSET"
     },
     {
-      "All Cases": 1110,
+      "All Cases": 1113,
       "All Deaths": 16,
-      "Current Cases": 4,
-      "Guard Current Positive": 4,
-      "Guard Total Positive": 265,
+      "Current Cases": 6,
+      "Guard Current Positive": 6,
+      "Guard Total Positive": 268,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 16,
       "Prisoner Total Positive": 845,
