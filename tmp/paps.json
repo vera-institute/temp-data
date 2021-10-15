@@ -1,5 +1,5 @@
 {
-  "date": "2021-10-14",
+  "date": "2021-10-15",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -1314,45 +1314,45 @@
   ],
   "sciCovidData": [
     {
-      "All Cases": 974,
+      "All Cases": 977,
       "All Deaths": 4,
-      "Current Cases": 2,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 239,
+      "Current Cases": 3,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 242,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 735,
       "SCI": "ALBION"
     },
     {
-      "All Cases": 453,
+      "All Cases": 454,
       "All Deaths": 8,
-      "Current Cases": 1,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 200,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 201,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 8,
       "Prisoner Total Positive": 253,
       "SCI": "BENNER"
     },
     {
-      "All Cases": 804,
+      "All Cases": 805,
       "All Deaths": 1,
-      "Current Cases": 7,
-      "Guard Current Positive": 7,
-      "Guard Total Positive": 106,
+      "Current Cases": 6,
+      "Guard Current Positive": 6,
+      "Guard Total Positive": 107,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 698,
       "SCI": "CAMBRIDGE SPRINGS"
     },
     {
-      "All Cases": 1099,
+      "All Cases": 1100,
       "All Deaths": 4,
       "Current Cases": 21,
-      "Guard Current Positive": 13,
-      "Guard Total Positive": 346,
-      "Prisoner Current Positive": 8,
+      "Guard Current Positive": 14,
+      "Guard Total Positive": 347,
+      "Prisoner Current Positive": 7,
       "Prisoner Total Deaths": 4,
       "Prisoner Total Positive": 753,
       "SCI": "CAMP HILL"
@@ -1369,11 +1369,11 @@
       "SCI": "CHESTER"
     },
     {
-      "All Cases": 753,
+      "All Cases": 754,
       "All Deaths": 3,
-      "Current Cases": 6,
-      "Guard Current Positive": 6,
-      "Guard Total Positive": 227,
+      "Current Cases": 7,
+      "Guard Current Positive": 7,
+      "Guard Total Positive": 228,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
       "Prisoner Total Positive": 526,
@@ -1435,11 +1435,11 @@
       "SCI": "GREENE"
     },
     {
-      "All Cases": 459,
+      "All Cases": 460,
       "All Deaths": 3,
-      "Current Cases": 4,
-      "Guard Current Positive": 4,
-      "Guard Total Positive": 200,
+      "Current Cases": 5,
+      "Guard Current Positive": 5,
+      "Guard Total Positive": 201,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 3,
       "Prisoner Total Positive": 259,
@@ -1457,11 +1457,11 @@
       "SCI": "HUNTINGDON"
     },
     {
-      "All Cases": 757,
+      "All Cases": 759,
       "All Deaths": 15,
-      "Current Cases": 4,
-      "Guard Current Positive": 4,
-      "Guard Total Positive": 220,
+      "Current Cases": 6,
+      "Guard Current Positive": 6,
+      "Guard Total Positive": 222,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 15,
       "Prisoner Total Positive": 537,
@@ -1503,8 +1503,8 @@
     {
       "All Cases": 618,
       "All Deaths": 17,
-      "Current Cases": 5,
-      "Guard Current Positive": 4,
+      "Current Cases": 4,
+      "Guard Current Positive": 3,
       "Guard Total Positive": 354,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 17,
@@ -1512,11 +1512,11 @@
       "SCI": "PHOENIX"
     },
     {
-      "All Cases": 286,
+      "All Cases": 287,
       "All Deaths": 1,
-      "Current Cases": 3,
-      "Guard Current Positive": 3,
-      "Guard Total Positive": 130,
+      "Current Cases": 4,
+      "Guard Current Positive": 4,
+      "Guard Total Positive": 131,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 156,
@@ -1525,8 +1525,8 @@
     {
       "All Cases": 329,
       "All Deaths": 0,
-      "Current Cases": 2,
-      "Guard Current Positive": 2,
+      "Current Cases": 1,
+      "Guard Current Positive": 1,
       "Guard Total Positive": 101,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 0,
@@ -1556,21 +1556,21 @@
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 1311,
+      "All Cases": 1317,
       "All Deaths": 6,
-      "Current Cases": 22,
-      "Guard Current Positive": 2,
-      "Guard Total Positive": 233,
+      "Current Cases": 24,
+      "Guard Current Positive": 4,
+      "Guard Total Positive": 235,
       "Prisoner Current Positive": 20,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 1078,
+      "Prisoner Total Positive": 1082,
       "SCI": "SMITHFIELD"
     },
     {
       "All Cases": 869,
       "All Deaths": 4,
-      "Current Cases": 3,
-      "Guard Current Positive": 3,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
       "Guard Total Positive": 241,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 4,
@@ -1578,14 +1578,14 @@
       "SCI": "SOMERSET"
     },
     {
-      "All Cases": 1121,
+      "All Cases": 1122,
       "All Deaths": 16,
-      "Current Cases": 1,
+      "Current Cases": 2,
       "Guard Current Positive": 1,
       "Guard Total Positive": 276,
-      "Prisoner Current Positive": 0,
+      "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 16,
-      "Prisoner Total Positive": 845,
+      "Prisoner Total Positive": 846,
       "SCI": "WAYMART"
     }
   ]
