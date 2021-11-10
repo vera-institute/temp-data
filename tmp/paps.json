@@ -1,5 +1,5 @@
 {
-  "date": "2021-11-09",
+  "date": "2021-11-10",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -575,7 +575,7 @@
     },
     {
       "county": "Allegheny",
-      "date": "10/7/2021",
+      "date": "11/4/2021",
       "fips": "42003",
       "source": "https://www.alleghenycounty.us/jail/index.aspx",
       "source_name": "Allegheny County"
