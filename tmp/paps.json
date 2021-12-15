@@ -1,5 +1,5 @@
 {
-  "date": "2021-12-14",
+  "date": "2021-12-15",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -722,10 +722,10 @@
     },
     {
       "county": "York",
-      "date": "12/2/2021",
+      "date": "12/14/2021",
       "fips": "42133",
-      "source": "https://www.ydr.com/story/news/2021/12/02/york-county-prison-covid-rise-halts-visitors/8835068002/",
-      "source_name": "York Daily Record"
+      "source": "",
+      "source_name": "York Dispatch"
     },
     {
       "county": "Clinton",
