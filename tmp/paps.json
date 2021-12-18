@@ -1,5 +1,5 @@
 {
-  "date": "2021-12-17",
+  "date": "2021-12-18",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -554,10 +554,10 @@
     },
     {
       "county": "Chester",
-      "date": "10/18/2021",
+      "date": "12/15/2021",
       "fips": "42029",
-      "source": "https://www.chesco.org/175/Prison",
-      "source_name": "Chester County Prison"
+      "source": "https://www.inquirer.com/news/chester-county-jail-covid-outbreak-20211215.html",
+      "source_name": "Philadelphia Inquirer"
     },
     {
       "county": "Centre",
