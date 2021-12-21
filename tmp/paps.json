@@ -1,5 +1,5 @@
 {
-  "date": "2021-12-20",
+  "date": "2021-12-21",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -532,6 +532,139 @@
   ],
   "jailCovidData": [
     {
+      "county": "Allegheny",
+      "date": "12/20/2021",
+      "fips": "42003",
+      "source": "https://www.alleghenycounty.us/jail/index.aspx",
+      "source_name": "Allegheny County"
+    },
+    {
+      "county": "Centre",
+      "date": "12/20/2021",
+      "fips": "42027",
+      "source": "https://centrecountypa.gov/2175/COVID-19-Pandemic-Protocols",
+      "source_name": "Centre County Correctional Facility"
+    },
+    {
+      "county": "Chester",
+      "date": "12/15/2021",
+      "fips": "42029",
+      "source": "https://www.inquirer.com/news/chester-county-jail-covid-outbreak-20211215.html",
+      "source_name": "Philadelphia Inquirer"
+    },
+    {
+      "county": "York",
+      "date": "12/14/2021",
+      "fips": "42133",
+      "source": "",
+      "source_name": "York Dispatch"
+    },
+    {
+      "county": "Northumberland",
+      "date": "12/10/2021",
+      "fips": "42097",
+      "source": "",
+      "source_name": "Northumberland County Jail"
+    },
+    {
+      "county": "Snyder",
+      "date": "12/9/2021",
+      "fips": "42109",
+      "source": "https://www.dailyitem.com/news/several-covid-19-cases-at-snyder-county-prison/article_abe3ad50-5859-11ec-8132-ff7868fbeb0d.html",
+      "source_name": "The Daily Item"
+    },
+    {
+      "county": "Lebanon",
+      "date": "12/6/2021",
+      "fips": "42075",
+      "source": "",
+      "source_name": "Lebanon County Correctional Facility"
+    },
+    {
+      "county": "Butler",
+      "date": "12/3/2021",
+      "fips": "42019",
+      "source": "",
+      "source_name": "Butler County"
+    },
+    {
+      "county": "Dauphin",
+      "date": "12/3/2021",
+      "fips": "42043",
+      "source": "",
+      "source_name": "Dauphin County Prison"
+    },
+    {
+      "county": "Berks",
+      "date": "12/3/2021",
+      "fips": "42011",
+      "source": "",
+      "source_name": "Berks County Prison"
+    },
+    {
+      "county": "Cumberland",
+      "date": "12/2/2021",
+      "fips": "42041",
+      "source": "",
+      "source_name": "Cumberland County Prison"
+    },
+    {
+      "county": "Washington",
+      "date": "12/1/2021",
+      "fips": "42125",
+      "source": "",
+      "source_name": "Washington County Correctional Facility"
+    },
+    {
+      "county": "Wyoming",
+      "date": "12/1/2021",
+      "fips": "42131",
+      "source": "",
+      "source_name": "Wyoming County Correctional Facility"
+    },
+    {
+      "county": "Somerset",
+      "date": "11/30/2021",
+      "fips": "42111",
+      "source": "",
+      "source_name": "Somerset County Jail"
+    },
+    {
+      "county": "Westmoreland",
+      "date": "11/29/2021",
+      "fips": "42129",
+      "source": "https://triblive.com/local/westmoreland/covid-outbreak-hits-westmoreland-jail-as-caseload-surges-throughout-county/",
+      "source_name": "TribLive"
+    },
+    {
+      "county": "Clarion",
+      "date": "11/17/2021",
+      "fips": "42031",
+      "source": "https://www.thecourierexpress.com/the_leader_vindicator/news/local/mask-mandate-returns-to-clarion-jail/article_102e956a-1200-5011-8092-129fede59752.html",
+      "source_name": "The Leader-Vindicator"
+    },
+    {
+      "county": "Mercer",
+      "date": "11/15/2021",
+      "fips": "42085",
+      "source": "https://www.ncnewsonline.com/news/local_news/covid-outbreak-hits-mercer-county-jail-closing-visitation/article_7de0fc96-465c-11ec-9c2b-cf423dad3217.html",
+      "source_name": "New Castle News"
+    },
+    {
+      "county": "McKean",
+      "date": "11/11/2021",
+      "fips": "42083",
+      "source": "https://www.bradfordera.com/news/sheriff-mckean-county-jail-inmate-dies-of-covid/article_8ecfc68a-c71f-50d9-8114-61c804cea322.html",
+      "source_name": "The Bradford Era"
+    },
+    {
+      "county": "Jefferson",
+      "date": "10/28/2021",
+      "fips": "42065",
+      "source": "https://www.thecourierexpress.com/coronavirus/jefferson-county-jail-seeing-rise-in-covid-cases/article_9e71a762-8ff1-5207-aa9e-6e8e2fdb815b.html",
+      "source_name": "Jeffersonian Democrat"
+    },
+    {
       "county": "Pike",
       "date": "10/19/2021",
       "fips": "42103",
@@ -553,32 +686,11 @@
       "source_name": "City of Philadelphia"
     },
     {
-      "county": "Chester",
-      "date": "12/15/2021",
-      "fips": "42029",
-      "source": "https://www.inquirer.com/news/chester-county-jail-covid-outbreak-20211215.html",
-      "source_name": "Philadelphia Inquirer"
-    },
-    {
-      "county": "Centre",
-      "date": "10/18/2021",
-      "fips": "42027",
-      "source": "https://centrecountypa.gov/2175/COVID-19-Pandemic-Protocols",
-      "source_name": "Centre County Correctional Facility"
-    },
-    {
       "county": "Franklin",
       "date": "10/13/2021",
       "fips": "42055",
       "source": "",
       "source_name": "Franklin County"
-    },
-    {
-      "county": "Allegheny",
-      "date": "11/4/2021",
-      "fips": "42003",
-      "source": "https://www.alleghenycounty.us/jail/index.aspx",
-      "source_name": "Allegheny County"
     },
     {
       "county": "Columbia",
@@ -630,13 +742,6 @@
       "source_name": "Tioga County Prison"
     },
     {
-      "county": "Cumberland",
-      "date": "9/23/2021",
-      "fips": "42041",
-      "source": "https://www.pennlive.com/coronavirus/2021/09/covid-19-cases-remain-high-these-pennsylvania-zip-codes.html",
-      "source_name": "PennLive"
-    },
-    {
       "county": "Lancaster",
       "date": "9/1/2021",
       "fips": "42071",
@@ -656,13 +761,6 @@
       "fips": "42095",
       "source": "",
       "source_name": "Northampton County Department of Corrections"
-    },
-    {
-      "county": "Westmoreland",
-      "date": "11/29/2021",
-      "fips": "42129",
-      "source": "https://triblive.com/local/westmoreland/covid-outbreak-hits-westmoreland-jail-as-caseload-surges-throughout-county/",
-      "source_name": "TribLive"
     },
     {
       "county": "Lehigh",
@@ -686,46 +784,11 @@
       "source_name": "NorthCentralPa.com"
     },
     {
-      "county": "Jefferson",
-      "date": "10/28/2021",
-      "fips": "42065",
-      "source": "https://www.thecourierexpress.com/coronavirus/jefferson-county-jail-seeing-rise-in-covid-cases/article_9e71a762-8ff1-5207-aa9e-6e8e2fdb815b.html",
-      "source_name": "Jeffersonian Democrat"
-    },
-    {
-      "county": "Butler",
-      "date": "2/15/2021",
-      "fips": "42019",
-      "source": "",
-      "source_name": "Butler County"
-    },
-    {
       "county": "Elk",
       "date": "2/15/2021",
       "fips": "42047",
       "source": "",
       "source_name": "Elk County"
-    },
-    {
-      "county": "Mercer",
-      "date": "11/15/2021",
-      "fips": "42085",
-      "source": "https://www.ncnewsonline.com/news/local_news/covid-outbreak-hits-mercer-county-jail-closing-visitation/article_7de0fc96-465c-11ec-9c2b-cf423dad3217.html",
-      "source_name": "New Castle News"
-    },
-    {
-      "county": "McKean",
-      "date": "11/11/2021",
-      "fips": "42083",
-      "source": "https://www.bradfordera.com/news/sheriff-mckean-county-jail-inmate-dies-of-covid/article_8ecfc68a-c71f-50d9-8114-61c804cea322.html",
-      "source_name": "The Bradford Era"
-    },
-    {
-      "county": "York",
-      "date": "12/14/2021",
-      "fips": "42133",
-      "source": "",
-      "source_name": "York Dispatch"
     },
     {
       "county": "Clinton",
@@ -742,39 +805,11 @@
       "source_name": "Lawrence County Jail"
     },
     {
-      "county": "Clarion",
-      "date": "11/17/2021",
-      "fips": "42031",
-      "source": "https://www.thecourierexpress.com/the_leader_vindicator/news/local/mask-mandate-returns-to-clarion-jail/article_102e956a-1200-5011-8092-129fede59752.html",
-      "source_name": "The Leader-Vindicator"
-    },
-    {
-      "county": "Snyder",
-      "date": "12/9/2021",
-      "fips": "42109",
-      "source": "https://www.dailyitem.com/news/several-covid-19-cases-at-snyder-county-prison/article_abe3ad50-5859-11ec-8132-ff7868fbeb0d.html",
-      "source_name": "The Daily Item"
-    },
-    {
-      "county": "Somerset",
-      "date": "1/15/2021",
-      "fips": "42111",
-      "source": "",
-      "source_name": "Somerset County"
-    },
-    {
       "county": "Venango",
       "date": "1/15/2021",
       "fips": "42121",
       "source": "",
       "source_name": "Venango County"
-    },
-    {
-      "county": "Washington",
-      "date": "1/15/2021",
-      "fips": "42125",
-      "source": "",
-      "source_name": "Washington County"
     },
     {
       "county": "Crawford",
@@ -817,13 +852,6 @@
       "fips": "42119",
       "source": "",
       "source_name": "Union County"
-    },
-    {
-      "county": "Dauphin",
-      "date": "12/9/2020",
-      "fips": "42043",
-      "source": "https://lancasteronline.com/news/health/testing-at-dauphin-county-prison-finds-more-than-100-inmates-employees-with-covid-19/article_a4c5a8bc-961e-54f0-b5bc-96d089d6ca92.html",
-      "source_name": "Lancaster Online"
     },
     {
       "county": "Beaver",
@@ -896,13 +924,6 @@
       "source_name": "Centre County Correctional Facility"
     },
     {
-      "county": "Northumberland",
-      "date": "12/6/2021",
-      "fips": "42097",
-      "source": "",
-      "source_name": "Northumberland County Jail"
-    },
-    {
       "county": "Fayette",
       "date": "8/11/2020",
       "fips": "42051",
@@ -917,13 +938,6 @@
       "source_name": "Erie County Prison"
     },
     {
-      "county": "Lebanon",
-      "date": "7/16/2020",
-      "fips": "42075",
-      "source": "https://www.ldnews.com/story/news/2020/07/16/coronavirus-covid-19-recent-cases-lebanon-county-correctional-facility-pa-skyrocket/5445925002/",
-      "source_name": "Lebanon Daily News"
-    },
-    {
       "county": "Bedford",
       "date": "7/14/2020",
       "fips": "42009",
@@ -936,13 +950,6 @@
       "fips": "42127",
       "source": "",
       "source_name": "Wayne County Correctional Facility"
-    },
-    {
-      "county": "Berks",
-      "date": "3/11/2020",
-      "fips": "42011",
-      "source": "https://www.pottsmerc.com/news/coronavirus/berks-county-prison-sees-outbreak-of-covid-cases/article_229f01b2-d9c3-55c2-8125-6fb5af187666.html",
-      "source_name": "Pottstown Mercury"
     }
   ],
   "jailVaccineData": [
