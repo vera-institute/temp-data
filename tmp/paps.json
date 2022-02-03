@@ -1,5 +1,5 @@
 {
-  "date": "2022-02-02",
+  "date": "2022-02-03",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -532,11 +532,25 @@
   ],
   "jailCovidData": [
     {
-      "county": "Beaver",
-      "date": "1/28/2022",
-      "fips": "42007",
-      "source": "https://www.timesonline.com/story/news/2022/01/28/beaver-county-warden-discusses-covid-testing-jail/9246100002/",
-      "source_name": "Beaver County Times"
+      "county": "Centre",
+      "date": "2/1/2022",
+      "fips": "42027",
+      "source": "https://centrecountypa.gov/2175/COVID-19-Pandemic-Protocols",
+      "source_name": "Centre County Correctional Facility"
+    },
+    {
+      "county": "Lebanon",
+      "date": "2/1/2022",
+      "fips": "42075",
+      "source": "",
+      "source_name": "Lebanon County Correctional Facility"
+    },
+    {
+      "county": "Lawrence",
+      "date": "2/1/2022",
+      "fips": "42073",
+      "source": "",
+      "source_name": "Lawrence County Jail"
     },
     {
       "county": "Westmoreland",
@@ -544,6 +558,62 @@
       "fips": "42129",
       "source": "https://triblive.com/local/westmoreland/westmoreland-prison-officials-say-covid-cases-on-the-decline/",
       "source_name": "TribLive"
+    },
+    {
+      "county": "Philadelphia",
+      "date": "1/31/2022",
+      "fips": "42101",
+      "source": "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data",
+      "source_name": "City of Philadelphia"
+    },
+    {
+      "county": "Chester",
+      "date": "2/2/2022",
+      "fips": "42029",
+      "source": "https://www.chesco.org/175/Prison",
+      "source_name": "Chester County Prison"
+    },
+    {
+      "county": "Bradford",
+      "date": "1/31/2022",
+      "fips": "42015",
+      "source": "",
+      "source_name": "Bradford County Prison"
+    },
+    {
+      "county": "Beaver",
+      "date": "1/28/2022",
+      "fips": "42007",
+      "source": "https://www.timesonline.com/story/news/2022/01/28/beaver-county-warden-discusses-covid-testing-jail/9246100002/",
+      "source_name": "Beaver County Times"
+    },
+    {
+      "county": "Butler",
+      "date": "1/28/2022",
+      "fips": "42019",
+      "source": "",
+      "source_name": "Butler County Prison"
+    },
+    {
+      "county": "Cambria",
+      "date": "1/28/2022",
+      "fips": "42021",
+      "source": "",
+      "source_name": "Cambria County Prison"
+    },
+    {
+      "county": "Monroe",
+      "date": "1/28/2022",
+      "fips": "42089",
+      "source": "",
+      "source_name": "Monroe County Correctional Facility"
+    },
+    {
+      "county": "Armstrong",
+      "date": "1/26/2022",
+      "fips": "42005",
+      "source": "",
+      "source_name": "Armstrong County Jail "
     },
     {
       "county": "Montgomery",
@@ -558,6 +628,62 @@
       "fips": "42017",
       "source": "https://news.yahoo.com/pa-state-prisons-halt-person-154144310.html",
       "source_name": "Bucks County Courier Times"
+    },
+    {
+      "county": "Jefferson",
+      "date": "1/25/2022",
+      "fips": "42065",
+      "source": "",
+      "source_name": "Jefferson County Jail"
+    },
+    {
+      "county": "Indiana",
+      "date": "1/25/2022",
+      "fips": "42063",
+      "source": "",
+      "source_name": "Indiana County Jail"
+    },
+    {
+      "county": "Huntingdon",
+      "date": "1/25/2022",
+      "fips": "42061",
+      "source": "",
+      "source_name": "Huntingdon County Prison"
+    },
+    {
+      "county": "Northampton",
+      "date": "1/24/2022",
+      "fips": "42095",
+      "source": "",
+      "source_name": "Northampton County Prison"
+    },
+    {
+      "county": "Schuylkill",
+      "date": "1/24/2022",
+      "fips": "42107",
+      "source": "",
+      "source_name": "Schuylkill County Prison"
+    },
+    {
+      "county": "Pike",
+      "date": "1/21/2022",
+      "fips": "42103",
+      "source": "",
+      "source_name": "Pike County Correctional Facility"
+    },
+    {
+      "county": "Montour",
+      "date": "1/19/2022",
+      "fips": "42093",
+      "source": "",
+      "source_name": "Montour County Prison"
+    },
+    {
+      "county": "Mifflin",
+      "date": "1/19/2022",
+      "fips": "42087",
+      "source": "",
+      "source_name": "Mifflin County Correctional Facility"
     },
     {
       "county": "Adams",
@@ -581,41 +707,6 @@
       "source_name": "Delco Daily Times"
     },
     {
-      "county": "Philadelphia",
-      "date": "1/10/2022",
-      "fips": "42101",
-      "source": "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data",
-      "source_name": "City of Philadelphia"
-    },
-    {
-      "county": "Northampton",
-      "date": "1/10/2022",
-      "fips": "42095",
-      "source": "https://www.wfmz.com/news/area/lehighvalley/northampton-co-prison-reports-33-inmates-in-quarantine-with-covid-19/article_8bca03ee-722a-11ec-81bb-1bda7e513287.html",
-      "source_name": "WFMZ"
-    },
-    {
-      "county": "Chester",
-      "date": "12/22/2021",
-      "fips": "42029",
-      "source": "https://www.dailylocal.com/2021/12/22/covid-concern-continues-at-chester-county-prison",
-      "source_name": "Daily Local"
-    },
-    {
-      "county": "Allegheny",
-      "date": "1/31/2021",
-      "fips": "42003",
-      "source": "https://www.post-gazette.com/news/crime-courts/2022/01/31/Allegheny-County-Jail-prison-warden-orlando-harper-COVID-19-mitigation-spread-infections/stories/202201310086",
-      "source_name": "Pittsburgh Post-Gazette"
-    },
-    {
-      "county": "Centre",
-      "date": "12/20/2021",
-      "fips": "42027",
-      "source": "https://centrecountypa.gov/2175/COVID-19-Pandemic-Protocols",
-      "source_name": "Centre County Correctional Facility"
-    },
-    {
       "county": "Northumberland",
       "date": "12/10/2021",
       "fips": "42097",
@@ -628,20 +719,6 @@
       "fips": "42109",
       "source": "https://www.dailyitem.com/news/several-covid-19-cases-at-snyder-county-prison/article_abe3ad50-5859-11ec-8132-ff7868fbeb0d.html",
       "source_name": "The Daily Item"
-    },
-    {
-      "county": "Lebanon",
-      "date": "12/6/2021",
-      "fips": "42075",
-      "source": "",
-      "source_name": "Lebanon County Correctional Facility"
-    },
-    {
-      "county": "Butler",
-      "date": "12/3/2021",
-      "fips": "42019",
-      "source": "",
-      "source_name": "Butler County"
     },
     {
       "county": "Dauphin",
@@ -707,20 +784,6 @@
       "source_name": "The Bradford Era"
     },
     {
-      "county": "Jefferson",
-      "date": "10/28/2021",
-      "fips": "42065",
-      "source": "https://www.thecourierexpress.com/coronavirus/jefferson-county-jail-seeing-rise-in-covid-cases/article_9e71a762-8ff1-5207-aa9e-6e8e2fdb815b.html",
-      "source_name": "Jeffersonian Democrat"
-    },
-    {
-      "county": "Pike",
-      "date": "10/19/2021",
-      "fips": "42103",
-      "source": "",
-      "source_name": "Pike County Correctional Facility"
-    },
-    {
       "county": "Franklin",
       "date": "10/13/2021",
       "fips": "42055",
@@ -747,20 +810,6 @@
       "fips": "42013",
       "source": "Blair County Prison",
       "source_name": "Blair County Prison"
-    },
-    {
-      "county": "Bradford",
-      "date": "10/1/2021",
-      "fips": "42015",
-      "source": "",
-      "source_name": "Bradford County Prison"
-    },
-    {
-      "county": "Indiana",
-      "date": "9/30/2021",
-      "fips": "42063",
-      "source": "",
-      "source_name": "Indiana County Jail"
     },
     {
       "county": "Warren",
@@ -791,13 +840,6 @@
       "source_name": "The Morning Call"
     },
     {
-      "county": "Cambria",
-      "date": "4/15/2021",
-      "fips": "42021",
-      "source": "https://www.tribdem.com/news/just-takes-off-warden-says-cambria-county-prison-seeing-third-wave-of-covid-19-cases/article_87bfa3f6-9d39-11eb-831b-dfc823782ccd.html",
-      "source_name": "The Tribune-Democrat"
-    },
-    {
       "county": "Lycoming",
       "date": "3/4/2021",
       "fips": "42081",
@@ -812,18 +854,18 @@
       "source_name": "Elk County"
     },
     {
+      "county": "Allegheny",
+      "date": "1/31/2021",
+      "fips": "42003",
+      "source": "https://www.post-gazette.com/news/crime-courts/2022/01/31/Allegheny-County-Jail-prison-warden-orlando-harper-COVID-19-mitigation-spread-infections/stories/202201310086",
+      "source_name": "Pittsburgh Post-Gazette"
+    },
+    {
       "county": "Clinton",
       "date": "1/24/2021",
       "fips": "42035",
       "source": "https://www.ice.gov/coronavirus",
       "source_name": "ICE"
-    },
-    {
-      "county": "Lawrence",
-      "date": "1/22/2021",
-      "fips": "42073",
-      "source": "",
-      "source_name": "Lawrence County Jail"
     },
     {
       "county": "Venango",
@@ -847,20 +889,6 @@
       "source_name": "PAhomepage.com"
     },
     {
-      "county": "Monroe",
-      "date": "1/2/2021",
-      "fips": "42089",
-      "source": "https://www.mcall.com/coronavirus/mc-nws-coronavirus-jails-prisons-20210102-lmw4jymixjbmxbwx7hu72ig6e4-story.html",
-      "source_name": "The Morning Call"
-    },
-    {
-      "county": "Montour",
-      "date": "12/15/2020",
-      "fips": "42093",
-      "source": "",
-      "source_name": "Montour County"
-    },
-    {
       "county": "Potter",
       "date": "12/15/2020",
       "fips": "42105",
@@ -875,32 +903,11 @@
       "source_name": "Union County"
     },
     {
-      "county": "Armstrong",
-      "date": "12/1/2020",
-      "fips": "42005",
-      "source": "",
-      "source_name": "Armstrong County"
-    },
-    {
       "county": "Perry",
       "date": "12/1/2020",
       "fips": "42099",
       "source": "",
       "source_name": "Perry County"
-    },
-    {
-      "county": "Schuylkill",
-      "date": "12/1/2020",
-      "fips": "42107",
-      "source": "",
-      "source_name": "Schuylkill County"
-    },
-    {
-      "county": "Mifflin",
-      "date": "11/24/2020",
-      "fips": "42087",
-      "source": "",
-      "source_name": "Mifflin County Correctional Facility"
     },
     {
       "county": "Clearfield",
@@ -915,13 +922,6 @@
       "fips": "42069",
       "source": "https://www.wnep.com/article/news/local/lackawanna-county/covid-cases-in-both-lackawanna-county-prison-and-district-attorneys-office/523-6e4a90fe-9299-4984-b090-f9a4225f2c27",
       "source_name": "WNEP"
-    },
-    {
-      "county": "Huntingdon",
-      "date": "10/23/2020",
-      "fips": "42061",
-      "source": "https://centrecountypa.gov/2175/COVID-19-Pandemic-Protocols",
-      "source_name": "Centre County Correctional Facility"
     },
     {
       "county": "Fayette",
@@ -1328,67 +1328,67 @@
   ],
   "sciCovidData": [
     {
-      "All Cases": 1269,
+      "All Cases": 1272,
       "All Deaths": 5,
-      "Current Cases": 59,
-      "Guard Current Positive": 41,
-      "Guard Total Positive": 406,
-      "Prisoner Current Positive": 18,
+      "Current Cases": 54,
+      "Guard Current Positive": 37,
+      "Guard Total Positive": 408,
+      "Prisoner Current Positive": 17,
       "Prisoner Total Deaths": 5,
-      "Prisoner Total Positive": 863,
+      "Prisoner Total Positive": 864,
       "SCI": "ALBION"
     },
     {
-      "All Cases": 782,
+      "All Cases": 785,
       "All Deaths": 11,
       "Current Cases": 35,
       "Guard Current Positive": 15,
-      "Guard Total Positive": 392,
+      "Guard Total Positive": 395,
       "Prisoner Current Positive": 20,
       "Prisoner Total Deaths": 11,
       "Prisoner Total Positive": 390,
       "SCI": "BENNER"
     },
     {
-      "All Cases": 1032,
+      "All Cases": 1037,
       "All Deaths": 1,
-      "Current Cases": 46,
-      "Guard Current Positive": 18,
-      "Guard Total Positive": 234,
-      "Prisoner Current Positive": 28,
+      "Current Cases": 45,
+      "Guard Current Positive": 16,
+      "Guard Total Positive": 238,
+      "Prisoner Current Positive": 29,
       "Prisoner Total Deaths": 1,
-      "Prisoner Total Positive": 798,
+      "Prisoner Total Positive": 799,
       "SCI": "CAMBRIDGE SPRINGS"
     },
     {
-      "All Cases": 1510,
+      "All Cases": 1516,
       "All Deaths": 5,
-      "Current Cases": 130,
-      "Guard Current Positive": 43,
-      "Guard Total Positive": 453,
-      "Prisoner Current Positive": 87,
+      "Current Cases": 125,
+      "Guard Current Positive": 39,
+      "Guard Total Positive": 458,
+      "Prisoner Current Positive": 86,
       "Prisoner Total Deaths": 5,
-      "Prisoner Total Positive": 1057,
+      "Prisoner Total Positive": 1058,
       "SCI": "CAMP HILL"
     },
     {
-      "All Cases": 682,
+      "All Cases": 683,
       "All Deaths": 13,
       "Current Cases": 18,
       "Guard Current Positive": 2,
-      "Guard Total Positive": 303,
+      "Guard Total Positive": 304,
       "Prisoner Current Positive": 16,
       "Prisoner Total Deaths": 13,
       "Prisoner Total Positive": 379,
       "SCI": "CHESTER"
     },
     {
-      "All Cases": 1050,
+      "All Cases": 1051,
       "All Deaths": 6,
-      "Current Cases": 43,
+      "Current Cases": 42,
       "Guard Current Positive": 32,
-      "Guard Total Positive": 385,
-      "Prisoner Current Positive": 11,
+      "Guard Total Positive": 386,
+      "Prisoner Current Positive": 10,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 665,
       "SCI": "COAL TOWNSHIP"
@@ -1396,30 +1396,30 @@
     {
       "All Cases": 1659,
       "All Deaths": 11,
-      "Current Cases": 45,
+      "Current Cases": 44,
       "Guard Current Positive": 6,
       "Guard Total Positive": 293,
-      "Prisoner Current Positive": 39,
+      "Prisoner Current Positive": 38,
       "Prisoner Total Deaths": 11,
       "Prisoner Total Positive": 1366,
       "SCI": "DALLAS"
     },
     {
-      "All Cases": 405,
+      "All Cases": 409,
       "All Deaths": 6,
-      "Current Cases": 44,
+      "Current Cases": 48,
       "Guard Current Positive": 8,
       "Guard Total Positive": 224,
-      "Prisoner Current Positive": 36,
+      "Prisoner Current Positive": 40,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 181,
+      "Prisoner Total Positive": 185,
       "SCI": "FAYETTE"
     },
     {
       "All Cases": 1409,
       "All Deaths": 6,
-      "Current Cases": 53,
-      "Guard Current Positive": 16,
+      "Current Cases": 52,
+      "Guard Current Positive": 15,
       "Guard Total Positive": 359,
       "Prisoner Current Positive": 37,
       "Prisoner Total Deaths": 6,
@@ -1440,31 +1440,31 @@
     {
       "All Cases": 661,
       "All Deaths": 1,
-      "Current Cases": 93,
-      "Guard Current Positive": 64,
+      "Current Cases": 78,
+      "Guard Current Positive": 50,
       "Guard Total Positive": 363,
-      "Prisoner Current Positive": 29,
+      "Prisoner Current Positive": 28,
       "Prisoner Total Deaths": 1,
       "Prisoner Total Positive": 298,
       "SCI": "GREENE"
     },
     {
-      "All Cases": 739,
+      "All Cases": 742,
       "All Deaths": 4,
-      "Current Cases": 36,
-      "Guard Current Positive": 18,
-      "Guard Total Positive": 416,
-      "Prisoner Current Positive": 18,
+      "Current Cases": 34,
+      "Guard Current Positive": 14,
+      "Guard Total Positive": 417,
+      "Prisoner Current Positive": 20,
       "Prisoner Total Deaths": 4,
-      "Prisoner Total Positive": 323,
+      "Prisoner Total Positive": 325,
       "SCI": "HOUTZDALE"
     },
     {
-      "All Cases": 835,
+      "All Cases": 839,
       "All Deaths": 9,
-      "Current Cases": 121,
-      "Guard Current Positive": 33,
-      "Guard Total Positive": 418,
+      "Current Cases": 118,
+      "Guard Current Positive": 30,
+      "Guard Total Positive": 422,
       "Prisoner Current Positive": 88,
       "Prisoner Total Deaths": 9,
       "Prisoner Total Positive": 417,
@@ -1473,75 +1473,75 @@
     {
       "All Cases": 1209,
       "All Deaths": 18,
-      "Current Cases": 152,
-      "Guard Current Positive": 49,
+      "Current Cases": 148,
+      "Guard Current Positive": 46,
       "Guard Total Positive": 349,
-      "Prisoner Current Positive": 103,
+      "Prisoner Current Positive": 102,
       "Prisoner Total Deaths": 18,
       "Prisoner Total Positive": 860,
       "SCI": "LAUREL HIGHLANDS"
     },
     {
-      "All Cases": 1008,
+      "All Cases": 1009,
       "All Deaths": 8,
-      "Current Cases": 160,
-      "Guard Current Positive": 50,
+      "Current Cases": 147,
+      "Guard Current Positive": 36,
       "Guard Total Positive": 447,
-      "Prisoner Current Positive": 110,
+      "Prisoner Current Positive": 111,
       "Prisoner Total Deaths": 8,
-      "Prisoner Total Positive": 561,
+      "Prisoner Total Positive": 562,
       "SCI": "MAHANOY"
     },
     {
       "All Cases": 554,
       "All Deaths": 6,
-      "Current Cases": 28,
+      "Current Cases": 26,
       "Guard Current Positive": 7,
       "Guard Total Positive": 260,
-      "Prisoner Current Positive": 21,
+      "Prisoner Current Positive": 19,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 294,
       "SCI": "MERCER"
     },
     {
-      "All Cases": 1065,
+      "All Cases": 1069,
       "All Deaths": 2,
-      "Current Cases": 96,
-      "Guard Current Positive": 46,
-      "Guard Total Positive": 408,
+      "Current Cases": 95,
+      "Guard Current Positive": 45,
+      "Guard Total Positive": 412,
       "Prisoner Current Positive": 50,
       "Prisoner Total Deaths": 2,
       "Prisoner Total Positive": 657,
       "SCI": "MUNCY"
     },
     {
-      "All Cases": 1085,
+      "All Cases": 1090,
       "All Deaths": 21,
-      "Current Cases": 54,
-      "Guard Current Positive": 6,
-      "Guard Total Positive": 674,
+      "Current Cases": 56,
+      "Guard Current Positive": 8,
+      "Guard Total Positive": 679,
       "Prisoner Current Positive": 48,
       "Prisoner Total Deaths": 21,
       "Prisoner Total Positive": 411,
       "SCI": "PHOENIX"
     },
     {
-      "All Cases": 472,
+      "All Cases": 476,
       "All Deaths": 2,
-      "Current Cases": 40,
-      "Guard Current Positive": 20,
-      "Guard Total Positive": 248,
+      "Current Cases": 42,
+      "Guard Current Positive": 22,
+      "Guard Total Positive": 252,
       "Prisoner Current Positive": 20,
       "Prisoner Total Deaths": 2,
       "Prisoner Total Positive": 224,
       "SCI": "PINE GROVE"
     },
     {
-      "All Cases": 486,
+      "All Cases": 488,
       "All Deaths": 0,
-      "Current Cases": 31,
-      "Guard Current Positive": 9,
-      "Guard Total Positive": 164,
+      "Current Cases": 33,
+      "Guard Current Positive": 11,
+      "Guard Total Positive": 166,
       "Prisoner Current Positive": 22,
       "Prisoner Total Deaths": 0,
       "Prisoner Total Positive": 322,
@@ -1559,45 +1559,45 @@
       "SCI": "RETREAT"
     },
     {
-      "All Cases": 823,
+      "All Cases": 824,
       "All Deaths": 2,
-      "Current Cases": 45,
-      "Guard Current Positive": 22,
+      "Current Cases": 42,
+      "Guard Current Positive": 18,
       "Guard Total Positive": 573,
-      "Prisoner Current Positive": 23,
+      "Prisoner Current Positive": 24,
       "Prisoner Total Deaths": 2,
-      "Prisoner Total Positive": 250,
+      "Prisoner Total Positive": 251,
       "SCI": "ROCKVIEW"
     },
     {
-      "All Cases": 2315,
+      "All Cases": 2321,
       "All Deaths": 6,
-      "Current Cases": 165,
-      "Guard Current Positive": 24,
-      "Guard Total Positive": 441,
-      "Prisoner Current Positive": 141,
+      "Current Cases": 158,
+      "Guard Current Positive": 21,
+      "Guard Total Positive": 442,
+      "Prisoner Current Positive": 137,
       "Prisoner Total Deaths": 6,
-      "Prisoner Total Positive": 1874,
+      "Prisoner Total Positive": 1879,
       "SCI": "SMITHFIELD"
     },
     {
-      "All Cases": 1087,
+      "All Cases": 1088,
       "All Deaths": 4,
-      "Current Cases": 95,
-      "Guard Current Positive": 55,
+      "Current Cases": 93,
+      "Guard Current Positive": 53,
       "Guard Total Positive": 385,
       "Prisoner Current Positive": 40,
       "Prisoner Total Deaths": 4,
-      "Prisoner Total Positive": 702,
+      "Prisoner Total Positive": 703,
       "SCI": "SOMERSET"
     },
     {
       "All Cases": 1367,
       "All Deaths": 16,
-      "Current Cases": 120,
+      "Current Cases": 118,
       "Guard Current Positive": 105,
       "Guard Total Positive": 486,
-      "Prisoner Current Positive": 15,
+      "Prisoner Current Positive": 13,
       "Prisoner Total Deaths": 16,
       "Prisoner Total Positive": 881,
       "SCI": "WAYMART"
