@@ -1,5 +1,5 @@
 {
-  "date": "2022-03-16",
+  "date": "2022-03-17",
   "jailChangeData": [
     {
       "april20": 157.0,
@@ -834,10 +834,10 @@
     },
     {
       "county": "Lehigh",
-      "date": "5/4/2021",
+      "date": "3/2/2022",
       "fips": "42077",
-      "source": "https://www.mcall.com/news/police/mc-nws-northampton-jail-inmates-covid-vaccine-20210504-codkpnhk6nfpvioirlgzm4rf2u-story.html",
-      "source_name": "The Morning Call"
+      "source": "https://www.lehighvalleylive.com/coronavirus/2022/03/masks-no-longer-required-in-pa-state-prisons-what-are-lehigh-valley-jails-doing.html",
+      "source_name": "Lehigh Valley Live"
     },
     {
       "county": "Lycoming",
@@ -1339,11 +1339,11 @@
       "SCI": "ALBION"
     },
     {
-      "All Cases": 833,
+      "All Cases": 834,
       "All Deaths": 11,
-      "Current Cases": 1,
-      "Guard Current Positive": 1,
-      "Guard Total Positive": 426,
+      "Current Cases": 2,
+      "Guard Current Positive": 2,
+      "Guard Total Positive": 427,
       "Prisoner Current Positive": 0,
       "Prisoner Total Deaths": 11,
       "Prisoner Total Positive": 407,
@@ -1363,10 +1363,10 @@
     {
       "All Cases": 1597,
       "All Deaths": 5,
-      "Current Cases": 21,
+      "Current Cases": 16,
       "Guard Current Positive": 3,
       "Guard Total Positive": 479,
-      "Prisoner Current Positive": 18,
+      "Prisoner Current Positive": 13,
       "Prisoner Total Deaths": 5,
       "Prisoner Total Positive": 1118,
       "SCI": "CAMP HILL"
@@ -1405,11 +1405,11 @@
       "SCI": "DALLAS"
     },
     {
-      "All Cases": 589,
+      "All Cases": 592,
       "All Deaths": 6,
       "Current Cases": 3,
       "Guard Current Positive": 2,
-      "Guard Total Positive": 379,
+      "Guard Total Positive": 382,
       "Prisoner Current Positive": 1,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 210,
@@ -1572,10 +1572,10 @@
     {
       "All Cases": 2472,
       "All Deaths": 6,
-      "Current Cases": 17,
+      "Current Cases": 16,
       "Guard Current Positive": 4,
       "Guard Total Positive": 457,
-      "Prisoner Current Positive": 13,
+      "Prisoner Current Positive": 12,
       "Prisoner Total Deaths": 6,
       "Prisoner Total Positive": 2015,
       "SCI": "SMITHFIELD"
